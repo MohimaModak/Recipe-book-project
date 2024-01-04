@@ -7,6 +7,7 @@ import "./index.css";
 import Root from "./Component/Root/Root.jsx";
 import Home from "./Component/Home/Home.jsx";
 import AddRecipe from "./Component/AddRecipe/AddRecipe.jsx";
+import Recipes from "./Component/Recipes/Recipes.jsx";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,11 @@ const router = createBrowserRouter([
       {
         path: "/addrecipe",
         element: <AddRecipe></AddRecipe>,
+      },
+      {
+        path: "/recipes",
+        element: <Recipes></Recipes>,
+        loader: () => fetch('http://localhost:4000/addRecipe')
       },
     ],
   },

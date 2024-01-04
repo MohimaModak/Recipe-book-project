@@ -13,11 +13,19 @@ const Navbar = () => {
         </NavLink>
         <NavLink
           to="/addrecipe"
+          className={`pr-5 ({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""`
+          }
+        >
+          Add-Recipe
+        </NavLink>
+        <NavLink
+          to="/recipes"
           className={({ isActive, isPending }) =>
             isPending ? "pending" : isActive ? "active" : ""
           }
         >
-          Add-Recipe
+          Recipes
         </NavLink>
       </div>
     </div>

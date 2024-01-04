@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
+import video from "../../assets/Gallery/nodols.mp4";
 import axios from "axios";
 import Swal from "sweetalert2";
-import { IoClose } from "react-icons/io5";
-import { GiCook } from "react-icons/gi";
 
 const AddRecipe = () => {
   const handleAddRecipe = (e) => {
@@ -10,9 +9,20 @@ const AddRecipe = () => {
 
     const name = e.target.name.value;
     const photo = e.target.photo.value;
-    const description = e.target.description.value;
+    const ingredients = e.target.ingredients.value;
+    const instructions = e.target.instructions.value;
     const duration = e.target.duration.value;
-    const addedRecipe = { name, photo, description, duration };
+    const hour = e.target.hour.value;
+    const minute = e.target.minute.value;
+    const addedRecipe = {
+      name,
+      photo,
+      ingredients,
+      instructions,
+      hour,
+      minute,
+      duration,
+    };
     console.log(addedRecipe);
 
     axios.post("http://localhost:4000/addRecipe", addedRecipe).then((data) => {
@@ -25,22 +35,22 @@ const AddRecipe = () => {
     });
   };
 
-  const [show, setShow] = useState(true);
-
-  const handleShow = () => {
-    setShow(!show);
-  };
-
   return (
-    <div className="m-10">
-      <div onClick={handleShow()}>
-        {show == true ? (
-          <GiCook>
-            {" "}
-            <form
-              onSubmit={handleAddRecipe}
-              className=" font-semibold background"
-            >
+    <div>
+      <div className="video-container relative">
+        <div>
+          <video autoPlay loop muted playsInline className="video">
+            <source src={video} className="video w-full" />
+          </video>
+          <div className="outline-violet-400"></div>
+        </div>
+
+        <div className="absolute flex justify-center items-center inset-0">
+          <form
+            onSubmit={handleAddRecipe}
+            className=" font-semibold background"
+          >
+            <div className="flex justify-center items-center gap-5">
               <div className="form-control">
                 <label className="label ">
                   <span className="label-text text-white">Recipe name</span>
@@ -52,6 +62,7 @@ const AddRecipe = () => {
                   className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
                 />
               </div>
+
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-white">Photo</span>
@@ -60,49 +71,81 @@ const AddRecipe = () => {
                   type="text"
                   placeholder="photo"
                   name="photo"
-                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  className="input input-bordered "
                   required
                 />
-              </div>{" "}
+              </div>
+            </div>
+            <div className="flex justify-center items-center gap-5">
+              {" "}
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Description</span>
+                  <span className="label-text text-white">Ingredients</span>
                 </label>
                 <input
                   type="text"
-                  placeholder="description"
-                  name="description"
-                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  placeholder="ingredients"
+                  name="ingredients"
+                  className="input input-bordered "
                   required
                 />
               </div>
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-white">Duration</span>
+                  {/* <select
+                    name="
+                  "
+                    id=""
+                  >
+                    <option value="Hour" name="hour">
+                      Hour
+                    </option>
+                    <option value="Minute" name="minute">
+                      Minute
+                    </option>
+                  </select> */}
+                </label>
+                <input
+                  type="number"
+                  placeholder="duration"
+                  name="duration"
+                  className="input input-bordered "
+                  required
+                />
+              </div>
+            </div>
+
+            <div className="flex justify-center items-center gap-5">
+              <div className="form-control">
+                <label className="label">
+                  <span className="label-text text-white">Instructions</span>
                 </label>
                 <input
                   type="text"
-                  placeholder="duration"
-                  name="duration"
-                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  placeholder="instructions"
+                  name="instructions"
+                  className="input input-bordered "
                   required
                 />
-              </div>{" "}
+              </div>
+
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-white">Submit</span>
                 </label>
                 <input
-                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
                   type="submit"
                   value="Submit"
+                  placeholder="submit"
+                  name="submit"
+                  className="input input-bordered "
+                  required
                 />
               </div>
-            </form>
-          </GiCook>
-        ) : (
-          <IoClose></IoClose>
-        )}
+            </div>
+          </form>
+        </div>
       </div>
     </div>
   );
