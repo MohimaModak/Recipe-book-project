@@ -3,10 +3,12 @@ import Navbar from "../Navbar/Navbar";
 
 const Root = () => {
   return (
-    <div className="m-10">
-      {" "}
-      <Navbar></Navbar>
-      <Outlet></Outlet>
+    <div className=" bg-white">
+      <div className="m-10">
+        {" "}
+        <Navbar></Navbar>
+        <Outlet></Outlet>
+      </div>
     </div>
   );
 };
