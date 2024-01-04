@@ -1,5 +1,8 @@
-import React from "react";
-import video from "../../assets/Gallery/nodols.mp4";
+import React, { useState } from "react";
+import axios from "axios";
+import Swal from "sweetalert2";
+import { IoClose } from "react-icons/io5";
+import { GiCook } from "react-icons/gi";
 
 const AddRecipe = () => {
   const handleAddRecipe = (e) => {
@@ -11,95 +14,95 @@ const AddRecipe = () => {
     const duration = e.target.duration.value;
     const addedRecipe = { name, photo, description, duration };
     console.log(addedRecipe);
+
+    axios.post("http://localhost:4000/addRecipe", addedRecipe).then((data) => {
+      console.log(data.data);
+      Swal.fire({
+        title: "Wow",
+        text: "Successfully added",
+        confirmButtonText: "Okay",
+      });
+    });
+  };
+
+  const [show, setShow] = useState(true);
+
+  const handleShow = () => {
+    setShow(!show);
   };
 
   return (
-    <div>
-      <div className="video-container relative">
-        <div>
-          <video autoPlay loop muted playsInline className="video">
-            <source src={video} className="video w-full" />
-          </video>
-          <div className="outline-violet-400"></div>
-        </div>
-
-        <div className="absolute flex justify-center items-center inset-0">
-          <form
-            onSubmit={handleAddRecipe}
-            className=" font-semibold background"
-          >
-            <div className="flex justify-center items-center gap-5">
-              <div>
-                <div className="form-control">
-                  <label className="label ">
-                    <span className="label-text text-white">Recipe name</span>
-                  </label>
-                  <input
-                    type="text"
-                    placeholder="name"
-                    name="name"
-                    className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
-                  />
-                </div>
-
-                <div className="form-control">
-                  <label className="label">
-                    <span className="label-text text-white">Photo</span>
-                  </label>
-                  <input
-                    type="text"
-                    placeholder="photo"
-                    name="photo"
-                    className="input input-bordered "
-                    required
-                  />
-                </div>
+    <div className="m-10">
+      <div onClick={handleShow()}>
+        {show == true ? (
+          <GiCook>
+            {" "}
+            <form
+              onSubmit={handleAddRecipe}
+              className=" font-semibold background"
+            >
+              <div className="form-control">
+                <label className="label ">
+                  <span className="label-text text-white">Recipe name</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="name"
+                  name="name"
+                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                />
               </div>
-            </div>
-            <div className="flex justify-center items-center gap-5">
-              {" "}
-              <div>
-                <div className="form-control">
-                  <label className="label">
-                    <span className="label-text text-white">Description</span>
-                  </label>
-                  <input
-                    type="text"
-                    placeholder="description"
-                    name="description"
-                    className="input input-bordered "
-                    required
-                  />
-                </div>
-                <div className="form-control">
-                  <label className="label">
-                    <span className="label-text text-white">Duration</span>
-                  </label>
-                  <input
-                    type="text"
-                    placeholder="duration"
-                    name="duration"
-                    className="input input-bordered "
-                    required
-                  />
-                </div>{" "}
+              <div className="form-control">
+                <label className="label">
+                  <span className="label-text text-white">Photo</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="photo"
+                  name="photo"
+                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  required
+                />
+              </div>{" "}
+              <div className="form-control">
+                <label className="label">
+                  <span className="label-text text-white">Description</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="description"
+                  name="description"
+                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  required
+                />
               </div>
-            </div>
-
-            <div>
+              <div className="form-control">
+                <label className="label">
+                  <span className="label-text text-white">Duration</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="duration"
+                  name="duration"
+                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  required
+                />
+              </div>{" "}
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-white">Submit</span>
                 </label>
                 <input
-                  className="input input-bordered"
+                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
                   type="submit"
                   value="Submit"
                 />
               </div>
-            </div>
-          </form>
-        </div>
+            </form>
+          </GiCook>
+        ) : (
+          <IoClose></IoClose>
+        )}
       </div>
     </div>
   );

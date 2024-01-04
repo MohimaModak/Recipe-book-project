@@ -2,7 +2,7 @@ import Marquee from "react-fast-marquee";
 import "./Home.css";
 const Home = () => {
   return (
-    <div className="grid grid-cols-3 gap-7 items-center">
+    <div className="grid grid-cols-3 gap-7 items-center m-10">
       <Marquee speed={100}>
        
         <img
