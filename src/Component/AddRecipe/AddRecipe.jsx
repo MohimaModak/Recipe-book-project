@@ -12,15 +12,13 @@ const AddRecipe = () => {
     const ingredients = e.target.ingredients.value;
     const instructions = e.target.instructions.value;
     const duration = e.target.duration.value;
-    const hour = e.target.hour.value;
-    const minute = e.target.minute.value;
+
     const addedRecipe = {
       name,
       photo,
       ingredients,
       instructions,
-      hour,
-      minute,
+
       duration,
     };
     console.log(addedRecipe);
@@ -93,18 +91,6 @@ const AddRecipe = () => {
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-white">Duration</span>
-                  {/* <select
-                    name="
-                  "
-                    id=""
-                  >
-                    <option value="Hour" name="hour">
-                      Hour
-                    </option>
-                    <option value="Minute" name="minute">
-                      Minute
-                    </option>
-                  </select> */}
                 </label>
                 <input
                   type="number"
