@@ -2,7 +2,7 @@
   {
     "country": "Italy",
     "food_name": "Spaghetti Bolognese",
-    "food_image": "image_link_italy",
+    "food_image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=1384&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "1 lb ground beef",
       "1 onion, finely chopped",
@@ -30,7 +30,7 @@
   {
     "country": "Japan",
     "food_name": "Sushi",
-    "food_image": "image_link_japan",
+    "food_image": "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "2 cups sushi rice",
       "1/2 cup rice vinegar",
@@ -52,7 +52,7 @@
   {
     "country": "France",
     "food_name": "Croissant",
-    "food_image": "image_link_france",
+    "food_image": "https://images.pexels.com/photos/3724/food-morning-breakfast-orange-juice.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": [
       "2 1/4 teaspoons active dry yeast",
       "1 1/4 cups warm milk",
@@ -73,7 +73,7 @@
   {
     "country": "Mexico",
     "food_name": "Tacos",
-    "food_image": "image_link_mexico",
+    "food_image": "https://images.pexels.com/photos/8230030/pexels-photo-8230030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": [
       "1 lb ground beef or shredded chicken",
       "1 onion, diced",
@@ -94,7 +94,7 @@
   {
     "country": "Thailand",
     "food_name": "Pad Thai",
-    "food_image": "image_link_thailand",
+    "food_image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "8 oz rice noodles",
       "2 tablespoons vegetable oil",
@@ -117,7 +117,7 @@
   {
     "country": "India",
     "food_name": "Chicken Curry",
-    "food_image": "image_link_india",
+    "food_image": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": [
       "1 lb chicken, cut into pieces",
       "2 onions, finely chopped",
@@ -146,7 +146,7 @@
   {
     "country": "Bangladesh",
     "food_name": "Rice and Fish Curry (Bhapa Ilish)",
-    "food_image": "image_link_bangladesh",
+    "food_image": "https://media.istockphoto.com/id/1338474276/photo/hilsa-fish-with-rice-famous-bengali-food.webp?b=1&s=170667a&w=0&k=20&c=jJ9XaFT47Is0k69kJZZXenj3gUZyr7JYRkNRZznSiTI=",
     "ingredients": [
       "500g Hilsa fish fillets",
       "1 cup mustard paste",
@@ -171,7 +171,7 @@
   {
     "country": "USA",
     "food_name": "Hamburger with Fries",
-    "food_image": "image_link_usa",
+    "food_image": "https://images.pexels.com/photos/3620233/pexels-photo-3620233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "ingredients": [
       "1 lb ground beef",
       "Salt and pepper to taste",
@@ -197,7 +197,7 @@
   {
     "country": "Denmark",
     "food_name": "Smørrebrød",
-    "food_image": "image_link_denmark_smorrebrod",
+    "food_image": "https://images.unsplash.com/photo-1665060221940-a52b0c05d225?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "Dark rye bread slices",
       "Butter",
@@ -222,7 +222,7 @@
   {
     "country": "Australia",
     "food_name": "Pavlova",
-    "food_image": "image_link_australia_pavlova",
+    "food_image": "https://images.unsplash.com/photo-1641848373324-bc744c442d5b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "4 large egg whites, at room temperature",
       "1 cup caster sugar",
@@ -247,7 +247,7 @@
   {
     "country": "Canada",
     "food_name": "Poutine",
-    "food_image": "image_link_canada_poutine",
+    "food_image": "https://media.istockphoto.com/id/452682759/photo/close-up-photo-of-poutine-in-a-white-bowl-with-fork.jpg?b=1&s=612x612&w=0&k=20&c=yC35-bP3PcsI5BQASTkUjjXPS3vWJ67MvI0JRrlssHQ=",
     "ingredients": [
       "4 cups of frozen french fries",
       "1 1/2 cups cheese curds",
@@ -271,7 +271,7 @@
   {
     "country": "Germany",
     "food_name": "Sauerbraten",
-    "food_image": "image_link_germany_sauerbraten",
+    "food_image": "https://media.istockphoto.com/id/89348602/photo/beef.webp?b=1&s=170667a&w=0&k=20&c=t0HK4kig62GYQ9dkKucYgIAXQGpqle5UCyXgkfWmrCQ=",
     "ingredients": [
       "2-3 pounds beef roast (usually rump or chuck)",
       "1 cup red wine vinegar",
@@ -305,7 +305,7 @@
   {
     "country": "Finland",
     "food_name": "Karjalanpiirakka (Karelian Pasty)",
-    "food_image": "image_link_finland_karelian_pasty",
+    "food_image": "https://images.unsplash.com/photo-1562513872-634b8fae6dbe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "ingredients": [
       "For the dough:",
       "2 cups rye flour",

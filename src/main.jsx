@@ -29,6 +29,10 @@ const router = createBrowserRouter([
         loader: () => fetch("http://localhost:4000/addRecipe"),
       },
       {
+        path: "/countryWiseFood",
+        element: <Recipes></Recipes>,
+      },
+      {
         path: "/edit/:id",
         element: <Edit></Edit>,
         loader: ({ params }) =>
