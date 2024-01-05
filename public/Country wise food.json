@@ -1,0 +1,340 @@
+[
+  {
+    "country": "Italy",
+    "food_name": "Spaghetti Bolognese",
+    "food_image": "image_link_italy",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 can (14 oz) crushed tomatoes",
+      "1/2 cup tomato paste",
+      "1 cup beef broth",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "1/2 teaspoon dried thyme",
+      "Salt and pepper to taste",
+      "2 tablespoons olive oil",
+      "1 lb spaghetti",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "Heat olive oil and sauté onions and garlic.",
+      "Add ground beef, cook until browned.",
+      "Stir in tomatoes, tomato paste, and broth.",
+      "Season with herbs, salt, and pepper.",
+      "Simmer, then serve over cooked spaghetti with Parmesan."
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Sushi",
+    "food_image": "image_link_japan",
+    "ingredients": [
+      "2 cups sushi rice",
+      "1/2 cup rice vinegar",
+      "1/4 cup sugar",
+      "1 teaspoon salt",
+      "Nori (seaweed) sheets",
+      "Fresh fish slices (salmon, tuna, etc.)",
+      "Avocado, cucumber, and other fillings",
+      "Soy sauce and wasabi for serving"
+    ],
+    "instructions": [
+      "Cook sushi rice and season with vinegar, sugar, and salt.",
+      "Place a nori sheet on a bamboo rolling mat.",
+      "Spread rice on the nori, add fillings, and roll tightly.",
+      "Slice into bite-sized pieces and serve with soy sauce and wasabi."
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "France",
+    "food_name": "Croissant",
+    "food_image": "image_link_france",
+    "ingredients": [
+      "2 1/4 teaspoons active dry yeast",
+      "1 1/4 cups warm milk",
+      "1/4 cup granulated sugar",
+      "3 1/2 cups all-purpose flour",
+      "1 teaspoon salt",
+      "1 cup unsalted butter, chilled",
+      "Egg wash (1 egg beaten with 1 tablespoon water)"
+    ],
+    "instructions": [
+      "Mix yeast, warm milk, and sugar. Let it sit until frothy.",
+      "Combine flour and salt, then add the yeast mixture.",
+      "Roll out dough, fold with butter, and refrigerate.",
+      "Roll, cut, shape, and let rise. Bake until golden brown."
+    ],
+    "duration": "3 hours"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Tacos",
+    "food_image": "image_link_mexico",
+    "ingredients": [
+      "1 lb ground beef or shredded chicken",
+      "1 onion, diced",
+      "2 tomatoes, diced",
+      "Shredded lettuce",
+      "Cheddar cheese, grated",
+      "Taco seasoning",
+      "Taco shells",
+      "Salsa and sour cream for topping"
+    ],
+    "instructions": [
+      "Cook meat with taco seasoning until browned.",
+      "Warm taco shells in the oven.",
+      "Assemble tacos with meat, veggies, cheese, salsa, and sour cream."
+    ],
+    "duration": "25 minutes"
+  },
+  {
+    "country": "Thailand",
+    "food_name": "Pad Thai",
+    "food_image": "image_link_thailand",
+    "ingredients": [
+      "8 oz rice noodles",
+      "2 tablespoons vegetable oil",
+      "1 lb shrimp, chicken, or tofu",
+      "2 eggs, beaten",
+      "1 cup bean sprouts",
+      "3 green onions, chopped",
+      "1/2 cup peanuts, chopped",
+      "Lime wedges for serving",
+      "Pad Thai sauce (tamarind paste, fish sauce, sugar)"
+    ],
+    "instructions": [
+      "Soak rice noodles in hot water until softened.",
+      "Stir-fry protein in oil, push to the side, and scramble eggs.",
+      "Add noodles, sauce, bean sprouts, and green onions. Toss to combine.",
+      "Serve hot, garnished with peanuts and lime wedges."
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "India",
+    "food_name": "Chicken Curry",
+    "food_image": "image_link_india",
+    "ingredients": [
+      "1 lb chicken, cut into pieces",
+      "2 onions, finely chopped",
+      "3 tomatoes, pureed",
+      "1/4 cup plain yogurt",
+      "3 cloves garlic, minced",
+      "1-inch ginger, grated",
+      "2 teaspoons curry powder",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon cumin powder",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon red chili powder",
+      "Salt to taste",
+      "2 tablespoons vegetable oil",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "In a pan, heat oil and sauté onions until golden brown.",
+      "Add garlic and ginger, cook until fragrant.",
+      "Add chicken pieces and brown on all sides.",
+      "Stir in tomato puree, yogurt, and spices. Simmer until chicken is cooked.",
+      "Garnish with fresh cilantro and serve with rice or naan."
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Rice and Fish Curry (Bhapa Ilish)",
+    "food_image": "image_link_bangladesh",
+    "ingredients": [
+      "500g Hilsa fish fillets",
+      "1 cup mustard paste",
+      "1 tablespoon poppy seed paste",
+      "1 tablespoon yogurt",
+      "2 green chilies, finely chopped",
+      "1 teaspoon turmeric powder",
+      "Salt to taste",
+      "Mustard oil for cooking",
+      "Banana leaves for wrapping"
+    ],
+    "instructions": [
+      "Clean and marinate fish fillets with turmeric and salt.",
+      "Mix mustard paste, poppy seed paste, yogurt, green chilies, and salt.",
+      "Coat fish with the mustard mixture.",
+      "Wrap the marinated fish in banana leaves and tie securely.",
+      "Steam or bake the wrapped fish until cooked through.",
+      "Heat mustard oil and pour it over the fish before serving."
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "Hamburger with Fries",
+    "food_image": "image_link_usa",
+    "ingredients": [
+      "1 lb ground beef",
+      "Salt and pepper to taste",
+      "4 hamburger buns",
+      "Lettuce leaves",
+      "Tomato slices",
+      "Onion slices",
+      "Cheese slices (optional)",
+      "Ketchup and mustard for topping",
+      "1 lb potatoes, cut into fries",
+      "2 tablespoons olive oil",
+      "Salt and paprika for fries seasoning"
+    ],
+    "instructions": [
+      "Divide ground beef into four patties, season with salt and pepper.",
+      "Cook the patties on a grill or stovetop until desired doneness.",
+      "Toast hamburger buns and assemble burgers with lettuce, tomato, onion, and cheese.",
+      "Bake potato fries with olive oil, salt, and paprika until golden brown.",
+      "Serve hamburgers with fries, ketchup, and mustard."
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Denmark",
+    "food_name": "Smørrebrød",
+    "food_image": "image_link_denmark_smorrebrod",
+    "ingredients": [
+      "Dark rye bread slices",
+      "Butter",
+      "Herring fillets, pickled",
+      "Eggs, hard-boiled and sliced",
+      "Remoulade sauce",
+      "Roast beef slices",
+      "Cucumber, thinly sliced",
+      "Red onion, thinly sliced",
+      "Fresh dill for garnish"
+    ],
+    "instructions": [
+      "Spread butter on dark rye bread slices.",
+      "Top with pickled herring fillets and sliced hard-boiled eggs.",
+      "Add a dollop of remoulade sauce on top.",
+      "Layer with roast beef slices, cucumber, and red onion.",
+      "Garnish with fresh dill.",
+      "Serve the Smørrebrød open-faced and enjoy!"
+    ],
+    "duration": "15 minutes"
+  },
+  {
+    "country": "Australia",
+    "food_name": "Pavlova",
+    "food_image": "image_link_australia_pavlova",
+    "ingredients": [
+      "4 large egg whites, at room temperature",
+      "1 cup caster sugar",
+      "1 teaspoon white vinegar",
+      "1 teaspoon vanilla extract",
+      "1 tablespoon cornstarch",
+      "Whipped cream for topping",
+      "Fresh fruits (berries, kiwi, passionfruit) for topping"
+    ],
+    "instructions": [
+      "Preheat the oven to 300°F (150°C) and line a baking tray with parchment paper.",
+      "In a clean, dry bowl, beat egg whites until stiff peaks form.",
+      "Gradually add caster sugar, one tablespoon at a time, while continuing to beat.",
+      "Fold in vinegar, vanilla extract, and cornstarch gently.",
+      "Pile the meringue onto the prepared tray, forming a nest shape.",
+      "Bake in the preheated oven for about 1 hour or until the pavlova is crisp on the outside.",
+      "Let it cool completely before topping with whipped cream and fresh fruits.",
+      "Serve and enjoy this classic Australian dessert!"
+    ],
+    "duration": "1 hour and 30 minutes"
+  },
+  {
+    "country": "Canada",
+    "food_name": "Poutine",
+    "food_image": "image_link_canada_poutine",
+    "ingredients": [
+      "4 cups of frozen french fries",
+      "1 1/2 cups cheese curds",
+      "Gravy:",
+      "2 tablespoons unsalted butter",
+      "2 tablespoons all-purpose flour",
+      "2 cups beef or chicken broth",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Bake or fry the frozen french fries until golden and crispy.",
+      "In a saucepan, melt butter over medium heat. Add flour and cook, stirring constantly, until it forms a paste.",
+      "Gradually whisk in the broth, continuing to stir to avoid lumps.",
+      "Simmer the gravy until it thickens. Season with salt and pepper to taste.",
+      "Place a generous amount of fries on a serving plate, sprinkle with cheese curds, and pour hot gravy over the top.",
+      "Serve immediately, allowing the cheese to melt into the fries.",
+      "Enjoy this delicious Canadian comfort food - Poutine!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Germany",
+    "food_name": "Sauerbraten",
+    "food_image": "image_link_germany_sauerbraten",
+    "ingredients": [
+      "2-3 pounds beef roast (usually rump or chuck)",
+      "1 cup red wine vinegar",
+      "1 cup water",
+      "1 large onion, sliced",
+      "2 carrots, sliced",
+      "2 cloves garlic, minced",
+      "10-12 whole peppercorns",
+      "4 cloves",
+      "2 bay leaves",
+      "Salt and pepper to taste",
+      "2 tablespoons vegetable oil",
+      "2 tablespoons all-purpose flour",
+      "1/4 cup red currant jelly",
+      "Gingersnap cookies for thickening (optional)"
+    ],
+    "instructions": [
+      "In a large bowl, mix red wine vinegar, water, onion, carrots, garlic, peppercorns, cloves, bay leaves, salt, and pepper.",
+      "Place the beef roast in the marinade, cover, and refrigerate for 2-3 days, turning occasionally.",
+      "Remove the beef from the marinade and pat dry. Strain and reserve the marinade.",
+      "In a Dutch oven, heat vegetable oil and brown the beef on all sides. Remove and set aside.",
+      "Stir in flour to make a roux. Gradually add the reserved marinade, stirring constantly to avoid lumps.",
+      "Add red currant jelly and bring the mixture to a simmer. Return the beef to the pot.",
+      "Cover and simmer on low heat for 2-3 hours until the meat is tender.",
+      "If desired, crumble gingersnap cookies into the gravy to thicken it.",
+      "Slice the Sauerbraten and serve with the rich gravy.",
+      "Enjoy this classic German dish with sides like red cabbage and potato dumplings!"
+    ],
+    "duration": "3 days marinating + 3 hours cooking"
+  },
+  {
+    "country": "Finland",
+    "food_name": "Karjalanpiirakka (Karelian Pasty)",
+    "food_image": "image_link_finland_karelian_pasty",
+    "ingredients": [
+      "For the dough:",
+      "2 cups rye flour",
+      "1 cup all-purpose flour",
+      "1/2 teaspoon salt",
+      "1 cup water",
+      "For the rice filling:",
+      "1 cup short-grain rice, cooked",
+      "2 tablespoons butter",
+      "Salt to taste",
+      "For the potato filling:",
+      "3 medium potatoes, boiled and mashed",
+      "2 tablespoons butter",
+      "Salt to taste",
+      "For egg butter:",
+      "2 hard-boiled eggs, chopped",
+      "4 tablespoons butter, softened",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a bowl, mix rye flour, all-purpose flour, and salt. Gradually add water, kneading until a smooth dough forms. Let it rest for 30 minutes.",
+      "Divide the dough into small balls and roll each ball into a thin, flat round shape.",
+      "For the rice filling, mix cooked rice with butter and salt. For the potato filling, mix mashed potatoes with butter and salt.",
+      "Place a spoonful of either rice or potato filling on each dough round, fold, and crimp the edges to seal.",
+      "Bake in a preheated oven at 475°F (245°C) for about 15 minutes or until golden brown.",
+      "For the egg butter, mix chopped hard-boiled eggs with softened butter and salt.",
+      "Serve the Karelian pasties warm with a dollop of egg butter.",
+      "Enjoy this traditional Finnish pastry, Karjalanpiirakka!"
+    ],
+    "duration": "1 hour"
+  }
+]
