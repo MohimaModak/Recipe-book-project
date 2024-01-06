@@ -1,6 +1,7 @@
 import Marquee from "react-fast-marquee";
 import "./Home.css";
 import CountryWiseFood from "../CountryWiseFood/CountryWiseFood";
+import CountryInput from "../CountryInput/CountryInput";
 const Home = () => {
   return (
     <div>
@@ -49,7 +50,9 @@ const Home = () => {
             />
           </Marquee>
 
-          <h1 className="text-center font text-3xl font-medium lg:text-6xl p-3">Recipe Book</h1>
+          <h1 className="text-center font text-3xl font-medium lg:text-6xl p-3">
+            Recipe Book
+          </h1>
 
           <Marquee speed={100}>
             <img
@@ -95,7 +98,16 @@ const Home = () => {
           />
         </Marquee>
       </div>
-      <CountryWiseFood></CountryWiseFood>
+
+      <div className="flex gap-5 mt-16">
+        <div className="border rounded-md">
+          <CountryInput></CountryInput>
+        </div>
+        <div >
+          <CountryWiseFood></CountryWiseFood>
+        </div>
+      </div>
+
     </div>
   );
 };
