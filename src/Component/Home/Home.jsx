@@ -99,15 +99,14 @@ const Home = () => {
         </Marquee>
       </div>
 
-      <div className="flex gap-5 mt-16">
-        <div className="border rounded-md">
+      <div className="mt-20">
+        <div className="">
           <CountryInput></CountryInput>
         </div>
-        <div >
+        <div>
           <CountryWiseFood></CountryWiseFood>
         </div>
       </div>
-
     </div>
   );
 };
