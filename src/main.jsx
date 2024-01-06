@@ -9,6 +9,7 @@ import Home from "./Component/Home/Home.jsx";
 import AddRecipe from "./Component/AddRecipe/AddRecipe.jsx";
 import Recipes from "./Component/Recipes/Recipes.jsx";
 import Edit from "./Component/Edit/Edit.jsx";
+import CountryFoodDetails from "./Component/CountryFoodDetails/CountryFoodDetails.jsx";
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,12 @@ const router = createBrowserRouter([
       {
         path: "/countryWiseFood",
         element: <Recipes></Recipes>,
+      },
+      {
+        path: "/countryFoodKid/:country",
+        element: <CountryFoodDetails></CountryFoodDetails>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/countryFoodKid/${params.country}`),
       },
       {
         path: "/edit/:id",

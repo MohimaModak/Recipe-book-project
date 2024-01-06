@@ -1,0 +1,1452 @@
+[
+  {
+    "country": "India",
+    "food_name": "Paneer Tikka",
+    "food_image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "250g paneer cubes",
+      "1 cup thick yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "2 tablespoons gram flour",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon red chili powder",
+      "1 teaspoon garam masala",
+      "1 tablespoon lemon juice",
+      "Salt to taste",
+      "1 bell pepper, cut into chunks",
+      "1 onion, cut into rings",
+      "2 tablespoons oil",
+      "Skewers for grilling"
+    ],
+    "instructions": [
+      "In a bowl, mix yogurt, ginger-garlic paste, gram flour, turmeric powder, red chili powder, garam masala, lemon juice, and salt to make the marinade.",
+      "Add paneer cubes, bell pepper, and onion to the marinade. Coat them well and let it marinate for at least 1 hour.",
+      "Thread marinated paneer, bell pepper, and onion onto skewers.",
+      "Heat oil on a grill pan or barbecue. Grill the skewers until the paneer is golden brown and vegetables are cooked.",
+      "Serve hot with mint chutney and lemon wedges."
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "India",
+    "food_name": "Masala Dosa",
+    "food_image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 cups rice",
+      "1/2 cup urad dal (black gram)",
+      "1/4 cup chana dal (split chickpeas)",
+      "1/2 teaspoon fenugreek seeds",
+      "Salt to taste",
+      "Potato filling:",
+      "4 large potatoes, boiled and mashed",
+      "1 onion, finely chopped",
+      "2 green chilies, chopped",
+      "1/2 teaspoon mustard seeds",
+      "1/2 teaspoon cumin seeds",
+      "A pinch of asafoetida (hing)",
+      "Curry leaves",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Soak rice, urad dal, chana dal, and fenugreek seeds in water for 6-8 hours.",
+      "Grind the soaked ingredients into a smooth batter. Add salt and let it ferment overnight.",
+      "For the potato filling, heat oil in a pan. Add mustard seeds, cumin seeds, hing, and curry leaves.",
+      "Add chopped onions and green chilies. Sauté until onions are golden brown.",
+      "Add mashed potatoes, salt, and mix well. Cook for a few minutes and set aside.",
+      "Heat a griddle or non-stick pan. Pour a ladle of batter and spread it into a thin, round dosa.",
+      "Spread a layer of the potato filling on one half of the dosa and fold it over.",
+      "Serve hot with coconut chutney and sambar."
+    ],
+    "duration": "12 hours (including fermentation)"
+  },
+  {
+    "country": "India",
+    "food_name": "Chicken Curry",
+    "food_image": "https://images.pexels.com/photos/7353487/pexels-photo-7353487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 kg chicken, cut into pieces",
+      "2 large onions, finely chopped",
+      "3 tomatoes, pureed",
+      "1/2 cup yogurt",
+      "3 tablespoons ginger-garlic paste",
+      "2 teaspoons cumin powder",
+      "2 teaspoons coriander powder",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon red chili powder",
+      "1/2 teaspoon garam masala",
+      "Handful of fresh coriander leaves, chopped",
+      "Salt to taste",
+      "3 tablespoons cooking oil"
+    ],
+    "instructions": [
+      "In a pan, heat oil and sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste and cook until the raw smell disappears.",
+      "Add chicken pieces and brown them on all sides.",
+      "Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+      "Pour in the tomato puree and cook until the oil separates from the masala.",
+      "Add yogurt and garam masala. Stir and let it simmer until the chicken is cooked through.",
+      "Garnish with fresh coriander leaves and serve hot with rice or naan."
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "India",
+    "food_name": "Palak Paneer",
+    "food_image": "https://media.istockphoto.com/id/1226369702/photo/vegetarian-palak-paneer.jpg?s=612x612&w=0&k=20&c=1zy38vng4MmJErcEdss7efgaIU1klWWZhzTAwxo-Vn4=",
+    "ingredients": [
+      "250g paneer cubes",
+      "4 cups spinach, washed and chopped",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1/2 cup cream",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon garam masala",
+      "2 tablespoons cooking oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Blanch the chopped spinach in hot water for 2 minutes. Drain and blend into a smooth paste.",
+      "In a pan, heat oil and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook until the raw smell disappears.",
+      "Add tomato puree, coriander powder, turmeric powder, and salt. Cook until the oil separates from the masala.",
+      "Add spinach puree and cook for a few minutes. Add cream and mix well.",
+      "Add paneer cubes and garam masala. Simmer for 10 minutes until the flavors blend.",
+      "Serve hot with naan or rice."
+    ],
+    "duration": "1 hour"
+  },
+  {
+    "country": "India",
+    "food_name": "Katol macher jhol",
+    "food_image": "https://images.unsplash.com/photo-1574484284002-952d92456975?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "2 cups cauliflower florets",
+      "2 potatoes, peeled and diced",
+      "1 large onion, finely chopped",
+      "2 tomatoes, chopped",
+      "1/2 cup peas",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon red chili powder",
+      "1/2 teaspoon garam masala",
+      "2 tablespoons cooking oil",
+      "Fresh coriander leaves for garnish",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a pan, heat oil and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook until the raw smell disappears.",
+      "Add chopped tomatoes and cook until they become soft and the oil separates.",
+      "Add turmeric powder, coriander powder, red chili powder, and salt. Mix well.",
+      "Add diced potatoes, cauliflower florets, and peas. Mix thoroughly to coat the vegetables with the spices.",
+      "Cover and cook on low heat until the vegetables are tender, stirring occasionally.",
+      "Sprinkle garam masala and garnish with fresh coriander leaves before serving."
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "India",
+    "food_name": "Rajma Chawal",
+    "food_image": "https://images.pexels.com/photos/7837978/pexels-photo-7837978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 cup kidney beans (rajma), soaked overnight",
+      "2 cups basmati rice, washed and soaked",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1/2 cup yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "1/2 teaspoon garam masala",
+      "2 tablespoons cooking oil",
+      "Fresh coriander leaves for garnish",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Pressure cook soaked kidney beans until soft and tender.",
+      "In a pan, heat oil and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook until the raw smell disappears.",
+      "Add tomato puree, coriander powder, turmeric powder, red chili powder, and salt. Cook until the oil separates.",
+      "Add cooked kidney beans and mix well. Simmer for 15-20 minutes to let the flavors meld.",
+      "Cook basmati rice separately and serve hot with the rajma curry.",
+      "Garnish with fresh coriander leaves before serving."
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "India",
+    "food_name": "Samosa",
+    "food_image": "https://images.pexels.com/photos/14883757/pexels-photo-14883757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "For the Dough:",
+      "2 cups all-purpose flour",
+      "1/4 cup ghee (clarified butter)",
+      "1/2 teaspoon carom seeds",
+      "Water for kneading",
+      "For the Filling:",
+      "2 cups boiled and mashed potatoes",
+      "1 cup peas",
+      "1 tablespoon oil",
+      "1 teaspoon cumin seeds",
+      "1 teaspoon coriander powder",
+      "1/2 teaspoon garam masala",
+      "1/2 teaspoon red chili powder",
+      "Fresh coriander leaves, chopped",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "In a bowl, mix flour, ghee, carom seeds, and water to form a smooth dough. Cover and let it rest for 30 minutes.",
+      "In a pan, heat oil and add cumin seeds. Add peas and sauté for a few minutes.",
+      "Add mashed potatoes, coriander powder, garam masala, red chili powder, fresh coriander leaves, and salt. Mix well.",
+      "Divide the dough into small balls and roll each ball into a thin, round disc.",
+      "Cut each disc in half to form semi-circles. Fold each semi-circle to form a cone and fill it with the potato-peas mixture.",
+      "Seal the edges and deep-fry the samosas until golden brown and crispy.",
+      "Serve hot with mint chutney or tamarind sauce."
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "India",
+    "food_name": "Butter Chicken",
+    "food_image": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "500g boneless chicken, cut into pieces",
+      "1 cup yogurt",
+      "1 tablespoon ginger-garlic paste",
+      "1 teaspoon red chili powder",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon garam masala",
+      "1 cup tomato puree",
+      "1/2 cup cream",
+      "2 tablespoons butter",
+      "1 tablespoon oil",
+      "1 teaspoon kasuri methi (dried fenugreek leaves)",
+      "Fresh coriander leaves for garnish",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate chicken pieces with yogurt, ginger-garlic paste, red chili powder, turmeric powder, and salt. Let it marinate for at least 2 hours.",
+      "In a pan, heat oil and cook marinated chicken until it's browned and cooked through.",
+      "In a separate pan, melt butter and add garam masala. Add tomato puree and cook until the oil separates.",
+      "Add cream, kasuri methi, and cooked chicken. Simmer for 10-15 minutes until the flavors blend.",
+      "Garnish with fresh coriander leaves and serve hot with naan or rice."
+    ],
+    "duration": "2 hours"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Margherita Pizza",
+    "food_image": "https://images.unsplash.com/photo-1589187151053-5ec8818e661b?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "Pizza dough (store-bought or homemade)",
+      "1/2 cup pizza sauce",
+      "200g fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "2 tablespoons olive oil",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 220°C (425°F).",
+      "Roll out the pizza dough on a floured surface to your desired thickness.",
+      "Spread pizza sauce evenly over the dough, leaving a border for the crust.",
+      "Place slices of fresh mozzarella on top of the sauce.",
+      "Drizzle olive oil over the pizza and season with salt and black pepper.",
+      "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.",
+      "Remove from the oven, sprinkle fresh basil leaves, and slice to serve."
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Risotto ai Funghi",
+    "food_image": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "200g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup dry white wine",
+      "4 cups vegetable or chicken broth, heated",
+      "1/2 cup grated Parmesan cheese",
+      "2 tablespoons unsalted butter",
+      "2 tablespoons olive oil",
+      "Salt and black pepper to taste",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "In a large pan, heat olive oil and sauté chopped onions and garlic until translucent.",
+      "Add Arborio rice and cook, stirring, until the rice is lightly toasted.",
+      "Pour in the white wine and cook until it's mostly absorbed by the rice.",
+      "Begin adding the hot broth one ladle at a time, stirring frequently and allowing the liquid to be absorbed before adding more.",
+      "When the rice is almost tender, add sliced mushrooms and continue cooking until the rice reaches the desired consistency.",
+      "Stir in Parmesan cheese and butter. Season with salt and black pepper.",
+      "Garnish with fresh parsley and serve your creamy Mushroom Risotto."
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Lasagna",
+    "food_image": "https://images.pexels.com/photos/7051074/pexels-photo-7051074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "9 lasagna noodles, cooked al dente",
+      "500g ground beef",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 can (800g) crushed tomatoes",
+      "2 cups ricotta cheese",
+      "1 egg, beaten",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan cheese",
+      "2 tablespoons olive oil",
+      "1 teaspoon dried oregano",
+      "Salt and black pepper to taste",
+      "Fresh basil leaves for garnish"
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C (350°F).",
+      "In a pan, heat olive oil and sauté chopped onions and garlic until softened. Add ground beef and cook until browned.",
+      "Stir in crushed tomatoes, oregano, salt, and black pepper. Simmer for 15-20 minutes.",
+      "In a bowl, mix ricotta cheese with beaten egg.",
+      "In a baking dish, layer lasagna noodles, meat sauce, ricotta mixture, mozzarella, and Parmesan cheese. Repeat the layers.",
+      "Bake in the preheated oven for 25-30 minutes or until the top is golden and bubbly.",
+      "Garnish with fresh basil leaves and let it rest before serving."
+    ],
+    "duration": "1 hour"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Caprese Salad",
+    "food_image": "https://images.pexels.com/photos/9873742/pexels-photo-9873742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 large tomatoes, sliced",
+      "200g fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "3 tablespoons extra-virgin olive oil",
+      "Balsamic glaze for drizzling",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Arrange tomato and mozzarella slices on a serving platter, alternating them.",
+      "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+      "Drizzle extra-virgin olive oil over the salad.",
+      "Season with salt and black pepper to taste.",
+      "Finish by drizzling balsamic glaze over the top.",
+      "Serve immediately as a refreshing Caprese Salad."
+    ],
+    "duration": "15 minutes"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Ravioli with Spinach and Ricotta Filling",
+    "food_image": "https://images.pexels.com/photos/13669035/pexels-photo-13669035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "For the Pasta Dough:",
+      "2 cups all-purpose flour",
+      "3 large eggs",
+      "1/2 teaspoon salt",
+      "For the Filling:",
+      "200g fresh spinach, chopped and cooked",
+      "1 cup ricotta cheese",
+      "1/2 cup grated Parmesan cheese",
+      "1 egg",
+      "Nutmeg, grated (optional)",
+      "Salt and black pepper to taste",
+      "For Serving:",
+      "Butter and sage sauce",
+      "Grated Parmesan cheese"
+    ],
+    "instructions": [
+      "To make the pasta dough, mix flour and salt on a clean surface. Form a well in the center and add eggs. Gradually incorporate the flour until a dough forms.",
+      "Knead the dough for about 10 minutes until smooth. Wrap in plastic and let it rest for 30 minutes.",
+      "For the filling, mix cooked and chopped spinach with ricotta, Parmesan, egg, nutmeg, salt, and black pepper.",
+      "Roll out the pasta dough and place small portions of the filling at intervals. Fold the dough over and seal the edges to form ravioli.",
+      "Cook ravioli in boiling salted water until they float to the surface.",
+      "In a pan, melt butter and sage. Add cooked ravioli and toss until coated.",
+      "Serve hot, garnished with grated Parmesan cheese."
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "Italy",
+    "food_name": "Tiramisu",
+    "food_image": "https://images.pexels.com/photos/14766327/pexels-photo-14766327.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup granulated sugar",
+      "1 cup mascarpone cheese",
+      "1 1/2 cups heavy cream",
+      "1 cup strong brewed coffee, cooled",
+      "3 tablespoons coffee liqueur (e.g., Kahlúa)",
+      "Ladyfinger cookies",
+      "Cocoa powder for dusting"
+    ],
+    "instructions": [
+      "In a bowl, whisk together egg yolks and sugar until pale and creamy.",
+      "Add mascarpone cheese and mix until smooth.",
+      "In a separate bowl, whip the heavy cream until stiff peaks form.",
+      "Gently fold the whipped cream into the mascarpone mixture until well combined.",
+      "In a shallow dish, mix brewed coffee and coffee liqueur.",
+      "Dip ladyfinger cookies into the coffee mixture and arrange a layer in the bottom of a serving dish.",
+      "Spread half of the mascarpone mixture over the ladyfingers. Repeat with another layer of dipped ladyfingers and mascarpone mixture.",
+      "Refrigerate the tiramisu for at least 4 hours or overnight.",
+      "Before serving, dust the top with cocoa powder.",
+      "Enjoy the classic Italian dessert, Tiramisu!"
+    ],
+    "duration": "4 hours"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Ramen Soup",
+    "food_image": "ramen_soup_image.jpg",
+    "ingredients": [
+      "4 packs ramen noodles",
+      "4 cups chicken broth",
+      "2 cloves garlic, minced",
+      "1 tablespoon fresh ginger, grated",
+      "2 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "2 cups sliced vegetables (e.g., bok choy, mushrooms, carrots)",
+      "Sliced green onions for garnish",
+      "Soft-boiled eggs for topping (optional)"
+    ],
+    "instructions": [
+      "Cook ramen noodles according to package instructions. Drain and set aside.",
+      "In a pot, heat sesame oil and sauté minced garlic and grated ginger until fragrant.",
+      "Add chicken broth and soy sauce. Bring to a simmer.",
+      "Add sliced vegetables and cook until tender-crisp.",
+      "Divide cooked ramen noodles into serving bowls and ladle the hot broth over them.",
+      "Garnish with sliced green onions and top with a soft-boiled egg if desired.",
+      "Serve hot and enjoy your comforting bowl of ramen soup!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Tempura",
+    "food_image": "https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 cup ice-cold water",
+      "Assorted vegetables (e.g., sweet potatoes, zucchini, bell peppers)",
+      "Assorted seafood (e.g., shrimp, squid)",
+      "Vegetable oil for frying",
+      "Dipping sauce (e.g., soy sauce, mirin, dashi)",
+      "Tempura dipping sauce ingredients (optional):",
+      "1/4 cup soy sauce",
+      "2 tablespoons mirin",
+      "1 cup dashi (Japanese fish and seaweed stock)"
+    ],
+    "instructions": [
+      "In a bowl, mix flour and ice-cold water until just combined. The batter should be lumpy.",
+      "Heat vegetable oil in a deep pan or fryer to 180°C (360°F).",
+      "Dip vegetables and seafood into the tempura batter, allowing excess to drip off.",
+      "Carefully place the battered items into the hot oil and fry until golden brown and crispy.",
+      "Remove and drain on paper towels.",
+      "For the optional dipping sauce, mix soy sauce, mirin, and dashi in a bowl.",
+      "Serve tempura hot with dipping sauce. Enjoy the light and crispy Japanese delicacy!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Teriyaki Chicken",
+    "food_image": "https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "500g boneless, skinless chicken thighs, cut into bite-sized pieces",
+      "1/2 cup soy sauce",
+      "1/4 cup mirin",
+      "1/4 cup sake",
+      "3 tablespoons sugar",
+      "1 tablespoon vegetable oil",
+      "Sesame seeds and chopped green onions for garnish"
+    ],
+    "instructions": [
+      "In a bowl, mix soy sauce, mirin, sake, and sugar to make the teriyaki sauce.",
+      "Heat vegetable oil in a pan over medium heat.",
+      "Add chicken pieces and cook until browned on all sides.",
+      "Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and coats the chicken.",
+      "Garnish with sesame seeds and chopped green onions.",
+      "Serve hot over steamed rice. Enjoy your delicious Teriyaki Chicken!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Okonomiyaki",
+    "food_image": "https://images.unsplash.com/photo-1606921853348-de18ac731b17?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "2 cups shredded cabbage",
+      "1 cup all-purpose flour",
+      "1 cup dashi (Japanese fish and seaweed stock)",
+      "2 eggs",
+      "1/2 cup chopped green onions",
+      "1/2 cup tenkasu (tempura scraps) or fried shallots",
+      "1/2 cup cooked and chopped bacon or shredded cooked chicken (optional)",
+      "Okonomiyaki sauce",
+      "Japanese mayonnaise",
+      "Aonori (dried seaweed flakes) for garnish",
+      "Bonito flakes for topping (optional)"
+    ],
+    "instructions": [
+      "In a bowl, mix shredded cabbage, flour, dashi, eggs, green onions, tenkasu, and bacon or chicken if using.",
+      "Heat a griddle or large skillet over medium heat. Pour the batter onto the griddle to form a large pancake.",
+      "Cook until the bottom is golden brown, then flip and cook the other side until cooked through.",
+      "Drizzle Okonomiyaki sauce and Japanese mayonnaise over the pancake.",
+      "Sprinkle with aonori and top with bonito flakes if desired.",
+      "Slice into wedges and serve hot. Enjoy your savory Okonomiyaki!"
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Miso Soup",
+    "food_image": "https://images.unsplash.com/photo-1555126634-323283e090fa?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "4 cups dashi (Japanese fish and seaweed stock)",
+      "3 tablespoons miso paste",
+      "100g tofu, cubed",
+      "2 green onions, thinly sliced",
+      "Seaweed sheets (nori) for garnish",
+      "Optional: Wakame seaweed, sliced mushrooms, and sliced radishes"
+    ],
+    "instructions": [
+      "In a pot, heat dashi to just below boiling.",
+      "In a small bowl, dissolve miso paste in a ladle of the hot dashi.",
+      "Add the miso mixture back into the pot and stir well.",
+      "Add tofu, green onions, and other optional ingredients if using.",
+      "Simmer for a few minutes until all ingredients are heated through.",
+      "Do not boil the soup after adding miso to preserve its flavor.",
+      "Serve hot, garnished with seaweed sheets. Enjoy your comforting Miso Soup!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Gyoza",
+    "food_image": "https://images.unsplash.com/photo-1609183590563-7710ba1f90a9?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "300g ground pork",
+      "2 cups shredded cabbage",
+      "2 cloves garlic, minced",
+      "1 tablespoon ginger, grated",
+      "2 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "1/2 teaspoon sugar",
+      "1/4 teaspoon white pepper",
+      "Gyoza wrappers",
+      "Vegetable oil for frying",
+      "Soy sauce and rice vinegar for dipping"
+    ],
+    "instructions": [
+      "In a bowl, mix ground pork, shredded cabbage, garlic, ginger, soy sauce, sesame oil, sugar, and white pepper.",
+      "Place a spoonful of the filling in the center of a gyoza wrapper. Wet the edges and fold to seal, creating pleats along one side.",
+      "Heat vegetable oil in a pan and place the gyoza in a single layer, pleated side up.",
+      "Cook until the bottom is golden brown, then add water to the pan and cover to steam the gyoza.",
+      "Once the water evaporates, uncover and let the gyoza crisp up again.",
+      "Serve hot with a dipping sauce made from soy sauce and rice vinegar."
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Udon",
+    "food_image": "https://images.pexels.com/photos/10281095/pexels-photo-10281095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "3 large eggs",
+      "2 cups dashi (Japanese fish and seaweed stock)",
+      "1 tablespoon soy sauce",
+      "1 tablespoon mirin",
+      "1/2 teaspoon salt",
+      "Assorted ingredients (e.g., chicken, shrimp, shiitake mushrooms, ginkgo nuts)",
+      "Chopped green onions for garnish"
+    ],
+    "instructions": [
+      "In a bowl, whisk eggs gently. Add dashi, soy sauce, mirin, and salt. Mix well.",
+      "Strain the egg mixture through a fine sieve to achieve a smooth consistency.",
+      "Prepare small heatproof cups or bowls. Place assorted ingredients in each cup.",
+      "Pour the egg mixture over the ingredients in the cups, covering them evenly.",
+      "Cover each cup with foil and steam over low heat for about 15-20 minutes or until the custard is set.",
+      "Garnish with chopped green onions before serving. Enjoy your delicate Chawanmushi!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Yakitori",
+    "food_image": "https://cdn.pixabay.com/photo/2017/09/03/15/59/lamb-skewers-2710900_1280.jpg",
+    "ingredients": [
+      "500g chicken thigh or breast, cut into bite-sized pieces",
+      "Soy sauce for marinade",
+      "Sake for marinade",
+      "Mirin for marinade",
+      "Sugar for marinade",
+      "Skewers (bamboo or metal)",
+      "Green onions, cut into 2-inch pieces",
+      "Tare sauce (soy sauce, mirin, sake, and sugar)",
+      "Sesame seeds for garnish"
+    ],
+    "instructions": [
+      "In a bowl, mix soy sauce, sake, mirin, and sugar to create the marinade.",
+      "Marinate chicken pieces in the mixture for at least 30 minutes.",
+      "Thread chicken pieces onto skewers, alternating with pieces of green onion.",
+      "Grill the skewers over medium heat, brushing with tare sauce until the chicken is cooked and has a nice glaze.",
+      "Sprinkle with sesame seeds and serve hot. Enjoy your flavorful Yakitori!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Japan",
+    "food_name": "Sukiyaki",
+    "food_image": "https://images.pexels.com/photos/17593641/pexels-photo-17593641/free-photo-of-a-bowl-of-noodles-with-chopsticks-and-a-spoon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "300g thinly sliced beef",
+      "1/2 cup soy sauce",
+      "1/2 cup mirin",
+      "1/4 cup sugar",
+      "2 cups dashi (Japanese fish and seaweed stock)",
+      "1/4 cup sake",
+      "Assorted vegetables (e.g., tofu, mushrooms, leeks, napa cabbage)",
+      "Shirataki noodles, rinsed and drained",
+      "Green onions for garnish",
+      "Raw eggs for dipping (optional)"
+    ],
+    "instructions": [
+      "In a pot, combine soy sauce, mirin, sugar, dashi, and sake to create the sukiyaki broth.",
+      "Heat the broth and add thinly sliced beef, cooking until it's no longer pink.",
+      "Add assorted vegetables and shirataki noodles to the pot and simmer until everything is cooked through.",
+      "Serve hot, garnished with green onions. Dip cooked ingredients in raw beaten eggs if desired.",
+      "Enjoy Sukiyaki as a comforting and communal hot pot dish!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "France",
+    "food_name": "Shrimp fish",
+    "food_image": "https://images.pexels.com/photos/2871757/pexels-photo-2871757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "200g bacon, diced",
+      "1 bottle red wine (Burgundy or Pinot Noir)",
+      "2 cups chicken broth",
+      "2 onions, chopped",
+      "2 carrots, sliced",
+      "4 cloves garlic, minced",
+      "4 tablespoons all-purpose flour",
+      "2 tablespoons tomato paste",
+      "2 tablespoons butter",
+      "Bouquet garni (thyme, bay leaves, parsley)",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, cook diced bacon until crispy. Remove and set aside.",
+      "Season chicken pieces with salt and pepper, then brown in bacon fat. Remove and set aside.",
+      "In the same pot, sauté onions, carrots, and garlic until softened.",
+      "Sprinkle flour over the vegetables and stir to create a roux.",
+      "Add tomato paste, red wine, and chicken broth. Bring to a simmer.",
+      "Return chicken and bacon to the pot. Add the bouquet garni.",
+      "Simmer on low heat for 1.5 to 2 hours until the chicken is tender and the sauce is rich.",
+      "Remove bouquet garni, adjust seasoning, and stir in butter before serving.",
+      "Serve hot over mashed potatoes or crusty bread. Bon appétit!"
+    ],
+    "duration": "2.5 hours"
+  },
+  {
+    "country": "France",
+    "food_name": "Ratatouille",
+    "food_image": "https://images.pexels.com/photos/7439978/pexels-photo-7439978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 large eggplant, diced",
+      "2 zucchinis, sliced",
+      "1 red bell pepper, diced",
+      "1 yellow bell pepper, diced",
+      "1 onion, sliced",
+      "2 cloves garlic, minced",
+      "4 large tomatoes, diced",
+      "2 tablespoons tomato paste",
+      "2 teaspoons dried thyme",
+      "2 teaspoons dried rosemary",
+      "Olive oil for cooking",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C (350°F).",
+      "In a large skillet, sauté onions and garlic in olive oil until softened.",
+      "Add diced eggplant, zucchinis, and bell peppers. Cook until vegetables are slightly tender.",
+      "Stir in diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.",
+      "Transfer the mixture to a baking dish and arrange the vegetables evenly.",
+      "Bake in the preheated oven for 40-50 minutes until the vegetables are cooked and slightly caramelized.",
+      "Serve as a side dish or over cooked quinoa or couscous. Enjoy your Ratatouille!"
+    ],
+    "duration": "1 hour"
+  },
+  {
+    "country": "France",
+    "food_name": "Croque Monsieur",
+    "food_image": "https://images.unsplash.com/photo-1621188988280-67c8d6e130a6?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "ingredients": [
+      "8 slices white bread",
+      "4 slices ham",
+      "4 slices Gruyère or Emmental cheese",
+      "2 tablespoons Dijon mustard",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups milk",
+      "1/4 teaspoon nutmeg",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 200°C (400°F).",
+      "Spread Dijon mustard on half of the bread slices and top each with a slice of ham and cheese. Place the remaining bread slices on top to make sandwiches.",
+      "In a saucepan, melt butter over medium heat. Stir in flour to create a roux.",
+      "Gradually whisk in milk until the sauce thickens. Add nutmeg, salt, and black pepper.",
+      "Place the sandwiches in a baking dish and pour the sauce over them, ensuring they are fully covered.",
+      "Bake in the preheated oven for 15-20 minutes or until the sandwiches are golden and the sauce is bubbly.",
+      "Serve hot, and enjoy this classic French ham and cheese sandwich!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "France",
+    "food_name": "Croissant",
+    "food_image": "https://images.pexels.com/photos/1510685/pexels-photo-1510685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1.5 kg beef stew meat, cubed",
+      "200g bacon, diced",
+      "2 onions, chopped",
+      "3 carrots, sliced",
+      "3 cloves garlic, minced",
+      "750ml red wine (Burgundy or Pinot Noir)",
+      "2 cups beef broth",
+      "3 tablespoons tomato paste",
+      "2 tablespoons all-purpose flour",
+      "Bouquet garni (thyme, bay leaves, parsley)",
+      "Salt and black pepper to taste",
+      "Olive oil for cooking"
+    ],
+    "instructions": [
+      "Preheat the oven to 160°C (325°F).",
+      "In a large ovenproof pot, cook diced bacon in olive oil until crispy. Remove and set aside.",
+      "Season beef cubes with salt and pepper, then brown them in the pot. Remove and set aside.",
+      "In the same pot, sauté onions, carrots, and garlic until softened.",
+      "Sprinkle flour over the vegetables and stir to create a roux.",
+      "Add tomato paste, red wine, beef broth, and the reserved bacon and beef. Stir in the bouquet garni.",
+      "Cover and transfer the pot to the preheated oven. Cook for 2.5 to 3 hours until the meat is tender.",
+      "Remove the bouquet garni, adjust seasoning, and serve hot over mashed potatoes or noodles. Bon appétit!"
+    ],
+    "duration": "3 hours"
+  },
+  {
+    "country": "France",
+    "food_name": "Onion Soup",
+    "food_image": "https://images.pexels.com/photos/18410573/pexels-photo-18410573/free-photo-of-soup-with-onion-in-pan.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 pre-made pie crust",
+      "200g bacon, cooked and chopped",
+      "1 cup Gruyère or Swiss cheese, shredded",
+      "1 cup heavy cream",
+      "4 large eggs",
+      "1/4 teaspoon nutmeg",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 190°C (375°F).",
+      "Line a pie dish with the pre-made pie crust.",
+      "Sprinkle bacon and shredded cheese over the crust.",
+      "In a bowl, whisk together heavy cream, eggs, nutmeg, salt, and black pepper.",
+      "Pour the egg mixture over the bacon and cheese in the pie crust.",
+      "Bake in the preheated oven for 30-35 minutes or until the quiche is set and golden brown.",
+      "Let it cool slightly before slicing. Serve warm or at room temperature. Enjoy your Quiche Lorraine!"
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "France",
+    "food_name": "Baguette",
+    "food_image": "https://images.pexels.com/photos/4047213/pexels-photo-4047213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "200g tuna, seared or canned",
+      "4 hard-boiled eggs, halved",
+      "200g cherry tomatoes, halved",
+      "1 cucumber, sliced",
+      "1 red bell pepper, sliced",
+      "100g Niçoise olives",
+      "200g green beans, blanched",
+      "4 cups mixed salad greens",
+      "For the vinaigrette:",
+      "3 tablespoons extra-virgin olive oil",
+      "1 tablespoon red wine vinegar",
+      "1 teaspoon Dijon mustard",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Arrange mixed salad greens on a serving platter.",
+      "Top with seared or canned tuna, hard-boiled eggs, cherry tomatoes, cucumber, red bell pepper, Niçoise olives, and blanched green beans.",
+      "In a small bowl, whisk together olive oil, red wine vinegar, Dijon mustard, salt, and black pepper to make the vinaigrette.",
+      "Drizzle the vinaigrette over the salad just before serving.",
+      "Serve the Salade Niçoise as a refreshing and hearty salad. Bon appétit!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "France",
+    "food_name": "Cassoulet",
+    "food_image": "https://images.pexels.com/photos/19480554/pexels-photo-19480554/free-photo-of-cassoulet-on-metal-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "4 tablespoons unsalted butter",
+      "1 tablespoon olive oil",
+      "2 cloves garlic, minced",
+      "1 teaspoon sugar",
+      "1/2 cup dry white wine",
+      "8 cups beef broth",
+      "1 teaspoon dried thyme",
+      "Salt and black pepper to taste",
+      "Baguette slices",
+      "Gruyère or Swiss cheese, shredded"
+    ],
+    "instructions": [
+      "In a large pot, melt butter and olive oil over medium heat. Add sliced onions and cook until caramelized.",
+      "Stir in minced garlic and sugar, continuing to cook until garlic is fragrant.",
+      "Pour in dry white wine to deglaze the pot, scraping up any browned bits from the bottom.",
+      "Add beef broth and dried thyme. Season with salt and black pepper. Simmer for 20-30 minutes.",
+      "Preheat the oven broiler.",
+      "Ladle the soup into ovenproof bowls. Top each bowl with baguette slices and shredded Gruyère or Swiss cheese.",
+      "Place the bowls under the broiler until the cheese is melted and bubbly.",
+      "Serve hot, and enjoy this classic French Onion Soup!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Tacos al Pastor",
+    "food_image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "500g pork shoulder, thinly sliced",
+      "1 cup pineapple, diced",
+      "1 onion, thinly sliced",
+      "2 cloves garlic, minced",
+      "3 tablespoons achiote paste",
+      "2 tablespoons white vinegar",
+      "1 tablespoon dried oregano",
+      "1 teaspoon ground cumin",
+      "Corn tortillas",
+      "Fresh cilantro for garnish",
+      "Lime wedges",
+      "Salsa verde for serving"
+    ],
+    "instructions": [
+      "In a blender, combine achiote paste, white vinegar, minced garlic, dried oregano, and ground cumin to make the marinade.",
+      "Marinate thinly sliced pork shoulder in the mixture for at least 2 hours or overnight.",
+      "Heat a grill or pan over medium-high heat. Grill the marinated pork slices until cooked through and slightly crispy.",
+      "Warm corn tortillas on the grill or in a dry pan.",
+      "Assemble tacos by placing grilled pork on tortillas, topping with diced pineapple, sliced onion, and fresh cilantro.",
+      "Serve with lime wedges and salsa verde. Enjoy your Tacos al Pastor!"
+    ],
+    "duration": "2-12 hours (marination) + 15 minutes"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Guacamole",
+    "food_image": "https://images.pexels.com/photos/1321942/pexels-photo-1321942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "3 ripe avocados",
+      "1 tomato, diced",
+      "1/2 onion, finely chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "1 jalapeño, seeded and minced",
+      "2 cloves garlic, minced",
+      "Juice of 1 lime",
+      "Salt and black pepper to taste",
+      "Tortilla chips for serving"
+    ],
+    "instructions": [
+      "Cut avocados in half, remove the pit, and scoop the flesh into a bowl.",
+      "Mash the avocados with a fork or potato masher until smooth or slightly chunky, depending on preference.",
+      "Add diced tomato, chopped onion, minced jalapeño, minced garlic, and chopped cilantro to the mashed avocados.",
+      "Squeeze lime juice over the mixture and season with salt and black pepper. Mix well.",
+      "Taste and adjust seasoning if necessary.",
+      "Serve guacamole with tortilla chips. Enjoy this classic Mexican dip!"
+    ],
+    "duration": "15 minutes"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Chicken Enchiladas",
+    "food_image": "https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "ingredients": [
+      "2 cups shredded cooked chicken",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (400g) enchilada sauce",
+      "1 cup shredded cheese (cheddar or Mexican blend)",
+      "1/2 cup sour cream",
+      "1 can (200g) diced green chilies",
+      "1 teaspoon ground cumin",
+      "1 teaspoon chili powder",
+      "Salt and black pepper to taste",
+      "8 small flour tortillas",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Preheat the oven to 180°C (350°F).",
+      "In a skillet, sauté chopped onion and minced garlic until softened.",
+      "Add shredded chicken, diced green chilies, ground cumin, chili powder, salt, and black pepper. Cook until heated through.",
+      "In a separate bowl, mix sour cream and half of the shredded cheese.",
+      "Warm the flour tortillas. Spoon the chicken mixture onto each tortilla, roll them up, and place them in a baking dish seam side down.",
+      "Pour enchilada sauce over the rolled tortillas and sprinkle with the remaining shredded cheese.",
+      "Bake in the preheated oven for 20-25 minutes or until the cheese is melted and bubbly.",
+      "Garnish with fresh cilantro before serving. Enjoy your Chicken Enchiladas!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Pozole",
+    "food_image": "https://images.pexels.com/photos/2365940/pexels-photo-2365940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 large poblano peppers",
+      "200g queso fresco or Oaxaca cheese, cut into strips",
+      "1 cup all-purpose flour",
+      "4 large eggs, separated",
+      "2 cups tomato sauce",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 teaspoon ground cumin",
+      "1 teaspoon dried oregano",
+      "Vegetable oil for frying",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Roast poblano peppers over an open flame or broil until the skins are charred. Place them in a plastic bag to steam and loosen the skins.",
+      "Peel the charred skins from the peppers, carefully slit one side, and remove seeds while keeping the pepper intact.",
+      "Stuff each pepper with strips of queso fresco or Oaxaca cheese.",
+      "In a bowl, beat egg whites until stiff peaks form. In a separate bowl, beat egg yolks and fold them into the egg whites.",
+      "Dredge stuffed peppers in flour, then dip them into the egg mixture, ensuring they are fully coated.",
+      "Heat vegetable oil in a pan and fry the peppers until golden brown on all sides.",
+      "In a separate saucepan, sauté chopped onion and minced garlic. Add tomato sauce, ground cumin, dried oregano, salt, and black pepper. Simmer for 10 minutes.",
+      "Serve the Chiles Rellenos topped with tomato sauce. Enjoy this classic Mexican dish!"
+    ],
+    "duration": "1 hour"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Salsa Roja",
+    "food_image": "https://images.pexels.com/photos/6989530/pexels-photo-6989530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 large tomatoes, roasted",
+      "2 cloves garlic, roasted",
+      "1 onion, chopped",
+      "2-3 red chili peppers, chopped (adjust to spice preference)",
+      "1/4 cup fresh cilantro, chopped",
+      "1 tablespoon lime juice",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Preheat the oven broiler. Place tomatoes and garlic on a baking sheet and broil until the skins are charred.",
+      "Remove the charred skins from tomatoes and garlic. Allow them to cool slightly.",
+      "In a blender or food processor, combine roasted tomatoes, roasted garlic, chopped onion, red chili peppers, fresh cilantro, lime juice, and salt.",
+      "Blend until smooth. Adjust salt and lime juice to taste.",
+      "Refrigerate for at least 30 minutes before serving to allow the flavors to meld.",
+      "Serve Salsa Roja with tortilla chips or as a flavorful topping. Enjoy the spicy goodness!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Mexico",
+    "food_name": "Mexican Street Corn (Elote)",
+    "food_image": "https://images.pexels.com/photos/12573540/pexels-photo-12573540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 ears of corn, husked",
+      "1/2 cup mayonnaise",
+      "1/2 cup sour cream",
+      "1 cup crumbled cotija cheese",
+      "1 teaspoon chili powder",
+      "1/4 cup fresh cilantro, chopped",
+      "4 lime wedges"
+    ],
+    "instructions": [
+      "Preheat a grill or grill pan over medium-high heat.",
+      "Grill husked corn until lightly charred on all sides.",
+      "In a bowl, mix mayonnaise and sour cream. Brush the mixture onto each grilled corn cob.",
+      "Roll each corn cob in crumbled cotija cheese, ensuring an even coating.",
+      "Sprinkle chili powder over the cheese-covered corn.",
+      "Garnish with chopped cilantro and serve with lime wedges on the side.",
+      "Enjoy the delicious flavors of Mexican Street Corn (Elote)!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "Thailand",
+    "food_name": "Pad Thai",
+    "food_image": "https://images.pexels.com/photos/12188535/pexels-photo-12188535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "200g rice noodles, soaked in hot water",
+      "200g shrimp, peeled and deveined",
+      "2 eggs, lightly beaten",
+      "1 cup bean sprouts",
+      "1/2 cup tofu, cubed",
+      "4 green onions, chopped",
+      "1/4 cup crushed peanuts",
+      "2 cloves garlic, minced",
+      "1 tablespoon tamarind paste",
+      "2 tablespoons fish sauce",
+      "1 tablespoon soy sauce",
+      "1 tablespoon sugar",
+      "1 tablespoon vegetable oil",
+      "Lime wedges for serving"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a wok or large pan over medium heat.",
+      "Add minced garlic and sauté until fragrant.",
+      "Add shrimp and tofu, cooking until shrimp turns pink and tofu is lightly browned.",
+      "Push the ingredients to one side of the pan and pour beaten eggs into the empty space. Scramble the eggs until cooked.",
+      "Add soaked rice noodles to the pan and stir well.",
+      "In a small bowl, mix tamarind paste, fish sauce, soy sauce, and sugar. Pour the sauce over the noodles and toss to combine.",
+      "Add bean sprouts and green onions, tossing until heated through.",
+      "Serve Pad Thai hot, garnished with crushed peanuts and lime wedges. Enjoy your flavorful Pad Thai!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Thailand",
+    "food_name": "Tom Yum Goong",
+    "food_image": "https://images.pexels.com/photos/16699417/pexels-photo-16699417/free-photo-of-a-baked-dish-in-a-pot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "400g shrimp, peeled and deveined",
+      "4 cups chicken or shrimp broth",
+      "2 lemongrass stalks, bruised and cut into pieces",
+      "3 kaffir lime leaves",
+      "1-2 red chili peppers, sliced",
+      "200g mushrooms, sliced",
+      "1 medium tomato, cut into wedges",
+      "1 onion, sliced",
+      "3 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon chili paste",
+      "1 tablespoon sugar",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "In a pot, bring chicken or shrimp broth to a boil.",
+      "Add lemongrass, kaffir lime leaves, sliced chili peppers, mushrooms, tomato, and onion to the boiling broth.",
+      "Reduce heat and simmer until vegetables are tender.",
+      "Add shrimp to the pot and cook until they turn pink.",
+      "Season the soup with fish sauce, lime juice, chili paste, and sugar. Adjust to taste.",
+      "Serve hot, garnished with fresh cilantro. Enjoy the spicy and sour goodness of Tom Yum Goong!"
+    ],
+    "duration": "25 minutes"
+  },
+  {
+    "country": "Thailand",
+    "food_name": "Green Curry Chicken",
+    "food_image": "https://images.pexels.com/photos/8829717/pexels-photo-8829717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "500g chicken thighs, cut into bite-sized pieces",
+      "1 can (400ml) coconut milk",
+      "2 tablespoons green curry paste",
+      "1 eggplant, sliced",
+      "1 red bell pepper, sliced",
+      "100g bamboo shoots",
+      "2 kaffir lime leaves, torn",
+      "2 tablespoons fish sauce",
+      "1 tablespoon sugar",
+      "1 tablespoon vegetable oil",
+      "Fresh basil leaves for garnish",
+      "Cooked jasmine rice for serving"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a pot over medium heat. Add green curry paste and sauté until fragrant.",
+      "Add chicken pieces and cook until browned on all sides.",
+      "Pour in coconut milk and bring to a simmer.",
+      "Add eggplant, red bell pepper, bamboo shoots, and torn kaffir lime leaves. Simmer until vegetables are tender.",
+      "Season with fish sauce and sugar. Adjust to taste.",
+      "Serve Green Curry Chicken over cooked jasmine rice, garnished with fresh basil leaves. Enjoy the aromatic and flavorful curry!"
+    ],
+    "duration": "40 minutes"
+  },
+  {
+    "country": "Thailand",
+    "food_name": "Som Tum",
+    "food_image": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 medium green papaya, peeled and shredded",
+      "2 carrots, peeled and shredded",
+      "2 cups cherry tomatoes, halved",
+      "1 cup long beans or green beans, cut into pieces",
+      "1/2 cup roasted peanuts, crushed",
+      "3 cloves garlic, minced",
+      "2-3 Thai bird's eye chilies, minced",
+      "2 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon palm sugar or brown sugar",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "In a large mortar, pound minced garlic and chilies together.",
+      "Add shredded green papaya and carrots to the mortar. Pound and mix well.",
+      "Add halved cherry tomatoes and pound briefly to combine.",
+      "Stir in long beans or green beans, fish sauce, lime juice, and palm sugar. Mix thoroughly.",
+      "Taste and adjust the seasoning if needed.",
+      "Serve Som Tum in a bowl, topped with crushed peanuts and fresh cilantro. Enjoy the refreshing and spicy Green Papaya Salad!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Biryani",
+    "food_image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "ingredients": [
+      "2 cups basmati rice, soaked",
+      "500g chicken, cut into pieces",
+      "1 cup yogurt",
+      "1 cup fried onions",
+      "1/2 cup cooking oil or ghee",
+      "2 teaspoons ginger-garlic paste",
+      "1 teaspoon biryani masala",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon chili powder",
+      "1/2 teaspoon saffron strands soaked in warm milk",
+      "4 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a pot, heat cooking oil or ghee. Add ginger-garlic paste and sauté until fragrant.",
+      "Add chicken pieces and fry until browned. Add biryani masala, turmeric powder, chili powder, and salt. Mix well.",
+      "In a separate pot, parboil soaked basmati rice with water until half-cooked. Drain the water.",
+      "Layer the half-cooked rice over the chicken in the first pot. Sprinkle fried onions, yogurt, and saffron-soaked milk over the rice.",
+      "Cover and cook on low heat until the rice is fully cooked and aromatic steam rises.",
+      "Serve hot Biryani with raita or salad. Enjoy this flavorful Bangladeshi dish!"
+    ],
+    "duration": "1.5 hours"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Shorshe Ilish",
+    "food_image": "https://cdn.pixabay.com/photo/2023/07/20/18/40/ilish-8140118_1280.jpg",
+    "ingredients": [
+      "4 pieces Hilsa fish",
+      "4 tablespoons mustard paste",
+      "1 tablespoon turmeric powder",
+      "2 tablespoons mustard oil",
+      "4 green chilies, sliced",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Clean and wash Hilsa fish pieces. Rub turmeric powder and salt on the fish and set aside.",
+      "In a bowl, mix mustard paste with a little water to form a smooth paste.",
+      "Heat mustard oil in a pan. Fry the fish pieces until golden brown on both sides. Remove and set aside.",
+      "In the same pan, add the mustard paste, green chilies, and a pinch of salt. Stir and cook until the mustard paste releases its aroma.",
+      "Add fried fish to the mustard sauce. Cover and simmer until the fish is cooked through.",
+      "Serve Shorshe Ilish with steamed rice. Enjoy this traditional Bangladeshi fish dish!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Rosmolai",
+    "food_image": "https://images.pexels.com/photos/12089285/pexels-photo-12089285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 cups leftover rice",
+      "2 cups water",
+      "1 cup yogurt",
+      "1/2 cup chopped green onions",
+      "1/4 cup chopped cilantro",
+      "1/4 cup chopped mint leaves",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a bowl, mix leftover rice with water and let it soak overnight.",
+      "The next day, drain excess water from the soaked rice.",
+      "Add yogurt, chopped green onions, cilantro, mint leaves, and salt to the soaked rice. Mix well.",
+      "Panta Bhat is ready to be served. Enjoy this traditional Bengali dish during Pohela Boishakh (Bengali New Year) celebrations!"
+    ],
+    "duration": "Overnight soaking + 10 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Patishapta",
+    "food_image": "https://1.bp.blogspot.com/-Sz32aYJw0gU/X_SML-jnjQI/AAAAAAAAN8A/JrXMu12aYsQ9-6eMPI-DVAv3hRnCRKzTgCLcBGAsYHQ/s16000/Patishapta%2Bpitha%2Brecipe%2BM3.JPG",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/2 cup semolina",
+      "1 cup milk",
+      "1/2 cup coconut, grated",
+      "1/2 cup khoya (reduced milk)",
+      "1/2 cup jaggery, grated",
+      "1/4 cup water",
+      "Ghee for frying",
+      "Chopped nuts for garnish"
+    ],
+    "instructions": [
+      "In a bowl, mix all-purpose flour, semolina, and milk to make a smooth batter.",
+      "In a separate pan, combine grated coconut, khoya, jaggery, and water. Cook until the mixture thickens and forms a smooth filling.",
+      "Heat a flat griddle and grease it with ghee.",
+      "Pour a small amount of batter on the griddle and spread it in a circular shape.",
+      "Place a spoonful of the coconut-khoya filling in the center and fold the edges to form a rolled pancake.",
+      "Cook until both sides are golden brown. Repeat the process for the remaining batter and filling.",
+      "Serve Patishapta garnished with chopped nuts. Enjoy this sweet delicacy!"
+    ],
+    "duration": "45 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Chingri Malai Curry",
+    "food_image": "https://images.pexels.com/photos/14537699/pexels-photo-14537699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "500g prawns, cleaned and deveined",
+      "1 cup coconut milk",
+      "1 onion, finely chopped",
+      "1 teaspoon ginger-garlic paste",
+      "1/2 cup yogurt",
+      "1/4 cup mustard oil",
+      "2 green chilies, sliced",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon red chili powder",
+      "1 teaspoon cumin powder",
+      "1 teaspoon garam masala",
+      "Salt to taste",
+      "Fresh coriander for garnish"
+    ],
+    "instructions": [
+      "Marinate prawns with turmeric powder, red chili powder, and salt. Set aside for 15 minutes.",
+      "In a pan, heat mustard oil and sauté chopped onions until golden brown.",
+      "Add ginger-garlic paste, green chilies, and marinated prawns. Cook until prawns are half-cooked.",
+      "In a bowl, whisk yogurt and coconut milk. Pour the mixture into the pan.",
+      "Season with cumin powder, garam masala, and salt. Simmer until the prawns are fully cooked and the curry thickens.",
+      "Garnish with fresh coriander and serve Chingri Malai Curry with steamed rice. Enjoy this rich and creamy prawn curry!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Mishti Doi",
+    "food_image": "https://images.pexels.com/photos/14822891/pexels-photo-14822891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 liter full-fat milk",
+      "1 cup sugar",
+      "1/2 cup yogurt (as a starter)",
+      "A pinch of cardamom powder",
+      "Chopped nuts for garnish"
+    ],
+    "instructions": [
+      "Boil the milk in a heavy-bottomed pan and reduce it to half, stirring continuously.",
+      "Add sugar and continue to cook until the mixture thickens and attains a caramel color.",
+      "Let the sweetened milk cool down to lukewarm temperature.",
+      "In a separate bowl, mix yogurt with a little warm milk to form a smooth paste. Add this yogurt paste to the sweetened milk and stir well.",
+      "Pour the mixture into earthen or oven-safe containers. Sprinkle cardamom powder on top.",
+      "Set the containers in a warm place for 6-8 hours or until the Mishti Doi is set and has a thick consistency.",
+      "Chill in the refrigerator before serving. Garnish with chopped nuts and enjoy this traditional Bengali sweet yogurt!"
+    ],
+    "duration": "8 hours (including setting time)"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Fuska",
+    "food_image": "https://cdn.pixabay.com/photo/2017/12/07/12/22/food-3003693_1280.jpg",
+    "ingredients": [
+      "50 small puris (puffed wheat or semolina balls)",
+      "1 cup boiled and mashed potatoes",
+      "1 cup boiled black chickpeas",
+      "1 cup tamarind water",
+      "1 cup mint-coriander water",
+      "1 teaspoon roasted cumin powder",
+      "1 teaspoon chaat masala",
+      "Chopped green chilies and coriander for garnish",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Make a hole in the center of each puri to create a cavity for the filling.",
+      "Fill each puri with a mixture of mashed potatoes and boiled black chickpeas.",
+      "Drizzle tamarind water and mint-coriander water into each puri.",
+      "Sprinkle roasted cumin powder, chaat masala, chopped green chilies, and coriander on top.",
+      "Serve Fuska immediately and enjoy the burst of flavors in your mouth!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "Bangladesh",
+    "food_name": "Sharma",
+    "food_image": "https://images.pexels.com/photos/2955819/pexels-photo-2955819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 cups rice flour",
+      "1 cup grated coconut",
+      "1 cup jaggery, grated",
+      "1 cup milk",
+      "1/2 teaspoon baking soda",
+      "Banana leaves for wrapping",
+      "String for tying"
+    ],
+    "instructions": [
+      "Soak rice flour in milk for a few hours to form a thick batter.",
+      "Add grated coconut, jaggery, and baking soda to the batter. Mix well to form a smooth mixture.",
+      "Cut banana leaves into rectangular pieces and briefly heat them over an open flame to make them pliable.",
+      "Place a portion of the mixture onto a banana leaf and fold the leaf to create a packet. Tie with a string to secure.",
+      "Steam the wrapped Bhapa Pitha for about 30-40 minutes or until the batter is set.",
+      "Allow it to cool before unwrapping. Bhapa Pitha is ready to be served!",
+      "Enjoy this traditional Bangladeshi steamed rice cake during festive occasions."
+    ],
+    "duration": "2-3 hours (including soaking time) + 40 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "Cheeseburger",
+    "food_image": "https://images.pexels.com/photos/2702674/pexels-photo-2702674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1/2 pound ground beef",
+      "Salt and black pepper to taste",
+      "4 hamburger buns",
+      "4 slices of American cheese",
+      "Lettuce leaves",
+      "Sliced tomatoes",
+      "Sliced onions",
+      "Ketchup and mustard for condiments",
+      "Pickles for garnish"
+    ],
+    "instructions": [
+      "Divide the ground beef into four equal portions and shape them into patties. Season with salt and black pepper.",
+      "Cook the patties on a grill or stovetop over medium-high heat until they reach the desired doneness.",
+      "Place a slice of American cheese on each patty and allow it to melt.",
+      "Toast the hamburger buns on the grill or in a toaster.",
+      "Assemble the cheeseburgers by placing a patty with melted cheese on the bottom half of each bun.",
+      "Top with lettuce, sliced tomatoes, sliced onions, ketchup, mustard, and pickles.",
+      "Cover with the top half of the bun. Serve hot and enjoy your classic American cheeseburger!"
+    ],
+    "duration": "20 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "Macaroni and Cheese",
+    "food_image": "https://images.pexels.com/photos/5060461/pexels-photo-5060461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 cups elbow macaroni",
+      "4 cups shredded sharp cheddar cheese",
+      "1/2 cup unsalted butter",
+      "1/2 cup all-purpose flour",
+      "4 cups whole milk",
+      "1 teaspoon mustard",
+      "Salt and black pepper to taste",
+      "1/2 cup breadcrumbs (optional for topping)"
+    ],
+    "instructions": [
+      "Cook the elbow macaroni according to package instructions. Drain and set aside.",
+      "In a large saucepan, melt butter over medium heat. Stir in flour to create a roux.",
+      "Gradually whisk in milk until the mixture is smooth and thickened.",
+      "Add shredded cheddar cheese and continue stirring until the cheese is fully melted and the sauce is creamy.",
+      "Stir in mustard, salt, and black pepper to taste.",
+      "Combine the cheese sauce with cooked macaroni, ensuring the pasta is well coated.",
+      "If desired, transfer the macaroni and cheese to a baking dish, sprinkle breadcrumbs on top, and bake until golden brown.",
+      "Serve hot and enjoy the comforting goodness of Macaroni and Cheese!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "BBQ Pulled Pork Sandwich",
+    "food_image": "https://images.pexels.com/photos/13068670/pexels-photo-13068670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 pounds pork shoulder or butt, trimmed",
+      "1 cup barbecue sauce",
+      "1/2 cup apple cider vinegar",
+      "1/4 cup brown sugar",
+      "1 tablespoon Dijon mustard",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1 teaspoon smoked paprika",
+      "Salt and black pepper to taste",
+      "Hamburger buns",
+      "Coleslaw for topping (optional)"
+    ],
+    "instructions": [
+      "Rub the pork shoulder with garlic powder, onion powder, smoked paprika, salt, and black pepper.",
+      "In a slow cooker, combine barbecue sauce, apple cider vinegar, brown sugar, Dijon mustard, and Worcestershire sauce.",
+      "Place the seasoned pork in the slow cooker and cook on low for 6-8 hours or until the meat is tender and easily shredded with a fork.",
+      "Shred the pork and mix it with the barbecue sauce in the slow cooker until well coated.",
+      "Toast hamburger buns and fill them with the BBQ pulled pork.",
+      "Top with coleslaw if desired. Serve hot and savor the deliciousness of BBQ Pulled Pork Sandwich!"
+    ],
+    "duration": "6-8 hours (slow cooking)"
+  },
+  {
+    "country": "USA",
+    "food_name": "Chicken Fried Steak",
+    "food_image": "https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "4 cube steaks",
+      "1 cup all-purpose flour",
+      "2 eggs",
+      "1 cup buttermilk",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1/2 teaspoon paprika",
+      "Salt and black pepper to taste",
+      "Vegetable oil for frying",
+      "Country gravy for serving"
+    ],
+    "instructions": [
+      "Season cube steaks with garlic powder, onion powder, paprika, salt, and black pepper.",
+      "In one bowl, place flour. In another bowl, beat eggs and mix with buttermilk.",
+      "Dip each steak in the flour, then in the egg mixture, and again in the flour, ensuring they are well coated.",
+      "Heat vegetable oil in a skillet over medium-high heat. Fry steaks until golden brown on both sides.",
+      "Drain on paper towels and serve hot with country gravy. Enjoy the comfort of Chicken Fried Steak!"
+    ],
+    "duration": "30 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "New York-Style Pizza",
+    "food_image": "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "Pizza dough",
+      "1 cup pizza sauce",
+      "2 cups shredded mozzarella cheese",
+      "1/4 cup grated Parmesan cheese",
+      "1 teaspoon dried oregano",
+      "1/2 teaspoon garlic powder",
+      "Olive oil for brushing",
+      "Toppings of your choice (pepperoni, mushrooms, bell peppers, etc.)"
+    ],
+    "instructions": [
+      "Preheat the oven to the highest temperature (usually around 475°F or 245°C).",
+      "Roll out pizza dough on a floured surface to your desired thickness.",
+      "Place the rolled-out dough on a pizza stone or baking sheet.",
+      "Spread pizza sauce evenly over the dough, leaving a border around the edges.",
+      "Sprinkle mozzarella and Parmesan cheese over the sauce. Add your favorite toppings.",
+      "Sprinkle dried oregano and garlic powder over the top. Drizzle olive oil around the edges.",
+      "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is bubbly and slightly browned.",
+      "Slice and enjoy the classic taste of New York-Style Pizza!"
+    ],
+    "duration": "15 minutes"
+  },
+  {
+    "country": "USA",
+    "food_name": "Buffalo Wings",
+    "food_image": "https://images.pexels.com/photos/13998980/pexels-photo-13998980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 pounds chicken wings, split at joints, tips discarded",
+      "1/2 cup hot sauce (e.g., Frank's RedHot)",
+      "1/3 cup melted butter",
+      "1 teaspoon white vinegar",
+      "1/2 teaspoon Worcestershire sauce",
+      "Celery sticks and blue cheese dressing for serving"
+    ],
+    "instructions": [
+      "Preheat the oven to 400°F (200°C).",
+      "Bake the chicken wings on a baking sheet lined with parchment paper for 45-50 minutes or until golden and crispy.",
+      "In a bowl, mix hot sauce, melted butter, white vinegar, and Worcestershire sauce to create the Buffalo sauce.",
+      "Toss the baked wings in the Buffalo sauce until well coated.",
+      "Serve hot with celery sticks and blue cheese dressing on the side. Enjoy the spicy goodness of Buffalo Wings!"
+    ],
+    "duration": "1 hour"
+  }
+]
