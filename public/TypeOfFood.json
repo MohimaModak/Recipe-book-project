@@ -1,0 +1,440 @@
+[
+  {
+    "type": "Healthy",
+    "food_name": "Quinoa and Chickpea Salad",
+    "recipe": "Combine cooked quinoa, chickpeas, cherry tomatoes, cucumber, and feta cheese. Drizzle with olive oil and lemon juice. Toss well and serve chilled.",
+    "image": "quinoa_chickpea_salad.jpg"
+  },
+  {
+    "type": "Healthy",
+    "food_name": "Grilled Salmon with Asparagus",
+    "recipe": "Season salmon fillets with olive oil, garlic, and dill. Grill until cooked. Roast asparagus with olive oil and season with salt. Serve together.",
+    "image": "grilled_salmon_asparagus.jpg"
+  },
+  {
+    "type": "Healthy",
+    "food_name": "Sweet Potato and Lentil Curry",
+    "recipe": "Cook sweet potatoes and lentils in a curry sauce with coconut milk, turmeric, cumin, and coriander. Garnish with fresh cilantro and serve over brown rice.",
+    "image": "sweet_potato_lentil_curry.jpg"
+  },
+  {
+    "type": "Healthy",
+    "food_name": "Greek Yogurt Parfait",
+    "recipe": "Layer Greek yogurt with berries and granola in a glass. Drizzle with honey. Repeat the layers and enjoy a delicious and nutritious parfait.",
+    "image": "greek_yogurt_parfait.jpg"
+  },
+  {
+    "type": "Healthy",
+    "food_name": "Roasted Brussels Sprouts with Balsamic Glaze",
+    "recipe": "Toss Brussels sprouts with olive oil, salt, and pepper. Roast until crispy. Drizzle with balsamic glaze before serving.",
+    "image": "roasted_brussels_sprouts.jpg"
+  },
+  {
+    "type": "Vitamin-Rich",
+    "food_name": "Citrus Salad",
+    "recipe": "Combine orange segments, grapefruit, and kiwi. Sprinkle with chopped mint. Serve chilled.",
+    "image": "citrus_salad.jpg"
+  },
+  {
+    "type": "Vitamin-Rich",
+    "food_name": "Spinach and Berry Smoothie",
+    "recipe": "Blend spinach, mixed berries, banana, and almond milk. Enjoy a nutritious green smoothie.",
+    "image": "spinach_berry_smoothie.jpg"
+  },
+  {
+    "type": "Vitamin-Rich",
+    "food_name": "Salmon and Avocado Sushi Bowl",
+    "recipe": "Top sushi rice with grilled salmon, avocado slices, and seaweed. Drizzle with soy sauce and sesame seeds.",
+    "image": "salmon_avocado_sushi_bowl.jpg"
+  },
+  {
+    "type": "Vitamin-Rich",
+    "food_name": "Mango Tango Salad",
+    "recipe": "Combine diced mango, cucumber, red onion, and cilantro. Squeeze lime juice over the salad and toss gently.",
+    "image": "mango_tango_salad.jpg"
+  },
+  {
+    "type": "Vitamin-Rich",
+    "food_name": "Sweet Potato and Kale Frittata",
+    "recipe": "Saute sweet potatoes and kale. Mix with beaten eggs and bake until set. Slice into wedges and serve.",
+    "image": "sweet_potato_kale_frittata.jpg"
+  },
+  {
+    "type": "Protein-Packed",
+    "food_name": "Grilled Chicken Salad",
+    "recipe": "Grill chicken breast and slice into strips. Toss with mixed greens, cherry tomatoes, cucumber, and a light vinaigrette.",
+    "image": "grilled_chicken_salad.jpg"
+  },
+  {
+    "type": "Protein-Packed",
+    "food_name": "Quinoa and Black Bean Bowl",
+    "recipe": "Cook quinoa and mix with black beans, corn, avocado, and salsa. Top with lime wedges and cilantro.",
+    "image": "quinoa_black_bean_bowl.jpg"
+  },
+  {
+    "type": "Protein-Packed",
+    "food_name": "Greek Yogurt Parfait with Almonds",
+    "recipe": "Layer Greek yogurt with mixed berries, granola, and sliced almonds. Drizzle with honey for added sweetness.",
+    "image": "greek_yogurt_parfait_almonds.jpg"
+  },
+  {
+    "type": "Protein-Packed",
+    "food_name": "Salmon and Quinoa Stuffed Peppers",
+    "recipe": "Stuff bell peppers with a mixture of cooked quinoa, flaked salmon, spinach, and feta cheese. Bake until peppers are tender.",
+    "image": "salmon_quinoa_stuffed_peppers.jpg"
+  },
+  {
+    "type": "Protein-Packed",
+    "food_name": "Tofu and Vegetable Stir-Fry",
+    "recipe": "Stir-fry tofu with broccoli, bell peppers, and snap peas. Season with soy sauce, ginger, and garlic.",
+    "image": "tofu_vegetable_stir_fry.jpg"
+  },
+  {
+    "type": "Vegetarian",
+    "food_name": "Caprese Salad",
+    "recipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves. Drizzle with balsamic glaze and sprinkle with salt and pepper.",
+    "image": "caprese_salad.jpg"
+  },
+  {
+    "type": "Vegetarian",
+    "food_name": "Vegetable Stir-Fry with Tofu",
+    "recipe": "Stir-fry a mix of colorful vegetables such as broccoli, bell peppers, and carrots with tofu. Season with soy sauce and ginger.",
+    "image": "vegetable_stir_fry_tofu.jpg"
+  },
+  {
+    "type": "Vegetarian",
+    "food_name": "Mushroom and Spinach Risotto",
+    "recipe": "Sauté mushrooms and spinach, then mix with cooked risotto. Add Parmesan cheese and stir until creamy.",
+    "image": "mushroom_spinach_risotto.jpg"
+  },
+  {
+    "type": "Vegetarian",
+    "food_name": "Chickpea and Spinach Curry",
+    "recipe": "Cook chickpeas and spinach in a curry sauce with coconut milk, turmeric, cumin, and coriander. Serve over rice.",
+    "image": "chickpea_spinach_curry.jpg"
+  },
+  {
+    "type": "Vegetarian",
+    "food_name": "Capellini Pomodoro",
+    "recipe": "Toss capellini pasta with fresh tomatoes, garlic, basil, and olive oil. Sprinkle with grated Parmesan cheese.",
+    "image": "capellini_pomodoro.jpg"
+  },
+  {
+    "type": "Fiber-Rich",
+    "food_name": "Quinoa and Black Bean Salad",
+    "recipe": "Combine cooked quinoa, black beans, corn, cherry tomatoes, and cilantro. Dress with a lime vinaigrette and toss well.",
+    "image": "quinoa_black_bean_salad.jpg"
+  },
+  {
+    "type": "Fiber-Rich",
+    "food_name": "Chia Seed Pudding with Berries",
+    "recipe": "Mix chia seeds with almond milk, vanilla extract, and a touch of honey. Refrigerate until it thickens, then top with fresh berries.",
+    "image": "chia_seed_pudding_berrie.jpg"
+  },
+  {
+    "type": "Fiber-Rich",
+    "food_name": "Roasted Sweet Potato Wedges",
+    "recipe": "Cut sweet potatoes into wedges, toss with olive oil, paprika, and garlic powder. Roast until crispy and serve with a yogurt dip.",
+    "image": "roasted_sweet_potato_wedges.jpg"
+  },
+  {
+    "type": "Fiber-Rich",
+    "food_name": "Broccoli and Chickpea Quinoa Bowl",
+    "recipe": "Cook quinoa and top with roasted broccoli, chickpeas, and a tahini dressing. Garnish with sesame seeds.",
+    "image": "broccoli_chickpea_quinoa_bowl.jpg"
+  },
+  {
+    "type": "Fiber-Rich",
+    "food_name": "Mixed Berry Oatmeal",
+    "recipe": "Cook oats with almond milk and top with a mix of fresh berries, nuts, and a drizzle of honey.",
+    "image": "mixed_berry_oatmeal.jpg"
+  },
+  {
+    "type": "Low-Calorie",
+    "food_name": "Cucumber and Tomato Salad",
+    "recipe": "Combine sliced cucumbers, cherry tomatoes, red onion, and dill. Dress with a light vinaigrette for a refreshing salad.",
+    "image": "cucumber_tomato_salad.jpg"
+  },
+  {
+    "type": "Low-Calorie",
+    "food_name": "Grilled Vegetable Skewers",
+    "recipe": "Skewer bell peppers, zucchini, cherry tomatoes, and mushrooms. Grill until vegetables are tender. Serve with a squeeze of lemon.",
+    "image": "grilled_vegetable_skewers.jpg"
+  },
+  {
+    "type": "Low-Calorie",
+    "food_name": "Zucchini Noodles with Pesto",
+    "recipe": "Spiralize zucchini into noodles and toss with homemade pesto made from basil, garlic, pine nuts, and Parmesan.",
+    "image": "zucchini_noodles_pesto.jpg"
+  },
+  {
+    "type": "Low-Calorie",
+    "food_name": "Stuffed Bell Peppers with Quinoa",
+    "recipe": "Stuff bell peppers with a mixture of cooked quinoa, black beans, corn, and salsa. Bake until peppers are tender.",
+    "image": "stuffed_bell_peppers_quinoa.jpg"
+  },
+  {
+    "type": "Low-Calorie",
+    "food_name": "Lemon Garlic Shrimp Salad",
+    "recipe": "Marinate shrimp in lemon juice and garlic. Grill or sauté until cooked. Serve over a bed of mixed greens.",
+    "image": "lemon_garlic_shrimp_salad.jpg"
+  },
+  {
+    "type": "Energy-Boosting",
+    "food_name": "Acai Berry Smoothie Bowl",
+    "recipe": "Blend acai berries with banana, almond milk, and a touch of honey. Top with granola, sliced bananas, and coconut flakes.",
+    "image": "acai_berry_smoothie_bowl.jpg"
+  },
+  {
+    "type": "Energy-Boosting",
+    "food_name": "Almond Butter and Banana Toast",
+    "recipe": "Spread almond butter on whole grain toast and top with banana slices. Sprinkle with chia seeds for an extra boost.",
+    "image": "almond_butter_banana_toast.jpg"
+  },
+  {
+    "type": "Energy-Boosting",
+    "food_name": "Green Tea and Chia Seed Pudding",
+    "recipe": "Mix chia seeds with green tea, almond milk, and a bit of honey. Refrigerate until it thickens, then top with fresh berries.",
+    "image": "green_tea_chia_seed_pudding.jpg"
+  },
+  {
+    "type": "Energy-Boosting",
+    "food_name": "Oat and Nut Energy Bites",
+    "recipe": "Combine oats, nuts, honey, and nut butter. Form into bite-sized balls. Refrigerate until firm and grab for a quick energy boost.",
+    "image": "oat_nut_energy_bites.jpg"
+  },
+  {
+    "type": "Energy-Boosting",
+    "food_name": "Spinach and Banana Smoothie",
+    "recipe": "Blend spinach, banana, Greek yogurt, and almond milk. Enjoy a nutrient-packed smoothie to kickstart your day.",
+    "image": "spinach_banana_smoothie.jpg"
+  },
+  {
+    "type": "Non-Vegetarian",
+    "food_name": "Grilled Chicken Caesar Salad",
+    "recipe": "Grill chicken breast and slice into strips. Toss with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+    "image": "grilled_chicken_caesar_salad.jpg"
+  },
+  {
+    "type": "Non-Vegetarian",
+    "food_name": "Teriyaki Glazed Salmon",
+    "recipe": "Marinate salmon fillets in teriyaki sauce, garlic, and ginger. Grill or bake until cooked. Serve with steamed broccoli.",
+    "image": "teriyaki_glazed_salmon.jpg"
+  },
+  {
+    "type": "Non-Vegetarian",
+    "food_name": "Shrimp Scampi Pasta",
+    "recipe": "Sauté shrimp in garlic, butter, and white wine. Toss with cooked pasta, lemon zest, and parsley.",
+    "image": "shrimp_scampi_pasta.jpg"
+  },
+  {
+    "type": "Non-Vegetarian",
+    "food_name": "Beef Stir-Fry with Vegetables",
+    "recipe": "Stir-fry thinly sliced beef with colorful vegetables in soy sauce and ginger. Serve over steamed rice.",
+    "image": "beef_stir_fry_vegetables.jpg"
+  },
+  {
+    "type": "Non-Vegetarian",
+    "food_name": "Grilled Lamb Chops",
+    "recipe": "Marinate lamb chops with olive oil, rosemary, and garlic. Grill until desired doneness. Serve with mint sauce.",
+    "image": "grilled_lamb_chops.jpg"
+  },
+  {
+    "type": "Heart-Healthy",
+    "food_name": "Baked Salmon with Lemon and Dill",
+    "recipe": "Marinate salmon with lemon, olive oil, and dill. Bake until flaky. Serve with steamed asparagus and quinoa.",
+    "image": "baked_salmon_lemon_dill.jpg"
+  },
+  {
+    "type": "Heart-Healthy",
+    "food_name": "Oatmeal with Berries and Almonds",
+    "recipe": "Cook oatmeal with almond milk. Top with fresh berries, sliced almonds, and a drizzle of honey.",
+    "image": "oatmeal_berries_almonds.jpg"
+  },
+  {
+    "type": "Heart-Healthy",
+    "food_name": "Avocado and Spinach Smoothie",
+    "recipe": "Blend spinach, avocado, banana, Greek yogurt, and almond milk for a creamy and nutritious smoothie.",
+    "image": "avocado_spinach_smoothie.jpg"
+  },
+  {
+    "type": "Heart-Healthy",
+    "food_name": "Olive Oil Drizzled Roasted Vegetables",
+    "recipe": "Toss mixed vegetables with olive oil, garlic, and herbs. Roast until tender. Drizzle with extra virgin olive oil before serving.",
+    "image": "roasted_vegetables_olive_oil.jpg"
+  },
+  {
+    "type": "Detoxifying",
+    "food_name": "Detox Water with Cucumber and Mint",
+    "recipe": "Infuse water with cucumber slices, mint leaves, and a splash of lemon. Chill and enjoy a refreshing detox drink.",
+    "image": "detox_water_cucumber_mint.jpg"
+  },
+  {
+    "type": "Detoxifying",
+    "food_name": "Quinoa and Kale Detox Salad",
+    "recipe": "Combine cooked quinoa, kale, shredded carrots, and broccoli. Toss with a lemon-tahini dressing for a detoxifying salad.",
+    "image": "quinoa_kale_detox_salad.jpg"
+  },
+  {
+    "type": "Detoxifying",
+    "food_name": "Turmeric and Lemon Detox Tea",
+    "recipe": "Brew a cup of hot water with turmeric, ginger, and lemon. Strain and enjoy this cleansing tea.",
+    "image": "turmeric_lemon_detox_tea.jpg"
+  },
+  {
+    "type": "Detoxifying",
+    "food_name": "Baked Cod with Lemon and Herbs",
+    "recipe": "Marinate cod fillets with lemon, garlic, and herbs. Bake until fish is flaky. Serve with steamed asparagus.",
+    "image": "baked_cod_lemon_herbs.jpg"
+  },
+  {
+    "type": "Weight Loss",
+    "food_name": "Grilled Chicken and Vegetable Skewers",
+    "recipe": "Marinate chicken cubes with olive oil, lemon, and herbs. Skewer with colorful vegetables and grill until chicken is cooked.",
+    "image": "grilled_chicken_vegetable_skewers.jpg"
+  },
+  {
+    "type": "Weight Loss",
+    "food_name": "Cauliflower Rice Stir-Fry",
+    "recipe": "Grate cauliflower to resemble rice. Stir-fry with colorful vegetables, lean protein, and a splash of soy sauce.",
+    "image": "cauliflower_rice_stir_fry.jpg"
+  },
+  {
+    "type": "Weight Loss",
+    "food_name": "Mixed Greens Salad with Grilled Shrimp",
+    "recipe": "Toss mixed greens with cherry tomatoes, cucumber, and grilled shrimp. Dress with a light vinaigrette.",
+    "image": "mixed_greens_salad_grilled_shrimp.jpg"
+  },
+  {
+    "type": "Weight Loss",
+    "food_name": "Berry and Spinach Smoothie Bowl",
+    "recipe": "Blend spinach, mixed berries, Greek yogurt, and a touch of honey. Pour into a bowl and top with granola.",
+    "image": "berry_spinach_smoothie_bowl.jpg"
+  },
+  {
+    "type": "Immune-Boosting",
+    "food_name": "Citrus and Berry Immunity Smoothie",
+    "recipe": "Blend citrus fruits like oranges and berries with Greek yogurt, honey, and a handful of spinach for a nutritious smoothie.",
+    "image": "citrus_berry_immunity_smoothie.jpg"
+  },
+  {
+    "type": "Immune-Boosting",
+    "food_name": "Garlic and Lemon Roasted Chicken",
+    "recipe": "Marinate chicken with minced garlic, lemon juice, and herbs. Roast until golden brown and juicy.",
+    "image": "garlic_lemon_roasted_chicken.jpg"
+  },
+  {
+    "type": "Immune-Boosting",
+    "food_name": "Green Tea and Honey Infusion",
+    "recipe": "Brew green tea and add a spoonful of honey. Enjoy this warm and soothing beverage for immune support.",
+    "image": "green_tea_honey_infusion.jpg"
+  },
+  {
+    "type": "Immune-Boosting",
+    "food_name": "Kale and White Bean Soup",
+    "recipe": "Make a hearty soup with kale, white beans, carrots, and onions. Season with turmeric and ginger for added immunity benefits.",
+    "image": "kale_white_bean_soup.jpg"
+  },
+  {
+    "type": "Post-Workout Recovery",
+    "food_name": "Protein-Packed Chocolate Banana Smoothie",
+    "recipe": "Blend chocolate protein powder, banana, almond milk, and a scoop of peanut butter for a delicious post-workout shake.",
+    "image": "protein_chocolate_banana_smoothie.jpg"
+  },
+  {
+    "type": "Post-Workout Recovery",
+    "food_name": "Grilled Chicken and Quinoa Bowl",
+    "recipe": "Combine grilled chicken, quinoa, roasted vegetables, and a drizzle of olive oil for a balanced post-exercise meal.",
+    "image": "grilled_chicken_quinoa_bowl.jpg"
+  },
+  {
+    "type": "Post-Workout Recovery",
+    "food_name": "Greek Yogurt with Berries and Granola",
+    "recipe": "Top Greek yogurt with fresh berries and granola to replenish protein and carbohydrates post-workout.",
+    "image": "greek_yogurt_berries_granola.jpg"
+  },
+  {
+    "type": "Post-Workout Recovery",
+    "food_name": "Salmon and Sweet Potato Hash",
+    "recipe": "Flake grilled salmon and mix with roasted sweet potatoes, spinach, and a dash of lemon for a nutrient-rich recovery meal.",
+    "image": "salmon_sweet_potato_hash.jpg"
+  },
+  {
+    "type": "Hydrating",
+    "food_name": "Watermelon and Mint Salad",
+    "recipe": "Combine diced watermelon with fresh mint leaves. Chill and serve for a refreshing and hydrating salad.",
+    "image": "watermelon_mint_salad.jpg"
+  },
+  {
+    "type": "Hydrating",
+    "food_name": "Cucumber and Lemon Infused Water",
+    "recipe": "Infuse water with cucumber slices and lemon wedges. Refrigerate for a few hours for a hydrating and flavorful drink.",
+    "image": "cucumber_lemon_infused_water.jpg"
+  },
+  {
+    "type": "Hydrating",
+    "food_name": "Coconut Water Smoothie with Pineapple",
+    "recipe": "Blend coconut water with pineapple chunks and ice for a tropical and hydrating smoothie.",
+    "image": "coconut_water_smoothie_pineapple.jpg"
+  },
+  {
+    "type": "Hydrating",
+    "food_name": "Chia Seed Hydration Pudding",
+    "recipe": "Mix chia seeds with coconut water and let it sit until it forms a pudding-like consistency. Top with fresh berries.",
+    "image": "chia_seed_hydration_pudding.jpg"
+  },
+  {
+    "type": "High-Fiber",
+    "food_name": "Quinoa and Black Bean Salad",
+    "recipe": "Combine cooked quinoa, black beans, corn, cherry tomatoes, and cilantro. Dress with a lime vinaigrette and toss well.",
+    "image": "quinoa_black_bean_salad.jpg"
+  },
+  {
+    "type": "High-Fiber",
+    "food_name": "Chia Seed Pudding with Berries",
+    "recipe": "Mix chia seeds with almond milk, vanilla extract, and a touch of honey. Refrigerate until it thickens, then top with fresh berries.",
+    "image": "chia_seed_pudding_berrie.jpg"
+  },
+  {
+    "type": "High-Fiber",
+    "food_name": "Roasted Sweet Potato Wedges",
+    "recipe": "Cut sweet potatoes into wedges, toss with olive oil, paprika, and garlic powder. Roast until crispy and serve with a yogurt dip.",
+    "image": "roasted_sweet_potato_wedges.jpg"
+  },
+  {
+    "type": "High-Fiber",
+    "food_name": "Broccoli and Chickpea Quinoa Bowl",
+    "recipe": "Cook quinoa and top with roasted broccoli, chickpeas, and a tahini dressing. Garnish with sesame seeds.",
+    "image": "broccoli_chickpea_quinoa_bowl.jpg"
+  },
+  {
+    "type": "High-Fiber",
+    "food_name": "Mixed Berry Oatmeal",
+    "recipe": "Cook oats with almond milk and top with a mix of fresh berries, nuts, and a drizzle of honey.",
+    "image": "mixed_berry_oatmeal.jpg"
+  },
+  {
+    "type": "Anti-Inflammatory",
+    "food_name": "Turmeric and Ginger Golden Milk",
+    "recipe": "Mix turmeric and ginger with warm milk. Add a touch of honey for sweetness. Enjoy this soothing and anti-inflammatory beverage.",
+    "image": "turmeric_ginger_golden_milk.jpg"
+  },
+  {
+    "type": "Anti-Inflammatory",
+    "food_name": "Quinoa Salad with Pomegranate and Walnuts",
+    "recipe": "Combine cooked quinoa with pomegranate seeds, walnuts, and a light balsamic vinaigrette. Toss well and serve.",
+    "image": "quinoa_salad_pomegranate_walnuts.jpg"
+  },
+  {
+    "type": "Anti-Inflammatory",
+    "food_name": "Blueberry and Kale Smoothie",
+    "recipe": "Blend kale, blueberries, banana, and almond milk for a nutrient-packed smoothie with anti-inflammatory properties.",
+    "image": "blueberry_kale_smoothie.jpg"
+  },
+  {
+    "type": "Anti-Inflammatory",
+    "food_name": "Grilled Turmeric Chicken Skewers",
+    "recipe": "Marinate chicken in turmeric, garlic, and lemon. Skewer and grill until cooked. Serve with a yogurt dipping sauce.",
+    "image": "grilled_turmeric_chicken_skewers.jpg"
+  }
+]

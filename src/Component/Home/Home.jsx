@@ -2,6 +2,7 @@ import Marquee from "react-fast-marquee";
 import "./Home.css";
 import CountryWiseFood from "../CountryWiseFood/CountryWiseFood";
 import CountryInput from "../CountryInput/CountryInput";
+import TimeTable from "../../TimeTable/TimeTable";
 const Home = () => {
   return (
     <div>
@@ -99,7 +100,7 @@ const Home = () => {
         </Marquee>
       </div>
 
-      <div className="mt-20">
+      <div className="mt-20 shadow-2xl border p-9 rounded-md">
         <div className="">
           <CountryInput></CountryInput>
         </div>
@@ -107,6 +108,12 @@ const Home = () => {
           <CountryWiseFood></CountryWiseFood>
         </div>
       </div>
+<div className="mt-20 shadow-2xl border p-9 rounded-md">
+  <div>
+    <TimeTable></TimeTable>
+  </div>
+</div>
+
     </div>
   );
 };

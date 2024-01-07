@@ -10,6 +10,8 @@ import AddRecipe from "./Component/AddRecipe/AddRecipe.jsx";
 import Recipes from "./Component/Recipes/Recipes.jsx";
 import Edit from "./Component/Edit/Edit.jsx";
 import CountryFoodDetails from "./Component/CountryFoodDetails/CountryFoodDetails.jsx";
+import TimeTable from "./TimeTable/TimeTable.jsx";
+import Hour from "./Component/Hour/Hour.jsx";
 
 const router = createBrowserRouter([
   {
@@ -44,6 +46,16 @@ const router = createBrowserRouter([
         element: <Edit></Edit>,
         loader: ({ params }) =>
           fetch(`http://localhost:4000/edit/${params.id}`),
+      },
+      {
+        path: "/hourWiseFood/:Hour",
+        element: <Hour></Hour>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/hourWiseFood/${params.Hour}`),
+      },
+      {
+        path: "/timetable",
+        element: <TimeTable></TimeTable>,
       },
     ],
   },
