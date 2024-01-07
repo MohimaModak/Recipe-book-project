@@ -3,438 +3,438 @@
     "type": "Healthy",
     "food_name": "Quinoa and Chickpea Salad",
     "recipe": "Combine cooked quinoa, chickpeas, cherry tomatoes, cucumber, and feta cheese. Drizzle with olive oil and lemon juice. Toss well and serve chilled.",
-    "image": "quinoa_chickpea_salad.jpg"
+    "image": "https://images.pexels.com/photos/9893127/pexels-photo-9893127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Healthy",
     "food_name": "Grilled Salmon with Asparagus",
     "recipe": "Season salmon fillets with olive oil, garlic, and dill. Grill until cooked. Roast asparagus with olive oil and season with salt. Serve together.",
-    "image": "grilled_salmon_asparagus.jpg"
+    "image": "https://img.freepik.com/free-photo/baked-salmon-garnished-with-asparagus-tomatoes-with-herbs-top-view_2829-14508.jpg?w=740&t=st=1704606553~exp=1704607153~hmac=b553f53958e9a49cdaf619db3c57437a995606beba2ca43d9170bc35d195252d"
   },
   {
     "type": "Healthy",
     "food_name": "Sweet Potato and Lentil Curry",
     "recipe": "Cook sweet potatoes and lentils in a curry sauce with coconut milk, turmeric, cumin, and coriander. Garnish with fresh cilantro and serve over brown rice.",
-    "image": "sweet_potato_lentil_curry.jpg"
+    "image": "https://img.freepik.com/free-photo/front-view-meat-sauce-soup-with-greens-potatoes-dark-desk-soup-dinner-sauce-meat_140725-79068.jpg?w=740&t=st=1704606578~exp=1704607178~hmac=74610f4e5600a38487bcc32f8b030ce31a1a3dcb9b55c7d052ff7e6132ad4c4e"
   },
   {
     "type": "Healthy",
     "food_name": "Greek Yogurt Parfait",
     "recipe": "Layer Greek yogurt with berries and granola in a glass. Drizzle with honey. Repeat the layers and enjoy a delicious and nutritious parfait.",
-    "image": "greek_yogurt_parfait.jpg"
+    "image": "https://img.freepik.com/premium-photo/fresh-raspberry-yogurt-with-granola-healthy-food-style_1339-151327.jpg?w=740"
   },
   {
     "type": "Healthy",
     "food_name": "Roasted Brussels Sprouts with Balsamic Glaze",
     "recipe": "Toss Brussels sprouts with olive oil, salt, and pepper. Roast until crispy. Drizzle with balsamic glaze before serving.",
-    "image": "roasted_brussels_sprouts.jpg"
+    "image": "https://img.freepik.com/free-photo/brussels-sprouts-roasted-brussels-sprouts-with-bacon-delicious-lunch_2829-11303.jpg?w=740&t=st=1704606638~exp=1704607238~hmac=b903cbae2427077238b2a923f1dc93f4b86fed7cbe4812da09b3ae9f103a52d8"
   },
   {
     "type": "Vitamin-Rich",
     "food_name": "Citrus Salad",
     "recipe": "Combine orange segments, grapefruit, and kiwi. Sprinkle with chopped mint. Serve chilled.",
-    "image": "citrus_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/salad-with-vegetables-fruit_23-2148515362.jpg?w=740&t=st=1704606697~exp=1704607297~hmac=269f446c6eac9a52bbeba6e91a9465b69bfdac65dccc0bc7f8ea77d9c34f380f"
   },
   {
     "type": "Vitamin-Rich",
     "food_name": "Spinach and Berry Smoothie",
     "recipe": "Blend spinach, mixed berries, banana, and almond milk. Enjoy a nutritious green smoothie.",
-    "image": "spinach_berry_smoothie.jpg"
+    "image": "https://images.pexels.com/photos/3625372/pexels-photo-3625372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Vitamin-Rich",
     "food_name": "Salmon and Avocado Sushi Bowl",
     "recipe": "Top sushi rice with grilled salmon, avocado slices, and seaweed. Drizzle with soy sauce and sesame seeds.",
-    "image": "salmon_avocado_sushi_bowl.jpg"
+    "image": "https://img.freepik.com/free-photo/fresh-vegetables-salmon-sushi_23-2148502511.jpg?w=740&t=st=1704606762~exp=1704607362~hmac=c7fe07ca86a8cb7cadb1a900cff213f6c43808f1cb0541b742cb290db16efb0d"
   },
   {
     "type": "Vitamin-Rich",
     "food_name": "Mango Tango Salad",
     "recipe": "Combine diced mango, cucumber, red onion, and cilantro. Squeeze lime juice over the salad and toss gently.",
-    "image": "mango_tango_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/korean-style-fresh-mango-shaved-ice-wood-table_1232-3285.jpg?2&w=740&t=st=1704606790~exp=1704607390~hmac=4737ae54e01a766fcd603c7feacd2ff6b5140adf31d4d88239a3a5caeb3e16de"
   },
   {
     "type": "Vitamin-Rich",
     "food_name": "Sweet Potato and Kale Frittata",
     "recipe": "Saute sweet potatoes and kale. Mix with beaten eggs and bake until set. Slice into wedges and serve.",
-    "image": "sweet_potato_kale_frittata.jpg"
+    "image": "https://img.freepik.com/free-photo/oven-baked-omelette-with-flowers-zucchini-pan_2829-10866.jpg?w=740&t=st=1704606826~exp=1704607426~hmac=eac4e7a80b38fa225c92d469d8de9162eeee6efd387e247076f583d94dc5d11f"
   },
   {
     "type": "Protein-Packed",
     "food_name": "Grilled Chicken Salad",
     "recipe": "Grill chicken breast and slice into strips. Toss with mixed greens, cherry tomatoes, cucumber, and a light vinaigrette.",
-    "image": "grilled_chicken_salad.jpg"
+    "image": "https://img.freepik.com/premium-photo/top-view-salad-with-chicken-kitchen-towel_23-2148700365.jpg?w=740"
   },
   {
     "type": "Protein-Packed",
     "food_name": "Quinoa and Black Bean Bowl",
     "recipe": "Cook quinoa and mix with black beans, corn, avocado, and salsa. Top with lime wedges and cilantro.",
-    "image": "quinoa_black_bean_bowl.jpg"
+    "image": "https://img.freepik.com/free-photo/healthy-salad-bowl-with-quinoa-vegetables-fruit-generated-by-ai_188544-43110.jpg?w=826&t=st=1704606874~exp=1704607474~hmac=6f133dff13b70fe9887092a1fc9c39d700a126e6b1e491ab91aeb40d0a47efa2"
   },
   {
     "type": "Protein-Packed",
     "food_name": "Greek Yogurt Parfait with Almonds",
     "recipe": "Layer Greek yogurt with mixed berries, granola, and sliced almonds. Drizzle with honey for added sweetness.",
-    "image": "greek_yogurt_parfait_almonds.jpg"
+    "image": "https://img.freepik.com/free-photo/healthy-dessert-with-muesli-fruit-glass-bowl-table_2829-19843.jpg?w=740&t=st=1704606904~exp=1704607504~hmac=a8ca92c001e2709b78f1404b3d30271768f70aa2e65b1421af56931520aa3618"
   },
   {
     "type": "Protein-Packed",
     "food_name": "Salmon and Quinoa Stuffed Peppers",
     "recipe": "Stuff bell peppers with a mixture of cooked quinoa, flaked salmon, spinach, and feta cheese. Bake until peppers are tender.",
-    "image": "salmon_quinoa_stuffed_peppers.jpg"
+    "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-grey-surface-food-dolma-vegetable-meal-beef_140725-74493.jpg?w=740&t=st=1704606936~exp=1704607536~hmac=d95ec49997a7c0192470ebc85363572536b2a968cc972ddab9667b7f4ed02be8"
   },
   {
     "type": "Protein-Packed",
     "food_name": "Tofu and Vegetable Stir-Fry",
     "recipe": "Stir-fry tofu with broccoli, bell peppers, and snap peas. Season with soy sauce, ginger, and garlic.",
-    "image": "tofu_vegetable_stir_fry.jpg"
+    "image": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables-black-stone-background_123827-21418.jpg?w=740&t=st=1704606966~exp=1704607566~hmac=df0c2340deae737dab57c2b966b7504fc1586f9ba1cf89f58ea6d61845594486"
   },
   {
     "type": "Vegetarian",
     "food_name": "Caprese Salad",
     "recipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves. Drizzle with balsamic glaze and sprinkle with salt and pepper.",
-    "image": "caprese_salad.jpg"
+    "image": "https://img.freepik.com/premium-photo/italian-caprese-salad-with-sliced-tomatoes-mozzarella-cheese-basil-olive-oil_73989-20275.jpg?w=740"
   },
   {
     "type": "Vegetarian",
     "food_name": "Vegetable Stir-Fry with Tofu",
     "recipe": "Stir-fry a mix of colorful vegetables such as broccoli, bell peppers, and carrots with tofu. Season with soy sauce and ginger.",
-    "image": "vegetable_stir_fry_tofu.jpg"
+    "image": "https://img.freepik.com/free-photo/stir-fry-chicken-sweet-peppers-green-beans_2829-20113.jpg?w=740&t=st=1704607056~exp=1704607656~hmac=10dddf3ab1bb0d5f2110d178aee1e6f2882e501c2fbc30ea53d628c7714c476e"
   },
   {
     "type": "Vegetarian",
     "food_name": "Mushroom and Spinach Risotto",
     "recipe": "Sauté mushrooms and spinach, then mix with cooked risotto. Add Parmesan cheese and stir until creamy.",
-    "image": "mushroom_spinach_risotto.jpg"
+    "image": "https://img.freepik.com/free-photo/plate-pasta-with-homemade-pesto-sauce_114579-20528.jpg?w=740&t=st=1704607082~exp=1704607682~hmac=a15d8e9160927498fb1306f4c40ea89b6eb1e5eba7087297ca14d5ac90212627"
   },
   {
     "type": "Vegetarian",
     "food_name": "Chickpea and Spinach Curry",
     "recipe": "Cook chickpeas and spinach in a curry sauce with coconut milk, turmeric, cumin, and coriander. Serve over rice.",
-    "image": "chickpea_spinach_curry.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-thai-food-still-life_23-2149508957.jpg?w=740&t=st=1704607112~exp=1704607712~hmac=5649b67cc22e0e9272c6227293b10cb1398c3b5ce54be89670c95c1e70b4fb89"
   },
   {
     "type": "Vegetarian",
     "food_name": "Capellini Pomodoro",
     "recipe": "Toss capellini pasta with fresh tomatoes, garlic, basil, and olive oil. Sprinkle with grated Parmesan cheese.",
-    "image": "capellini_pomodoro.jpg"
+    "image": "https://img.freepik.com/free-photo/authentic-italian-pasta_24972-2334.jpg?w=740&t=st=1704607132~exp=1704607732~hmac=4022aa76c9bc6ac3d9ad3838306b50f0c75a4dea8bb49227c2d6b9702ab3dc00"
   },
   {
     "type": "Fiber-Rich",
     "food_name": "Quinoa and Black Bean Salad",
     "recipe": "Combine cooked quinoa, black beans, corn, cherry tomatoes, and cilantro. Dress with a lime vinaigrette and toss well.",
-    "image": "quinoa_black_bean_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/tabbouleh-salad_2829-10886.jpg?w=740&t=st=1704607154~exp=1704607754~hmac=1ee0c9ec805664b6fc1213bde33e39a5e705c05e02d56f0ca42e8204ba2a9dde"
   },
   {
     "type": "Fiber-Rich",
     "food_name": "Chia Seed Pudding with Berries",
     "recipe": "Mix chia seeds with almond milk, vanilla extract, and a touch of honey. Refrigerate until it thickens, then top with fresh berries.",
-    "image": "chia_seed_pudding_berrie.jpg"
+    "image": "https://img.freepik.com/free-photo/arrangement-natural-healthy-desserts_23-2148650276.jpg?w=740&t=st=1704607174~exp=1704607774~hmac=927a0eef6f3f3295ed3ace48aad45975e7cc9dc0bf3a3601780e5182ccb5757a"
   },
   {
     "type": "Fiber-Rich",
     "food_name": "Roasted Sweet Potato Wedges",
     "recipe": "Cut sweet potatoes into wedges, toss with olive oil, paprika, and garlic powder. Roast until crispy and serve with a yogurt dip.",
-    "image": "roasted_sweet_potato_wedges.jpg"
+    "image": "https://img.freepik.com/premium-photo/baked-sweet-potato-slices-with-spices-oven-dish-healthy-vegan-food-concept_79830-1993.jpg?w=740"
   },
   {
     "type": "Fiber-Rich",
     "food_name": "Broccoli and Chickpea Quinoa Bowl",
     "recipe": "Cook quinoa and top with roasted broccoli, chickpeas, and a tahini dressing. Garnish with sesame seeds.",
-    "image": "broccoli_chickpea_quinoa_bowl.jpg"
+    "image": "https://images.pexels.com/photos/6120233/pexels-photo-6120233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Fiber-Rich",
     "food_name": "Mixed Berry Oatmeal",
     "recipe": "Cook oats with almond milk and top with a mix of fresh berries, nuts, and a drizzle of honey.",
-    "image": "mixed_berry_oatmeal.jpg"
+    "image": "https://img.freepik.com/free-photo/arrangement-natural-healthy-desserts_23-2148650276.jpg?w=740&t=st=1704607305~exp=1704607905~hmac=b645461ddaa21a8d57ff9500f68f8a710f7131050a685f3358be8ae577b46a28"
   },
   {
     "type": "Low-Calorie",
     "food_name": "Cucumber and Tomato Salad",
     "recipe": "Combine sliced cucumbers, cherry tomatoes, red onion, and dill. Dress with a light vinaigrette for a refreshing salad.",
-    "image": "cucumber_tomato_salad.jpg"
+    "image": "https://images.pexels.com/photos/3985872/pexels-photo-3985872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Low-Calorie",
     "food_name": "Grilled Vegetable Skewers",
     "recipe": "Skewer bell peppers, zucchini, cherry tomatoes, and mushrooms. Grill until vegetables are tender. Serve with a squeeze of lemon.",
-    "image": "grilled_vegetable_skewers.jpg"
+    "image": "https://img.freepik.com/free-photo/chicken-shish-kebab-with-vegetables-ketchup-mayonnaise-top-view_114579-10380.jpg?w=740&t=st=1704607386~exp=1704607986~hmac=82b0b51d7cadb41a84b142dd971d7ead16f5c31e8b5868bfce65a54e10c0ea94"
   },
   {
     "type": "Low-Calorie",
     "food_name": "Zucchini Noodles with Pesto",
     "recipe": "Spiralize zucchini into noodles and toss with homemade pesto made from basil, garlic, pine nuts, and Parmesan.",
-    "image": "zucchini_noodles_pesto.jpg"
+    "image": "https://img.freepik.com/free-photo/natural-salad-plate-with-nuts-seeds_23-2148440335.jpg?w=740&t=st=1704607448~exp=1704608048~hmac=32179a63e1eaabc4972c48700b00debe2c0516d1d28776dd63145b093249eeee"
   },
   {
     "type": "Low-Calorie",
     "food_name": "Stuffed Bell Peppers with Quinoa",
     "recipe": "Stuff bell peppers with a mixture of cooked quinoa, black beans, corn, and salsa. Bake until peppers are tender.",
-    "image": "stuffed_bell_peppers_quinoa.jpg"
+    "image": "https://images.pexels.com/photos/9214013/pexels-photo-9214013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Low-Calorie",
     "food_name": "Lemon Garlic Shrimp Salad",
     "recipe": "Marinate shrimp in lemon juice and garlic. Grill or sauté until cooked. Serve over a bed of mixed greens.",
-    "image": "lemon_garlic_shrimp_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/spicy-mixed-seafood-salad-with-thai-food-ingredients_1150-26444.jpg?w=740&t=st=1704607515~exp=1704608115~hmac=82fdcb1be0bd6882afd8b61b989536c14ba268583900a0875ee55bcd0b91de9d"
   },
   {
     "type": "Energy-Boosting",
     "food_name": "Acai Berry Smoothie Bowl",
     "recipe": "Blend acai berries with banana, almond milk, and a touch of honey. Top with granola, sliced bananas, and coconut flakes.",
-    "image": "acai_berry_smoothie_bowl.jpg"
+    "image": "https://images.pexels.com/photos/6823327/pexels-photo-6823327.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Energy-Boosting",
     "food_name": "Almond Butter and Banana Toast",
     "recipe": "Spread almond butter on whole grain toast and top with banana slices. Sprinkle with chia seeds for an extra boost.",
-    "image": "almond_butter_banana_toast.jpg"
+    "image": "https://img.freepik.com/free-photo/high-angle-peanut-butter-bread-slice_23-2148877609.jpg?w=740&t=st=1704607739~exp=1704608339~hmac=97744b1c57691b8cf7be1fe3cc93fb5268f7618e99fe9d2f5cd8d2d4db44f59d"
   },
   {
     "type": "Energy-Boosting",
     "food_name": "Green Tea and Chia Seed Pudding",
     "recipe": "Mix chia seeds with green tea, almond milk, and a bit of honey. Refrigerate until it thickens, then top with fresh berries.",
-    "image": "green_tea_chia_seed_pudding.jpg"
+    "image": "https://img.freepik.com/free-photo/healthy-breakfast_1321-1314.jpg?w=740&t=st=1704607828~exp=1704608428~hmac=0ba1e79a2a6a316d42d51637cb07e113c0e627e754dbf863ffc5c02e3eef09fd"
   },
   {
     "type": "Energy-Boosting",
     "food_name": "Oat and Nut Energy Bites",
     "recipe": "Combine oats, nuts, honey, and nut butter. Form into bite-sized balls. Refrigerate until firm and grab for a quick energy boost.",
-    "image": "oat_nut_energy_bites.jpg"
+    "image": "https://img.freepik.com/free-photo/top-view-snack-bars-with-hazelnuts_23-2148582636.jpg?w=740&t=st=1704607868~exp=1704608468~hmac=4f0902fd5921f452abb87acfcf0bfa10dfb749a7c7154d67260129b3f663ac29"
   },
   {
     "type": "Energy-Boosting",
     "food_name": "Spinach and Banana Smoothie",
     "recipe": "Blend spinach, banana, Greek yogurt, and almond milk. Enjoy a nutrient-packed smoothie to kickstart your day.",
-    "image": "spinach_banana_smoothie.jpg"
+    "image": "https://img.freepik.com/free-photo/healthy-drink-vegetable-smoothie_1150-26220.jpg?w=740&t=st=1704607926~exp=1704608526~hmac=d1269000706ed90cf1f3c430c2923476d6afa641395882800beaa9fb542d9798"
   },
   {
     "type": "Non-Vegetarian",
     "food_name": "Grilled Chicken Caesar Salad",
     "recipe": "Grill chicken breast and slice into strips. Toss with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
-    "image": "grilled_chicken_caesar_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-cherry-tomatoes-parmesan-grilled-chicken-lettuce-plate_141793-4787.jpg?w=740&t=st=1704607972~exp=1704608572~hmac=5483287a6ac8dabfba045d7bd78df794f54575652f68d4005776d708c2707fcd"
   },
   {
     "type": "Non-Vegetarian",
     "food_name": "Teriyaki Glazed Salmon",
     "recipe": "Marinate salmon fillets in teriyaki sauce, garlic, and ginger. Grill or bake until cooked. Serve with steamed broccoli.",
-    "image": "teriyaki_glazed_salmon.jpg"
+    "image": "https://img.freepik.com/free-photo/sashimi-salmon_1388-12.jpg?w=740&t=st=1704608040~exp=1704608640~hmac=d59ce93d093f1516c6529b1ae770040a061b860f6d4e6b5fe5262df175f27612"
   },
   {
     "type": "Non-Vegetarian",
     "food_name": "Shrimp Scampi Pasta",
     "recipe": "Sauté shrimp in garlic, butter, and white wine. Toss with cooked pasta, lemon zest, and parsley.",
-    "image": "shrimp_scampi_pasta.jpg"
+    "image": "https://img.freepik.com/free-photo/spaghetti-with-fried-shrimps-fresh-tomatoes_127675-2733.jpg?w=740&t=st=1704608066~exp=1704608666~hmac=5cd211b38871702eb6477753c1bbd5d9a1189710ba63cf195a0d2f336f486539"
   },
   {
     "type": "Non-Vegetarian",
     "food_name": "Beef Stir-Fry with Vegetables",
     "recipe": "Stir-fry thinly sliced beef with colorful vegetables in soy sauce and ginger. Serve over steamed rice.",
-    "image": "beef_stir_fry_vegetables.jpg"
+    "image": "https://img.freepik.com/free-photo/stir-fry-chicken-sweet-peppers-green-beans_2829-20110.jpg?w=740&t=st=1704608088~exp=1704608688~hmac=285be8f26967865bc701a1af57b881b6980742a1b8b31c6c103d46c40a49d8ef"
   },
   {
     "type": "Non-Vegetarian",
     "food_name": "Grilled Lamb Chops",
     "recipe": "Marinate lamb chops with olive oil, rosemary, and garlic. Grill until desired doneness. Serve with mint sauce.",
-    "image": "grilled_lamb_chops.jpg"
+    "image": "https://img.freepik.com/free-photo/roasted-pork-steak-dark-surface_1150-44350.jpg?w=740&t=st=1704608112~exp=1704608712~hmac=ac71dfa262ccd7bd531396f6746cc1ec40a63462b5772f5b09e21e697ad2c77d"
   },
   {
     "type": "Heart-Healthy",
     "food_name": "Baked Salmon with Lemon and Dill",
     "recipe": "Marinate salmon with lemon, olive oil, and dill. Bake until flaky. Serve with steamed asparagus and quinoa.",
-    "image": "baked_salmon_lemon_dill.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-cooked-salmon-fish-fillets-grilled-salmon-fish-fillet-fresh-green-lettuce-vegetable-tomato-salad-balanced-nutrition-concept-clean-eating-flexitarian-mediterranean-diet_1150-44561.jpg?w=740&t=st=1704608144~exp=1704608744~hmac=b01ff217143b5276a8b45e519d69e7dc274c3e63b83c835e95e280a56cc313ed"
   },
   {
     "type": "Heart-Healthy",
     "food_name": "Oatmeal with Berries and Almonds",
     "recipe": "Cook oatmeal with almond milk. Top with fresh berries, sliced almonds, and a drizzle of honey.",
-    "image": "oatmeal_berries_almonds.jpg"
+    "image": "https://img.freepik.com/premium-photo/bowl-oat-cereal-with-blueberry-red-currant-spoon-oat-ring-cereal-with-berries-milk-concept-healthy-breakfast-healthy-eating-flat-lay-minimalism-top-view-place-text_85672-2180.jpg?w=740"
   },
   {
     "type": "Heart-Healthy",
     "food_name": "Avocado and Spinach Smoothie",
     "recipe": "Blend spinach, avocado, banana, Greek yogurt, and almond milk for a creamy and nutritious smoothie.",
-    "image": "avocado_spinach_smoothie.jpg"
+    "image": "https://img.freepik.com/free-photo/useful-smoothies-marble-table_23-2148150414.jpg?w=740&t=st=1704608211~exp=1704608811~hmac=3585458bd1885e24ca2b1c6a7e7b08c8f90f949777b0d8945d1c6f115125f9b5"
   },
   {
     "type": "Heart-Healthy",
     "food_name": "Olive Oil Drizzled Roasted Vegetables",
     "recipe": "Toss mixed vegetables with olive oil, garlic, and herbs. Roast until tender. Drizzle with extra virgin olive oil before serving.",
-    "image": "roasted_vegetables_olive_oil.jpg"
+    "image": "https://img.freepik.com/free-photo/grilled-vegetables-mushrooms_658428-362.jpg?w=740&t=st=1704608242~exp=1704608842~hmac=306716f965256c6719e0d237a587af51acfe21351b66e55151fd53b7b04f1240"
   },
   {
     "type": "Detoxifying",
     "food_name": "Detox Water with Cucumber and Mint",
     "recipe": "Infuse water with cucumber slices, mint leaves, and a splash of lemon. Chill and enjoy a refreshing detox drink.",
-    "image": "detox_water_cucumber_mint.jpg"
+    "image": "https://img.freepik.com/free-photo/still-life-tasty-summer-smoothie_23-2148197871.jpg?w=740&t=st=1704608266~exp=1704608866~hmac=2bbe3d8cd24d5a9dab23d5410c6def0d4acb68cb9b86fe58267792673bdd57c9"
   },
   {
     "type": "Detoxifying",
     "food_name": "Quinoa and Kale Detox Salad",
     "recipe": "Combine cooked quinoa, kale, shredded carrots, and broccoli. Toss with a lemon-tahini dressing for a detoxifying salad.",
-    "image": "quinoa_kale_detox_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/kuku-greenies-meal-colorful-with-walnut-designed-inside-white-plate-along-with-bread-loafs-yogurt-grey_140725-14983.jpg?w=740&t=st=1704608295~exp=1704608895~hmac=4f23ac1c0ab8f3dd3adcb7e1d0b56cc978be89187dbe6e165e9bc0cc24ca069c"
   },
   {
     "type": "Detoxifying",
     "food_name": "Turmeric and Lemon Detox Tea",
     "recipe": "Brew a cup of hot water with turmeric, ginger, and lemon. Strain and enjoy this cleansing tea.",
-    "image": "turmeric_lemon_detox_tea.jpg"
+    "image": "https://img.freepik.com/premium-photo/healthy-warming-tea-with-ginger-lemon-dark-background_166116-4028.jpg?w=740"
   },
   {
     "type": "Detoxifying",
     "food_name": "Baked Cod with Lemon and Herbs",
     "recipe": "Marinate cod fillets with lemon, garlic, and herbs. Bake until fish is flaky. Serve with steamed asparagus.",
-    "image": "baked_cod_lemon_herbs.jpg"
+    "image": "https://img.freepik.com/free-photo/fried-salmon-served-with-orange-red-rice_140725-2521.jpg?w=740&t=st=1704608352~exp=1704608952~hmac=a2ec5b23fa7a10878b01ca5c4223ff6d40c7c81a799750f522afb38fbb8868ec"
   },
   {
     "type": "Weight Loss",
     "food_name": "Grilled Chicken and Vegetable Skewers",
     "recipe": "Marinate chicken cubes with olive oil, lemon, and herbs. Skewer with colorful vegetables and grill until chicken is cooked.",
-    "image": "grilled_chicken_vegetable_skewers.jpg"
+    "image": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Weight Loss",
     "food_name": "Cauliflower Rice Stir-Fry",
     "recipe": "Grate cauliflower to resemble rice. Stir-fry with colorful vegetables, lean protein, and a splash of soy sauce.",
-    "image": "cauliflower_rice_stir_fry.jpg"
+    "image": "https://images.pexels.com/photos/11299745/pexels-photo-11299745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Weight Loss",
     "food_name": "Mixed Greens Salad with Grilled Shrimp",
     "recipe": "Toss mixed greens with cherry tomatoes, cucumber, and grilled shrimp. Dress with a light vinaigrette.",
-    "image": "mixed_greens_salad_grilled_shrimp.jpg"
+    "image": "https://img.freepik.com/free-photo/fried-broccoli-with-garlic-shrimp-thai-food_1150-26470.jpg?w=740&t=st=1704608447~exp=1704609047~hmac=5945f14cf88e2a3394c992340a83c3ba78fe823cb06361d752046cf2082ad3b8"
   },
   {
     "type": "Weight Loss",
     "food_name": "Berry and Spinach Smoothie Bowl",
     "recipe": "Blend spinach, mixed berries, Greek yogurt, and a touch of honey. Pour into a bowl and top with granola.",
-    "image": "berry_spinach_smoothie_bowl.jpg"
+    "image": "https://img.freepik.com/premium-photo/smoothie-bowls-healthy-breakfast-bowl-with-chia-seeds-muesli-berries-fruits-coconut-flakes_136404-1313.jpg?w=740"
   },
   {
     "type": "Immune-Boosting",
     "food_name": "Citrus and Berry Immunity Smoothie",
     "recipe": "Blend citrus fruits like oranges and berries with Greek yogurt, honey, and a handful of spinach for a nutritious smoothie.",
-    "image": "citrus_berry_immunity_smoothie.jpg"
+    "image": "https://img.freepik.com/free-photo/close-up-foods-cocktails-tall-glass_23-2149064139.jpg?w=740&t=st=1704608517~exp=1704609117~hmac=a7a13edcb05d9ce028435c99b2394d15aac7887ad722bd6c71ae29122327d839"
   },
   {
     "type": "Immune-Boosting",
     "food_name": "Garlic and Lemon Roasted Chicken",
     "recipe": "Marinate chicken with minced garlic, lemon juice, and herbs. Roast until golden brown and juicy.",
-    "image": "garlic_lemon_roasted_chicken.jpg"
+    "image": "https://img.freepik.com/free-photo/sunday-roast-chicken-with-potatoes-holiday-meal_53876-95453.jpg?w=740&t=st=1704608539~exp=1704609139~hmac=cd9c4e64cef4e34c74eefaca381a0780a4fd1199256e627a75add280f858107b"
   },
   {
     "type": "Immune-Boosting",
     "food_name": "Green Tea and Honey Infusion",
     "recipe": "Brew green tea and add a spoonful of honey. Enjoy this warm and soothing beverage for immune support.",
-    "image": "green_tea_honey_infusion.jpg"
+    "image": "https://img.freepik.com/free-photo/sipping-herbal-tea-cold-day_1150-42696.jpg?w=740&t=st=1704608592~exp=1704609192~hmac=b4e580e3a4885b2d371d77a0ab098619c62f81331316821039ce6cbcdabdf1dd"
   },
   {
     "type": "Immune-Boosting",
     "food_name": "Kale and White Bean Soup",
     "recipe": "Make a hearty soup with kale, white beans, carrots, and onions. Season with turmeric and ginger for added immunity benefits.",
-    "image": "kale_white_bean_soup.jpg"
+    "image": "https://img.freepik.com/free-photo/green-pea-soup-wooden-bowl_123827-21499.jpg?w=740&t=st=1704608623~exp=1704609223~hmac=701b28a5183988e6c5e33c5cfc785724cba8c9e0224f57132a68e843a78a8bac"
   },
   {
     "type": "Post-Workout Recovery",
     "food_name": "Protein-Packed Chocolate Banana Smoothie",
     "recipe": "Blend chocolate protein powder, banana, almond milk, and a scoop of peanut butter for a delicious post-workout shake.",
-    "image": "protein_chocolate_banana_smoothie.jpg"
+    "image": "https://img.freepik.com/free-photo/chocolate-smoothie-with-choco-syrup-branch-bananas_114579-33856.jpg?w=740&t=st=1704608656~exp=1704609256~hmac=e6b19e8d58c0232140274b1a7b9f33ae8968c4389f06a35a6f0e393427ab724b"
   },
   {
     "type": "Post-Workout Recovery",
     "food_name": "Grilled Chicken and Quinoa Bowl",
     "recipe": "Combine grilled chicken, quinoa, roasted vegetables, and a drizzle of olive oil for a balanced post-exercise meal.",
-    "image": "grilled_chicken_quinoa_bowl.jpg"
+    "image": "https://img.freepik.com/free-photo/top-view-healthy-diet-salad-with-grilled-chicken-broccoli-cauliflower-tomato-lettuce-avocado-lettuce_141793-2438.jpg?w=740&t=st=1704608693~exp=1704609293~hmac=b2cf6846d1d37619e8299d30d0ee234610b8512d0113564edac9ebfb59125eb1"
   },
   {
     "type": "Post-Workout Recovery",
     "food_name": "Greek Yogurt with Berries and Granola",
     "recipe": "Top Greek yogurt with fresh berries and granola to replenish protein and carbohydrates post-workout.",
-    "image": "greek_yogurt_berries_granola.jpg"
+    "image": "https://img.freepik.com/free-photo/bowl-healthy-oatmeal-with-banana-fresh-berries-wooden-table_23-2147916173.jpg?w=740&t=st=1704608717~exp=1704609317~hmac=e9c26313b52b715aed584877029fbe7162432c510ec68106d05b3add9ac8ef05"
   },
   {
     "type": "Post-Workout Recovery",
     "food_name": "Salmon and Sweet Potato Hash",
     "recipe": "Flake grilled salmon and mix with roasted sweet potatoes, spinach, and a dash of lemon for a nutrient-rich recovery meal.",
-    "image": "salmon_sweet_potato_hash.jpg"
+    "image": "https://img.freepik.com/free-photo/baked-salmon-fish-fillet-with-tomatoes-mushrooms-spices-diet-menu_2829-14461.jpg?w=740&t=st=1704608741~exp=1704609341~hmac=a26870d182759d166f603a3cd988863f0124f39528fcc9c6937df6bbcc8b4439"
   },
   {
     "type": "Hydrating",
     "food_name": "Watermelon and Mint Salad",
     "recipe": "Combine diced watermelon with fresh mint leaves. Chill and serve for a refreshing and hydrating salad.",
-    "image": "watermelon_mint_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/salad-sweet-colorful-peppers-with-olive-oil_2829-12977.jpg?w=740&t=st=1704608765~exp=1704609365~hmac=73acd89e3b81844806929dc9d3884673b22efb152a21c1467558cde3a6e0377a"
   },
   {
     "type": "Hydrating",
     "food_name": "Cucumber and Lemon Infused Water",
     "recipe": "Infuse water with cucumber slices and lemon wedges. Refrigerate for a few hours for a hydrating and flavorful drink.",
-    "image": "cucumber_lemon_infused_water.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-mezcal-beverage-composition_23-2148935267.jpg?w=740&t=st=1704608804~exp=1704609404~hmac=c415a7094fd0a62038c1ff84541687cc6d588b19380898c1b7ceba77e741c985"
   },
   {
     "type": "Hydrating",
     "food_name": "Coconut Water Smoothie with Pineapple",
     "recipe": "Blend coconut water with pineapple chunks and ice for a tropical and hydrating smoothie.",
-    "image": "coconut_water_smoothie_pineapple.jpg"
+    "image": "https://img.freepik.com/free-photo/delicious-pina-colada-cocktail_23-2150143233.jpg?w=740&t=st=1704608829~exp=1704609429~hmac=cc6eb56cef127c22b33fee878b6c75f8d7631785ee5543cce1ea752adbaf2de9"
   },
   {
     "type": "Hydrating",
     "food_name": "Chia Seed Hydration Pudding",
     "recipe": "Mix chia seeds with coconut water and let it sit until it forms a pudding-like consistency. Top with fresh berries.",
-    "image": "chia_seed_hydration_pudding.jpg"
+    "image": "https://img.freepik.com/premium-photo/chia-pudding-with-fresh-berries-raspberries-blueberries_73872-992.jpg?w=740"
   },
   {
     "type": "High-Fiber",
     "food_name": "Quinoa and Black Bean Salad",
     "recipe": "Combine cooked quinoa, black beans, corn, cherry tomatoes, and cilantro. Dress with a lime vinaigrette and toss well.",
-    "image": "quinoa_black_bean_salad.jpg"
+    "image": "https://img.freepik.com/free-photo/flat-lay-mexican-food_23-2148140216.jpg?w=740&t=st=1704608882~exp=1704609482~hmac=5676cd680a173624f3f9c19feefb6a019aded35779720cef541ef5e1a6c5a1fd"
   },
   {
     "type": "High-Fiber",
     "food_name": "Chia Seed Pudding with Berries",
     "recipe": "Mix chia seeds with almond milk, vanilla extract, and a touch of honey. Refrigerate until it thickens, then top with fresh berries.",
-    "image": "chia_seed_pudding_berrie.jpg"
+    "image": "https://img.freepik.com/free-photo/homemade-dessert-raspberries_1220-220.jpg?w=740&t=st=1704608950~exp=1704609550~hmac=8f585fe68138d26973ae284b41f5e3fd6cdbe7063514f26d9e0b4c8439ad92a4"
   },
   {
     "type": "High-Fiber",
     "food_name": "Roasted Sweet Potato Wedges",
     "recipe": "Cut sweet potatoes into wedges, toss with olive oil, paprika, and garlic powder. Roast until crispy and serve with a yogurt dip.",
-    "image": "roasted_sweet_potato_wedges.jpg"
+    "image": "https://images.pexels.com/photos/5612346/pexels-photo-5612346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "High-Fiber",
     "food_name": "Broccoli and Chickpea Quinoa Bowl",
     "recipe": "Cook quinoa and top with roasted broccoli, chickpeas, and a tahini dressing. Garnish with sesame seeds.",
-    "image": "broccoli_chickpea_quinoa_bowl.jpg"
+    "image": "https://img.freepik.com/free-photo/baked-meatballs-chicken-fillet-with-garnish-with-quinoa-boiled-broccoli-proper-nutrition-sports-nutrition-dietary-menu_2829-20080.jpg?w=740&t=st=1704609005~exp=1704609605~hmac=ae882a821bd1852590e47b0cfc34b7af3a08933a174b3838f5eea57997406c85"
   },
   {
     "type": "High-Fiber",
     "food_name": "Mixed Berry Oatmeal",
     "recipe": "Cook oats with almond milk and top with a mix of fresh berries, nuts, and a drizzle of honey.",
-    "image": "mixed_berry_oatmeal.jpg"
+    "image": "https://img.freepik.com/premium-photo/oatmeal-with-yogurt-berries-healthy-food-wooden-background-top-view-free-space-text_187166-34186.jpg?w=740"
   },
   {
     "type": "Anti-Inflammatory",
     "food_name": "Turmeric and Ginger Golden Milk",
     "recipe": "Mix turmeric and ginger with warm milk. Add a touch of honey for sweetness. Enjoy this soothing and anti-inflammatory beverage.",
-    "image": "turmeric_ginger_golden_milk.jpg"
+    "image": "https://img.freepik.com/free-photo/traditional-indian-drink-turmeric-golden-milk_114579-12536.jpg?w=740&t=st=1704609051~exp=1704609651~hmac=1a15f8430ceea99969a4ea6bad23f3a5282cc812ff158f9070ce6778262981b8"
   },
   {
     "type": "Anti-Inflammatory",
     "food_name": "Quinoa Salad with Pomegranate and Walnuts",
     "recipe": "Combine cooked quinoa with pomegranate seeds, walnuts, and a light balsamic vinaigrette. Toss well and serve.",
-    "image": "quinoa_salad_pomegranate_walnuts.jpg"
+    "image": "https://img.freepik.com/free-photo/front-view-fresh-greens-with-peeled-pomegranates-light-table-green-fruit-meal_140725-124682.jpg?w=740&t=st=1704609074~exp=1704609674~hmac=99ed74de191f576a93a210ba2fe39e85267ad6437d3f41269de9e957a59b6190"
   },
   {
     "type": "Anti-Inflammatory",
     "food_name": "Blueberry and Kale Smoothie",
     "recipe": "Blend kale, blueberries, banana, and almond milk for a nutrient-packed smoothie with anti-inflammatory properties.",
-    "image": "blueberry_kale_smoothie.jpg"
+    "image": "https://images.pexels.com/photos/4551414/pexels-photo-4551414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "type": "Anti-Inflammatory",
     "food_name": "Grilled Turmeric Chicken Skewers",
     "recipe": "Marinate chicken in turmeric, garlic, and lemon. Skewer and grill until cooked. Serve with a yogurt dipping sauce.",
-    "image": "grilled_turmeric_chicken_skewers.jpg"
+    "image": "https://img.freepik.com/free-photo/meat-shish-kebabs-with-potherbs-table_23-2147852332.jpg?w=740&t=st=1704609146~exp=1704609746~hmac=dd09f8aafbe16fad21fed0df3046d356b078bf8a2b0bde44846fedefea1bc423"
   }
 ]
