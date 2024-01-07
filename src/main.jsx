@@ -12,6 +12,7 @@ import Edit from "./Component/Edit/Edit.jsx";
 import CountryFoodDetails from "./Component/CountryFoodDetails/CountryFoodDetails.jsx";
 import TimeTable from "./TimeTable/TimeTable.jsx";
 import Hour from "./Component/Hour/Hour.jsx";
+import TypeOfFoods from "./Component/TypeOfFoods/TypeOfFoods.jsx";
 
 const router = createBrowserRouter([
   {
@@ -56,6 +57,10 @@ const router = createBrowserRouter([
       {
         path: "/timetable",
         element: <TimeTable></TimeTable>,
+      },
+      {
+        path: "/typeoffoods",
+        element: <TypeOfFoods></TypeOfFoods>,
       },
     ],
   },

@@ -3,6 +3,7 @@ import "./Home.css";
 import CountryWiseFood from "../CountryWiseFood/CountryWiseFood";
 import CountryInput from "../CountryInput/CountryInput";
 import TimeTable from "../../TimeTable/TimeTable";
+import TypeOfFoods from "../TypeOfFoods/TypeOfFoods";
 const Home = () => {
   return (
     <div>
@@ -108,12 +109,16 @@ const Home = () => {
           <CountryWiseFood></CountryWiseFood>
         </div>
       </div>
-<div className="mt-20 shadow-2xl border p-9 rounded-md">
-  <div>
-    <TimeTable></TimeTable>
-  </div>
-</div>
-
+      <div className="mt-20 shadow-2xl border p-9 rounded-md">
+        <div>
+          <TimeTable></TimeTable>
+        </div>
+      </div>
+      <div className="mt-20 shadow-2xl border p-9 rounded-md">
+        <div>
+          <TypeOfFoods></TypeOfFoods>
+        </div>
+      </div>
     </div>
   );
 };
