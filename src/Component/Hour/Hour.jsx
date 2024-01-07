@@ -11,7 +11,10 @@ const Hour = () => {
         {hourlyFood.map((hour) => {
           return (
             <div>
-              <img src={hour.food_image} className="sm:h-[200px] md:h-[200px] lg:h-[300px] " />
+              <img
+                src={hour.food_image}
+                className="sm:h-[200px] md:h-[200px] lg:h-[300px] "
+              />
               <h1>{hour.Name}</h1>
             </div>
           );

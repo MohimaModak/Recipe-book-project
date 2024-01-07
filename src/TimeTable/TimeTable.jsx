@@ -12,7 +12,7 @@ const TimeTable = () => {
 
   return (
     <div>
-      <h1 className="text-4xl font-bold text-center">Meal schedule</h1>
+      <h1 className="text-4xl font-bold text-center mb-12">Meal schedule</h1>
 
       <div className="grid sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 gap-5">
         {time.map((timeOfFood) => (
