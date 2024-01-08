@@ -3,8 +3,8 @@ import Navbar from "../Navbar/Navbar";
 
 const Root = () => {
   return (
-    <div className=" bg-white">
-      <div className="m-10">
+    <div className="m-10">
+      <div className="">
         {" "}
         <Navbar></Navbar>
         <Outlet></Outlet>

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const TypeOfFoods = ({ foodType }) => {
   const [typeOfFood, setTypeOfFood] = useState([]);
@@ -27,19 +28,21 @@ const TypeOfFoods = ({ foodType }) => {
       <div className="cursor-pointer grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {filterTypeOfFood.map((type) => {
           return (
-            <div className="relative">
-              <img
-                src={type.image}
-                className="sm:w-200 md:h-180 lg:h-190 rounded-md md:w-260 lg:w-300 hover:scale-150"
-              />
+            <Link to={`/DifferentFoodsDetails/${type._id}`}>
+              <div className="relative">
+                <img
+                  src={type.image}
+                  className="sm:w-200 md:h-180 lg:h-190 rounded-md md:w-260 lg:w-300 hover:scale-150"
+                />
 
-              <div className="flex justify-center items-center absolute inset-0 opacity-0 hover:opacity-100 backdrop-blur-xl transition-transform  duration-500">
-                <div className="text-center font-bold p-2 text-white">
-                  <h1>{type.type}</h1>
-                  <h1>{type.food_name}</h1>
+                <div className="flex justify-center items-center absolute inset-0 opacity-0 hover:opacity-100 backdrop-blur-xl transition-transform  duration-500">
+                  <div className="text-center font-bold p-2 text-white">
+                    <h1>{type.type}</h1>
+                    <h1>{type.food_name}</h1>
+                  </div>
                 </div>
               </div>
-            </div>
+            </Link>
           );
         })}
       </div>

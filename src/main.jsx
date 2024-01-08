@@ -13,6 +13,8 @@ import CountryFoodDetails from "./Component/CountryFoodDetails/CountryFoodDetail
 import TimeTable from "./TimeTable/TimeTable.jsx";
 import Hour from "./Component/Hour/Hour.jsx";
 import TypeOfFoods from "./Component/TypeOfFoods/TypeOfFoods.jsx";
+import DifferentFoodsDetails from "./Component/DifferentFoodsDetails/DifferentFoodsDetails.jsx";
+import FoodLoan from "./Component/FoodLoan/FoodLoan.jsx";
 
 const router = createBrowserRouter([
   {
@@ -61,6 +63,15 @@ const router = createBrowserRouter([
       {
         path: "/typeoffoods",
         element: <TypeOfFoods></TypeOfFoods>,
+      },
+      {
+        path: "/FoodLoan",
+        element: <FoodLoan></FoodLoan>,
+      },
+      {
+        path: "/DifferentFoodsDetails/:id",
+        element: <DifferentFoodsDetails></DifferentFoodsDetails>,
+        loader: ({params}) => fetch(`http://localhost:4000/typeOfFood/${params.id}`)
       },
     ],
   },

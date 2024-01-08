@@ -3,7 +3,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <div className="navfont">
-      <div className="p-10 text-center">
+      <div className="mb-10 text-center">
         <NavLink
           to="/"
           className={`pr-5 ({ isActive, isPending }) =>
@@ -14,18 +14,24 @@ const Navbar = () => {
         <NavLink
           to="/addrecipe"
           className={`pr-5 ({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "active" : ""`
-          }
+            isPending ? "pending" : isActive ? "active" : ""`}
         >
           Add-Recipe
         </NavLink>
         <NavLink
           to="/recipes"
+          className={`pr-5 ({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""`}
+        >
+          Recipes
+        </NavLink>
+        <NavLink
+          to="/FoodLoan"
           className={({ isActive, isPending }) =>
             isPending ? "pending" : isActive ? "active" : ""
           }
         >
-          Recipes
+          Food-Loan
         </NavLink>
       </div>
     </div>
