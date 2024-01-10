@@ -29,18 +29,23 @@ const Navbar = () => {
         <NavLink
           to="/FoodLoan"
           className={`pr-5 ({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "active" : ""`
-          }
+            isPending ? "pending" : isActive ? "active" : ""`}
         >
           Food-Loan
         </NavLink>
         <NavLink
           to="/AddToCart"
           className={`pr-5 ({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "active" : ""`
-          }
+            isPending ? "pending" : isActive ? "active" : ""`}
         >
-         Add To Cart
+          Add To Cart
+        </NavLink>
+        <NavLink
+          to="/Login"
+          className={`pr-5 ({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""`}
+        >
+          Login
         </NavLink>
       </div>
     </div>

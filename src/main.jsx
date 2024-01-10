@@ -20,6 +20,7 @@ import SpecificAppFoods from "./Component/SpecificAppFoods/SpecificAppFoods.jsx"
 import CntrySpcfcfdDetails from "./Component/CntrySpcfcfdDetails/CntrySpcfcfdDetails.jsx";
 import HourRecipeDetails from "./Component/HourRecipeDetails/HourRecipeDetails.jsx";
 import AddToCart from "./Component/Navbar/AddToCart/AddToCart.jsx";
+import Login from "./Component/Login/Login.jsx";
 
 const router = createBrowserRouter([
   {
@@ -99,6 +100,10 @@ const router = createBrowserRouter([
       {
         path: "/FoodApps",
         element: <FoodApps></FoodApps>,
+      },
+      {
+        path: "/Login",
+        element: <Login></Login>,
       },
       {
         path: "/DifferentFoodsDetails/:id",
