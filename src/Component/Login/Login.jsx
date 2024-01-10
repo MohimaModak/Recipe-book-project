@@ -1,5 +1,8 @@
 import React, { useContext } from "react";
-import { useLocation, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
+import Swal from "sweetalert2";
+import { AuthContext } from "../AuthProvider/AuthProvider";
+import { AiOutlineGoogle } from "react-icons/ai";
 
 const Login = () => {
   const { signInUser, signInWithGoogle } = useContext(AuthContext);
@@ -28,25 +31,39 @@ const Login = () => {
 
     if (!emailCondition.test(email)) {
       Swal.fire("Email is invalid");
-      return;
     }
 
     signInUser(email, password)
       .then((result) => {
         const logInKoraUser = result.user;
         console.log(logInKoraUser);
+        // const user = { email };
+
         Swal.fire("User successfully log-in");
         e.target.reset();
         navigate(location?.state ? location.state : "/");
       })
       .catch((error) => console.error(error));
   };
+
+  const handleGoogle = () => {
+    signInWithGoogle()
+      .then((result) => {
+        console.log(result.user);
+        navigate(location?.state ? location.state : "/");
+        Swal.fire("User Created Successfully");
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  };
+
   return (
     <div>
       <div className="relative  text-white">
         <div>
           <img
-            src="https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://png.pngtree.com/background/20210709/original/pngtree-pet-shop-lovely-cartoon-moe-picture-image_932563.jpg"
             className="object-cover w-full h-[610px] "
           />
         </div>
@@ -78,12 +95,14 @@ const Login = () => {
                       type="password"
                       placeholder="password"
                       name="password"
-                      className="input input-bordered text-white"
+                      className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs text-blue-950"
                       required
                     />
                   </div>
                   <div className="text-center form-control lg:col-span-2 mt-3">
-                    <button className="input input-bordered">Sign-In</button>
+                    <button className="input input-bordered text-blue-900">
+                      Sign-In
+                    </button>
                   </div>
 
                   <div className="flex justify-center items-center text-center form-control lg:col-span-2 font-bold">
@@ -101,7 +120,7 @@ const Login = () => {
                       If you are new please <br />
                       <Link
                         className="underline uppercase text-white"
-                        to={"/signup"}
+                        to={"/SignUp"}
                       >
                         Sign-Up
                       </Link>

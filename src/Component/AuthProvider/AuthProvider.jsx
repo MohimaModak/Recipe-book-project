@@ -39,39 +39,6 @@ const AuthProvider = ({ children }) => {
     return signOut(auth);
   };
 
-  // useEffect(() => {
-  //   const observer = onAuthStateChanged(auth, (currentUser) => {
-  //     console.log("stay here bodygard", currentUser);
-  //     setuser(currentUser);
-  //     const user = currentUser.email;
-  //     if (currentUser) {
-  //       axios
-  //         .post("https://eleveen-server-assignment.vercel.app/jwt", user, {
-  //           withCredentials: true,
-  //         })
-  //         .then((res) => {
-  //           console.log(res.data);
-  //         });
-  //     } else {
-  //       axios
-  //         .post("https://eleveen-server-assignment.vercel.app/logout", user, { withCredentials: true })
-  //         .then((res) => {
-  //           console.log(res.data);
-  //         });
-  //       console.log("cake ta valo")
-  //     }
-
-  //     setloading(false);
-
-  //     // if (currentUser) {
-  //     //   console.log("ghumabo");
-  //     // } else if (currentUser === null) {
-  //     //   console.log("ghumabo na");
-  //     // }
-  //   });
-  //   return () => observer();
-  // }, []);
-
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       const userEmail = currentUser?.email || user?.email;

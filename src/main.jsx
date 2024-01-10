@@ -21,6 +21,8 @@ import CntrySpcfcfdDetails from "./Component/CntrySpcfcfdDetails/CntrySpcfcfdDet
 import HourRecipeDetails from "./Component/HourRecipeDetails/HourRecipeDetails.jsx";
 import AddToCart from "./Component/Navbar/AddToCart/AddToCart.jsx";
 import Login from "./Component/Login/Login.jsx";
+import AuthProvider from "./Component/AuthProvider/AuthProvider.jsx";
+import SignUp from "./Component/SingUp/SingUp.jsx";
 
 const router = createBrowserRouter([
   {
@@ -106,6 +108,10 @@ const router = createBrowserRouter([
         element: <Login></Login>,
       },
       {
+        path: "/SignUp",
+        element: <SignUp></SignUp>,
+      },
+      {
         path: "/DifferentFoodsDetails/:id",
         element: <DifferentFoodsDetails></DifferentFoodsDetails>,
         loader: ({ params }) =>
@@ -117,6 +123,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <AuthProvider>
+      <RouterProvider router={router} />
+    </AuthProvider>
   </React.StrictMode>
 );
