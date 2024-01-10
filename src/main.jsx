@@ -15,6 +15,11 @@ import Hour from "./Component/Hour/Hour.jsx";
 import TypeOfFoods from "./Component/TypeOfFoods/TypeOfFoods.jsx";
 import DifferentFoodsDetails from "./Component/DifferentFoodsDetails/DifferentFoodsDetails.jsx";
 import FoodLoan from "./Component/FoodLoan/FoodLoan.jsx";
+import FoodApps from "./Component/FoodApps/FoodApps.jsx";
+import SpecificAppFoods from "./Component/SpecificAppFoods/SpecificAppFoods.jsx";
+import CntrySpcfcfdDetails from "./Component/CntrySpcfcfdDetails/CntrySpcfcfdDetails.jsx";
+import HourRecipeDetails from "./Component/HourRecipeDetails/HourRecipeDetails.jsx";
+import AddToCart from "./Component/Navbar/AddToCart/AddToCart.jsx";
 
 const router = createBrowserRouter([
   {
@@ -45,6 +50,12 @@ const router = createBrowserRouter([
           fetch(`http://localhost:4000/countryFoodKid/${params.country}`),
       },
       {
+        path: "/details/:id",
+        element: <CntrySpcfcfdDetails></CntrySpcfcfdDetails>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/details/${params.id}`),
+      },
+      {
         path: "/edit/:id",
         element: <Edit></Edit>,
         loader: ({ params }) =>
@@ -61,17 +72,39 @@ const router = createBrowserRouter([
         element: <TimeTable></TimeTable>,
       },
       {
+        path: "/hourDetails/:id",
+        element: <HourRecipeDetails></HourRecipeDetails>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/hourDetails/${params.id}`),
+      },
+      {
         path: "/typeoffoods",
         element: <TypeOfFoods></TypeOfFoods>,
+      },
+
+      {
+        path: "/SpecificAppFoods/:appName",
+        element: <SpecificAppFoods></SpecificAppFoods>,
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/SpecificAppFoods/${params.appName}`),
       },
       {
         path: "/FoodLoan",
         element: <FoodLoan></FoodLoan>,
       },
       {
+        path: "/AddToCart",
+        element: <AddToCart></AddToCart>,
+      },
+      {
+        path: "/FoodApps",
+        element: <FoodApps></FoodApps>,
+      },
+      {
         path: "/DifferentFoodsDetails/:id",
         element: <DifferentFoodsDetails></DifferentFoodsDetails>,
-        loader: ({params}) => fetch(`http://localhost:4000/typeOfFood/${params.id}`)
+        loader: ({ params }) =>
+          fetch(`http://localhost:4000/typeOfFood/${params.id}`),
       },
     ],
   },

@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+
 import "./Navbar.css";
 const Navbar = () => {
   return (
@@ -27,11 +28,19 @@ const Navbar = () => {
         </NavLink>
         <NavLink
           to="/FoodLoan"
-          className={({ isActive, isPending }) =>
-            isPending ? "pending" : isActive ? "active" : ""
+          className={`pr-5 ({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""`
           }
         >
           Food-Loan
+        </NavLink>
+        <NavLink
+          to="/AddToCart"
+          className={`pr-5 ({ isActive, isPending }) =>
+            isPending ? "pending" : isActive ? "active" : ""`
+          }
+        >
+         Add To Cart
         </NavLink>
       </div>
     </div>

@@ -1,3 +1,42 @@
 [
-    
+  {
+    "appName": "Foodpanda",
+    "appImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Foodpanda_logo_since_2017.png/2560px-Foodpanda_logo_since_2017.png"
+  },
+  {
+    "appName": "Uber Eats",
+    "appImage": "https://1000logos.net/wp-content/uploads/2021/04/Uber-Eats-logo.png"
+  },
+  {
+    "appName": "Grubhub",
+    "appImage": "https://logos-world.net/wp-content/uploads/2021/03/Grubhub-Logo.jpg"
+  },
+  {
+    "appName": "DoorDash",
+    "appImage": "https://caregiversolutions.ca/wp-content/uploads/doordash-logo-web-1.jpg"
+  },
+  {
+    "appName": "Zomato",
+    "appImage": "https://onlytech.com/wp-content/uploads/2021/12/Zomato-Swiggy.jpg"
+  },
+  {
+    "appName": "Just Eat",
+    "appImage": "https://1000logos.net/wp-content/uploads/2021/12/Just-Eat-logo.png"
+  },
+  {
+    "appName": "Postmates",
+    "appImage": "https://logos-world.net/wp-content/uploads/2021/02/Postmates-Logo.png"
+  },
+  {
+    "appName": "Swiggy",
+    "appImage": "https://1000logos.net/wp-content/uploads/2021/05/Swiggy-logo.png"
+  },
+  {
+    "appName": "Deliveroo",
+    "appImage": "https://1000logos.net/wp-content/uploads/2020/10/Deliveroo-logo.png"
+  },
+  {
+    "appName": "SkipTheDishes",
+    "appImage": "https://pbs.twimg.com/media/DeoLvYXWAAIOI_U.jpg"
+  }
 ]
