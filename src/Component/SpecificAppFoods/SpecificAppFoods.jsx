@@ -8,25 +8,22 @@ const SpecificAppFoods = () => {
   const { user } = useContext(AuthContext);
   const specificFoodsLoader = useLoaderData();
   console.log(specificFoodsLoader);
-  const [showmodal, setShowmodal] = useState(false);
 
-  const handleAppFoodOrder = (e) => {
-    setShowmodal(true);
-  };
+  const [userInfo, setUserInfo] = useState({ email: "", date: "" });
 
   const handleUserInfo = (e) => {
     e.preventDefault();
     const email = e.target.email.value;
     const date = e.target.date.value;
-    const borrowUserInfo = { email, date, ...specificFoodsLoader };
-    setShowmodal(false);
+    setUserInfo({ email, date });
+    console.log(userInfo);
+  };
+
+  const handleAppFoodOrder = (food) => {
     axios
       .post("http://localhost:4000/appFoodsOrder", {
-        email: user.email,
-        date: borrowUserInfo.date,
-        food_image: specificFoodsLoader.food_image,
-        appName: specificFoodsLoader.appName,
-        quantity: specificFoodsLoader.quantity,
+        userEmail: user.email,
+        food,
       })
       .then((response) => {
         console.log(response.data);
@@ -34,19 +31,8 @@ const SpecificAppFoods = () => {
           title: "Successfully order confirmed",
           confirmButtonText: "Okay",
         });
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-        Swal.fire({
-          title: "Error",
-          text: "An error occurred while placing the order.",
-          icon: "error",
-          confirmButtonText: "Okay",
-        });
       });
   };
-
- 
 
   return (
     <div>
@@ -76,7 +62,7 @@ const SpecificAppFoods = () => {
                 </form>
 
                 <div
-                  onClick={handleAppFoodOrder}
+                  onClick={() => handleAppFoodOrder(specific)}
                   className="border rounded-full bg-white p-1 m-3"
                 >
                   <button>Order Now</button>

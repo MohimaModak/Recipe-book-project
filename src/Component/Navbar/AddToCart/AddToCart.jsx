@@ -10,31 +10,21 @@ const AddToCart = () => {
   }, []);
 
   return (
-    <div className="mt-5">
-      <table className="min-w-full border rounded overflow-hidden">
-        <thead className="bg-gray-800 text-white">
-          <tr>
-            <th className="py-2 px-4">Image</th>
-            <th className="py-2 px-4">Name</th>
-            <th className="py-2 px-4">App Name</th>
-          </tr>
-        </thead>
-        <tbody>
-          {cart.map((item) => (
-            <tr key={item._id}>
-              <td className="py-2 px-4">
-                <img
-                  src={item.food_image}
-                  alt={item.Name}
-                  className="w-10 h-10 rounded-full"
-                />
-              </td>
-              <td className="py-2 px-4">{item.Name}</td>
-              <td className="py-2 px-4">{item.appName}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div className="flex items-center mt-5">
+      {cart.map((item) => (
+        <div key={item._id}>
+          <div className="py-2 px-4">{item.userEmail}</div>
+          <div className="py-2 px-4">
+            <img
+              src={item.food.food_image}
+              alt={item.food.Name}
+              className="w-10 h-10 rounded-full"
+            />
+          </div>
+          <div className="py-2 px-4">{item.food.Name}</div>
+          <div className="py-2 px-4">{item.food.appName}</div>
+        </div>
+      ))}
     </div>
   );
 };
