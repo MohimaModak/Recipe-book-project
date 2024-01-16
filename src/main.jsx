@@ -23,6 +23,7 @@ import AddToCart from "./Component/Navbar/AddToCart/AddToCart.jsx";
 import Login from "./Component/Login/Login.jsx";
 import AuthProvider from "./Component/AuthProvider/AuthProvider.jsx";
 import SignUp from "./Component/SingUp/SingUp.jsx";
+import PrivaRoute from "./Component/PrivateRoute/PrivateRoute.jsx";
 
 const router = createBrowserRouter([
   {
@@ -87,7 +88,12 @@ const router = createBrowserRouter([
 
       {
         path: "/SpecificAppFoods/:appName",
-        element: <SpecificAppFoods></SpecificAppFoods>,
+        element: (
+          <PrivaRoute>
+            {" "}
+            <SpecificAppFoods></SpecificAppFoods>
+          </PrivaRoute>
+        ),
         loader: ({ params }) =>
           fetch(`http://localhost:4000/SpecificAppFoods/${params.appName}`),
       },
@@ -97,7 +103,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/AddToCart",
-        element: <AddToCart></AddToCart>,
+        element: (
+          <PrivaRoute>
+            <AddToCart></AddToCart>
+          </PrivaRoute>
+        ),
       },
       {
         path: "/FoodApps",

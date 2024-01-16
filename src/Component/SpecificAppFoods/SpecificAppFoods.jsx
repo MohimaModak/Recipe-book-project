@@ -35,12 +35,12 @@ const SpecificAppFoods = () => {
   };
 
   return (
-    <div>
+    <div className="bg-red-50 p-16 rounded-2xl">
       <h1>SpecificAppFoods {specificFoodsLoader.length}</h1>
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5 ">
         {specificFoodsLoader.map((specific) => (
-          <div key={specific._id}>
-            <div className="border bg-gray-50 rounded-md">
+          <div key={specific._id} >
+            <div className="border rounded-2xl shadow-2xl">
               <img
                 src={specific.food_image}
                 alt={specific.name}
@@ -49,16 +49,22 @@ const SpecificAppFoods = () => {
               <div className="p-2 text-center font-bold">
                 <h1>{specific.appName}</h1>
                 <h1>{specific.Name}</h1>
+                <h1>{specific.price} $</h1>
 
                 <form onSubmit={handleUserInfo}>
                   <input
                     type="text"
-                    className="border-2 rounded-full"
+                    className="border-2 rounded-full text-center"
                     name="email"
                     value={user.email}
                     required
                   />
-                  <input type="date" name="date" required />
+                  <input
+                    type="date"
+                    name="date"
+                    className="border-2 mt-2 rounded-full text-center"
+                    required
+                  />
                 </form>
 
                 <div

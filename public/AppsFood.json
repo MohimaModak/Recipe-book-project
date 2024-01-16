@@ -1,83 +1,250 @@
 [
-    {
-      "appName": "Foodpanda",
-      "Name": "Pasta",
-      "food_image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1704602189~exp=1704602789~hmac=ba8be154df2b539984d20eeac88cfcba789014df6a937bba8a45b8e5b07f014a"
-    },
-    {
-      "appName": "Uber Eats",
-      "Name": "Sandwich",
-      "food_image": "https://img.freepik.com/free-photo/side-view-sandwich-with-baked-potato-sauce_176474-2510.jpg?w=740&t=st=1704602510~exp=1704603110~hmac=5ca87bc83f73c65ccbc08b4d121a3d3f5400d0fb99bbf9e1c64cce9bb5e56e2e"
-    },
-    {
-      "appName": "Grubhub",
-      "Name": "Pancake",
-      "food_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "DoorDash",
-      "Name": "Oats",
-      "food_image": "https://images.pexels.com/photos/2310553/pexels-photo-2310553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "Zomato",
-      "Name": "Waffles",
-      "food_image": "https://images.pexels.com/photos/131056/pexels-photo-131056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "Just Eat",
-      "Name": "Dosa With Aloo Gobi",
-      "food_image": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?w=740&t=st=1704602635~exp=1704603235~hmac=f8331557912af25cb63a2a9d9f5309c00e0585712a10dc78bee4d16d5d36fa09"
-    },
-    {
-      "appName": "Postmates",
-      "Name": "Rice With Vegetable",
-      "food_image": "https://img.freepik.com/free-photo/top-view-pakistan-food-arrangement_23-2148821544.jpg?w=740&t=st=1704601941~exp=1704602541~hmac=9a85fb781c6f234a127c09bf41e0e2f63dfc3e7927090bed660cffeda8636ad0"
-    },
-    {
-      "appName": "Swiggy",
-      "Name": "Tea",
-      "food_image": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-    {
-      "appName": "Deliveroo",
-      "Name": "Biryani",
-      "food_image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "SkipTheDishes",
-      "Name": "Burger",
-      "food_image": "https://img.freepik.com/free-photo/delicious-burgers-us-labor-day_23-2150378715.jpg?w=740&t=st=1704602424~exp=1704603024~hmac=2d005107851a9c46cdd6820fdb86a98bd161dd3b07f81f3dceee7fc971ca219f"
-    },
-    {
-      "appName": "Foodpanda",
-      "Name": "Rice And Vegetable",
-      "food_image": "https://images.pexels.com/photos/2942320/pexels-photo-2942320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "Uber Eats",
-      "Name": "Rice And Chicken Fry",
-      "food_image": "https://img.freepik.com/free-photo/pilaf-with-chicken-meat-cherry-salt-plate-wooden-kitchen-towel_176474-7814.jpg?w=740&t=st=1704602272~exp=1704602872~hmac=e85beca132acdefc3ae535561d0d5f4f32dfe56a389aded83791bc95fecfd946"
-    },
-    {
-      "appName": "Grubhub",
-      "Name": "Soup",
-      "food_image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "DoorDash",
-      "Name": "Salad",
-      "food_image": "https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      "appName": "Zomato",
-      "Name": "Fish With Salad",
-      "food_image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-    {
-      "appName": "Just Eat",
-      "Name": "Steak",
-      "food_image": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1260"
-    }
-  ]
-  
+  {
+    "_id": "659cd1d748fe180b0051a6db",
+    "appName": "Foodpanda",
+    "Name": "Pasta",
+    "food_image": "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","price": 96
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6dc",
+    "appName": "Uber Eats",
+    "Name": "Sandwich",
+    "food_image": "https://images.unsplash.com/photo-1639667852145-466e29aa49fd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","price": 125
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6dd",
+    "appName": "Grubhub",
+    "Name": "Pancake",
+    "food_image": "https://images.pexels.com/photos/718739/pexels-photo-718739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","price": 136
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6de",
+    "appName": "DoorDash",
+    "Name": "Oats",
+    "food_image": "https://images.pexels.com/photos/2310553/pexels-photo-2310553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","price": 56
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6df",
+    "appName": "Zomato",
+    "Name": "Waffles",
+    "food_image": "https://images.pexels.com/photos/221063/pexels-photo-221063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 136
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e0",
+    "appName": "Just Eat",
+    "Name": "Dosa With Aloo Gobi",
+    "food_image": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79118.jpg?w=740&t=st=1705385847~exp=1705386447~hmac=a7f84b4ae1b0d9582d1afd1f0bab4ca9c52f1983acf316e0992632484967ad25",
+    "price": 59
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e1",
+    "appName": "Postmates",
+    "Name": "Rice With Vegetable",
+    "food_image": "https://img.freepik.com/free-photo/leaf-green-thailand-delicious-basil_1203-5876.jpg?w=740&t=st=1705385904~exp=1705386504~hmac=a7453602292b1b0f75170af6222be199b26d60b20ab91b4e9fccac75c78776b1",
+    "price": 169
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e2",
+    "appName": "Swiggy",
+    "Name": "Tea",
+    "food_image": "https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 150
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e3",
+    "appName": "Deliveroo",
+    "Name": "Biryani",
+    "food_image": "https://img.freepik.com/premium-photo/mutton-biryani-food-photography_162831-2.jpg?w=740",
+    "price": 148
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e4",
+    "appName": "SkipTheDishes",
+    "Name": "Burger",
+    "food_image": "https://img.freepik.com/free-photo/grilled-cheeseburger-fries-cola-classic-american-meal-generated-by-artificial-intelligence_188544-130021.jpg?t=st=1705386046~exp=1705389646~hmac=d01675f0a6c04b95211ffa022d76b8ea28af010b285eb00ec02d21636b8466b2&w=826",
+    "price": 146
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e5",
+    "appName": "Foodpanda",
+    "Name": "Rajma chawal And Chicken",
+    "food_image": "https://img.freepik.com/premium-photo/arabic-food-kabsa-with-chicken-almonds-closeup-plate-generative-ai_779468-4840.jpg",
+    "price": 136
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e6",
+    "appName": "Uber Eats",
+    "Name": "Chicken Fry",
+    "food_image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1705386666~exp=1705387266~hmac=ed95b35f5589985b684630ca41396d087fa31e38e238c429da602f867b3006be",
+    "price": 10.99
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e7",
+    "appName": "Grubhub",
+    "Name": "Soup",
+    "food_image": "https://img.freepik.com/free-photo/steaming-vegetable-soup-vintage-crockery-bowl-generated-by-ai_188544-10261.jpg?w=826&t=st=1705386702~exp=1705387302~hmac=08172e94c33d7c550f82bbe18159df420be2d32a7622984e46f9526ff3bdecc0",
+    "price": 10
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e8",
+    "appName": "DoorDash",
+    "Name": "Salad",
+    "food_image": "https://img.freepik.com/free-photo/top-view-homemade-delicious-salad-with-many-ingredients-plate-black-green-mix-colors-background_179666-20005.jpg?w=740&t=st=1705386733~exp=1705387333~hmac=50f3c6cf6367d645da66a939e5a46b2a515d00fc2f207a463cc243ac1cb23085",
+    "price": 26.9
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6e9",
+    "appName": "Zomato",
+    "Name": "Fish Fry",
+    "food_image": "https://img.freepik.com/free-photo/fried-fish-carp-fresh-vegetable-salad-wooden-table_2829-19923.jpg?w=740&t=st=1705386778~exp=1705387378~hmac=42de34b3004d6e3bfa37c75815304d0bf0eee85f29d9c4707aba9b817550b35d",
+    "price": 63.99
+  },
+  {
+    "_id": "659cd1d748fe180b0051a6ea",
+    "appName": "Just Eat",
+    "Name": "Steak",
+    "food_image": "https://img.freepik.com/free-photo/juicy-grilled-meat-with-fire-ai-generative_123827-23464.jpg?w=740&t=st=1705386821~exp=1705387421~hmac=7c2290614155ce3ab4f2beb7150222c95b894a6d5b15a8c96e8e60a736b6d7ca",
+    "price": 30.56
+  },
+  {
+    "_id": "659e270548fe180b00a32da2",
+    "appName": "Foodpanda",
+    "Name": "Wine",
+    "food_image": "https://img.freepik.com/premium-photo/wine-cheese-table_93675-120393.jpg?w=740",
+    "price": 10.99
+  },
+  {
+    "_id": "659e270548fe180b00a32da3",
+    "appName": "Uber Eats",
+    "Name": "Paella",
+    "food_image": "https://img.freepik.com/premium-photo/paella-traditional-spanish-dish-against-bright-white-background_917664-84855.jpg?w=740",
+    "price": 8.99
+  },
+  {
+    "_id": "659e270548fe180b00a32da4",
+    "appName": "Grubhub",
+    "Name": "Pizza Napoletana",
+    "food_image": "https://img.freepik.com/free-photo/mixed-pizza-with-various-ingridients_140725-3790.jpg?w=740&t=st=1705386996~exp=1705387596~hmac=e399c94d219de42c1eaece6af83eb2dfa0407c241d2c147efbbc48def08de190",
+    "price": 12.5
+  },
+  {
+    "_id": "659e270548fe180b00a32da5",
+    "appName": "DoorDash",
+    "Name": "Oats",
+    "food_image": "https://images.pexels.com/photos/2310553/pexels-photo-2310553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 9.99
+  },
+  {
+    "_id": "659e270548fe180b00a32da6",
+    "appName": "Zomato",
+    "Name": "Kimchi",
+    "food_image": "https://images.pexels.com/photos/2313682/pexels-photo-2313682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 11.99
+  },
+  {
+    "_id": "659e270548fe180b00a32da7",
+    "appName": "Just Eat",
+    "Name": "French Fries",
+    "food_image": "https://images.pexels.com/photos/2725744/pexels-photo-2725744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 13.99
+  },
+  {
+    "_id": "659e270548fe180b00a32da8",
+    "appName": "Postmates",
+    "Name": "Onion Soup",
+    "food_image": "https://img.freepik.com/free-photo/tomato-soup-with-green-table_140725-2447.jpg?w=740&t=st=1705387211~exp=1705387811~hmac=b82d48c540ba71b8fa66f60763f737c8057c1db3392e41f03199535ddcd2695e",
+    "price": 10.49
+  },
+  {
+    "_id": "659e270548fe180b00a32da9",
+    "appName": "Swiggy",
+    "Name": "Ramen",
+    "food_image": "https://img.freepik.com/free-photo/gourmet-ramen-noodles-steaming-bowl-generated-by-ai_188544-22769.jpg?t=st=1705386756~exp=1705390356~hmac=030664fa07bee9dae8c9e5120a0f18cd180907844dbdb8ff6b4ecfc067e3226e&w=826",
+    "price": 2.99
+  },
+  {
+    "_id": "659e270548fe180b00a32daa",
+    "appName": "Deliveroo",
+    "Name": "Nachos",
+    "food_image": "https://img.freepik.com/free-photo/fresh-guacamole-tortilla-chip-delicious-mexican-appetizer-generated-by-artificial-intelligence_188544-110652.jpg?t=st=1705387337~exp=1705390937~hmac=e2db2ca598ac25170abd53bf04f245b89e3b8235a97b7f6f066c6011b97d1c13&w=826",
+    "price": 15.99
+  },
+  {
+    "_id": "659e270548fe180b00a32dab",
+    "appName": "SkipTheDishes",
+    "Name": "Cookies",
+    "food_image": "https://img.freepik.com/free-photo/delicious-cookies-arrangement_23-2150707201.jpg?t=st=1705387383~exp=1705390983~hmac=f6d7d5408a08b6b3d7b3fe61f94de69129354ae8e8bb346b070cc721d48bbdff&w=740",
+    "price": 7.99
+  },
+  {
+    "_id": "659e270548fe180b00a32dac",
+    "appName": "Foodpanda",
+    "Name": "Chicken Alfredo Pasta",
+    "price": 14.99,
+    "food_image": "https://images.pexels.com/photos/2697229/pexels-photo-2697229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "_id": "659e270548fe180b00a32dad",
+    "appName": "Uber Eats",
+    "Name": "Margherita Pizza",
+    "price": 11.5,
+    "food_image": "https://img.freepik.com/free-photo/pizza_144627-39500.jpg?w=740&t=st=1705387467~exp=1705388067~hmac=c7acfc17684e30638287eb733e49ae873cd5c0422c78c92c5e1bf2228eb4064f"
+  },
+  {
+    "_id": "659e270548fe180b00a32dae",
+    "appName": "Grubhub",
+    "Name": "Caesar Salad",
+    "price": 8.99,
+    "food_image": "https://img.freepik.com/free-photo/sliced-chicken-pieces-along-with-fresh-vegetables-red-wine-inside-white-plate_140725-14609.jpg?w=740&t=st=1705387505~exp=1705388105~hmac=7953e9ed61aa78ab19e00371dca595bb1a05f0fcd228c7395f5d06791a3b7a7d"
+  },
+  {
+    "_id": "659e270548fe180b00a32daf",
+    "appName": "DoorDash",
+    "Name": "Peking Duck",
+    "price": 10.49,
+    "food_image": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=740&t=st=1705387556~exp=1705388156~hmac=8476e2e922d840283cb57818ebfdcc4d080c74899d2771daf451517e049aee2a"
+  },
+  {
+    "_id": "659e270548fe180b00a32db0",
+    "appName": "Zomato",
+    "Name": "Tom Yum",
+    "price": 12.99,
+    "food_image": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38147.jpg?w=740&t=st=1705387598~exp=1705388198~hmac=213ecddcdadd97da15e932e0648273ee2e2f0c18e2722c93da09e78fb2329bdc"
+  },
+  {
+    "_id": "659e270548fe180b00a32db1",
+    "appName": "Just Eat",
+    "Name": "Pad Thai",
+    "price": 7.49,
+    "food_image": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26576.jpg?w=740&t=st=1705387655~exp=1705388255~hmac=a84da1ef24e0abac839eb2653feaa843f8892fb5ca469e41ca8b682b32c6a1ac"
+  },
+  {
+    "_id": "659e270548fe180b00a32db2",
+    "appName": "Postmates",
+    "Name": "Grilled Salmon",
+    "price": 16.99,
+    "food_image": "https://img.freepik.com/free-photo/top-view-pakistan-food-arrangement_23-2148821544.jpg?w=740&t=st=1704601941~exp=1704602541~hmac=9a85fb781c6f234a127c09bf41e0e2f63dfc3e7927090bed660cffeda8636ad0"
+  },
+  {
+    "_id": "659e270548fe180b00a32db3",
+    "appName": "Swiggy",
+    "Name": "Chocholate Cake",
+    "price": 13.75,
+    "food_image": "https://images.pexels.com/photos/5172006/pexels-photo-5172006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "_id": "659e270548fe180b00a32db4",
+    "appName": "Deliveroo",
+    "Name": "Shrimp Scampi",
+    "price": 15.5,
+    "food_image": "https://images.pexels.com/photos/8697539/pexels-photo-8697539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "_id": "659e270548fe180b00a32db5",
+    "appName": "SkipTheDishes",
+    "Name": "Sushi",
+    "price": 9.25,
+    "food_image": "https://img.freepik.com/free-photo/freshness-plate-gourmet-seafood-maki-sushi-avocado-sashimi-generated-by-artificial-intelligence_25030-66337.jpg?w=826&t=st=1705390742~exp=1705391342~hmac=ea4c90e6501b288b1cebc8ecbe6f80024cd068e57d97b561f3807bbe2e82affa"
+  }
+]

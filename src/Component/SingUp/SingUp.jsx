@@ -8,8 +8,8 @@ import { AuthContext } from "../AuthProvider/AuthProvider";
 import { updateProfile } from "firebase/auth";
 
 const SignUp = () => {
-//   const publicAxios = AxiosPublic();
-//   console.log(publicAxios);
+  //   const publicAxios = AxiosPublic();
+  //   console.log(publicAxios);
 
   const { creatUser, signInWithGoogle } = useContext(AuthContext);
   console.log(creatUser, signInWithGoogle);
@@ -64,45 +64,38 @@ const SignUp = () => {
       });
   };
 
-    const handleGoogle = () => {
-      signInWithGoogle()
-        .then((result) => {
-          console.log(result.user);
-          navigate(location?.state ? location.state : "/");
-          Swal.fire("User Created Successfully");
-        })
-        .catch((error) => {
-          console.error(error);
-        });
-    };
+  const handleGoogle = () => {
+    signInWithGoogle()
+      .then((result) => {
+        console.log(result.user);
+        navigate(location?.state ? location.state : "/");
+        Swal.fire("User Created Successfully");
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  };
 
   return (
-    <div className=" text-blue-900 signfont bg-teal-100">
-      <div>
-        <img
-          src="https://media.istockphoto.com/id/1276581591/vector/cute-simple-seamless-pattern-with-paw-prints.jpg?s=612x612&w=0&k=20&c=qRxqN8NX0Q0VkLOOj0NCysIZZ37328M4W2Kze2Xofro="
-          className="w-full hidden sm:block"
-        />
-      </div>
-      <div className="flex justify-center items-center inset-0 z-30 absolute">
+    <div>
+      <div className="relative">
         <div>
           <img
-            src="https://images-workbench.99static.com/Y36QGDgTHvHs5QSqgzMaJ5-gpgw=/77x24:889x836/fit-in/500x500/filters:fill(white,true):format(webp)/http://s3.amazonaws.com/projects-files/28/2897/289739/8f25deb5-bb38-46c5-904b-23de07c4c108.png"
-            className="hidden sm:block"
+            src="https://cdn.pixabay.com/photo/2016/03/23/15/00/ice-cream-1274894_1280.jpg"
+            className="object-cover w-full h-[610px] rounded-2xl"
           />
         </div>
-
-        <div className="">
+        <div className="absolute flex justify-center items-center inset-0 text-center">
           <div className="hero min-h-screen">
             <div className="hero-content flex-col lg:flex-row-reverse">
-              <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl back border">
+              <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl back">
                 <form
                   onSubmit={handleSignup}
                   className="card-body font-semibold grid grid-cols-2"
                 >
                   <div className="form-control ">
                     <label className="label">
-                      <span className="label-text">Full Name</span>
+                      <span className="label-text text-white">Full Name</span>
                     </label>
                     <input
                       type="text"
@@ -113,7 +106,7 @@ const SignUp = () => {
                   </div>
                   <div className="form-control">
                     <label className="label">
-                      <span className="label-text">Email</span>
+                      <span className="label-text text-white">Email</span>
                     </label>
                     <input
                       type="text"
@@ -124,7 +117,7 @@ const SignUp = () => {
                   </div>
                   <div className="form-control">
                     <label className="label">
-                      <span className="label-text">Photo</span>
+                      <span className="label-text text-white">Photo</span>
                     </label>
                     <input
                       type="text"
@@ -135,7 +128,7 @@ const SignUp = () => {
                   </div>
                   <div className="form-control">
                     <label className="label">
-                      <span className="label-text">Password</span>
+                      <span className="label-text text-white">Password</span>
                     </label>
                     <input
                       type="password"
@@ -149,7 +142,7 @@ const SignUp = () => {
                     <button className="input input-bordered">Sign up</button>
                   </div>
 
-                  <div className="flex justify-center items-center text-center form-control lg:col-span-2 font-bold">
+                  <div className="flex justify-center items-center text-center form-control lg:col-span-2 font-bold text-white">
                     Sign in with{" "}
                     <span
                       onClick={handleGoogle}
@@ -160,7 +153,7 @@ const SignUp = () => {
                   </div>
 
                   <div className="text-center form-control lg:col-span-2 font-bold p-2">
-                    <p className="">
+                    <p className="text-white">
                       Already Have Account Please <br />
                       <Link className="underline uppercase" to={"/Login"}>
                         Login

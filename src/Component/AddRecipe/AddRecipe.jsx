@@ -18,7 +18,6 @@ const AddRecipe = () => {
       photo,
       ingredients,
       instructions,
-
       duration,
     };
     console.log(addedRecipe);
@@ -34,98 +33,103 @@ const AddRecipe = () => {
   };
 
   return (
-    <div>
-      <div className="video-container relative">
+    <div className=" bg-gray-50 p-16">
+      <div className="sm:gap-10 md:flex items-center justify-evenly">
         <div>
-          <video autoPlay loop muted playsInline className="video">
-            <source src={video} className="video w-full" />
-          </video>
-          <div className="outline-violet-400"></div>
+          <img
+            src="https://images.pexels.com/photos/2611824/pexels-photo-2611824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            className="rounded-3xl mb-6"
+          />
+          {/* <h1 className="font-bold text-3xl">Welcome all home chefs</h1>
+          <p className="font-semibold">
+            We invite you to become a part of our culinary community by sharing
+            your favorite recipe. Let your kitchen expertise shine and inspire
+            foodies around the globe.
+          </p> */}
         </div>
-
-        <div className="absolute flex justify-center items-center inset-0">
+        <div>
           <form
             onSubmit={handleAddRecipe}
-            className=" font-semibold background"
+            className="border text-teal-400 shadow-xl rounded-3xl p-16 font-semibold background"
           >
-            <div className="flex justify-center items-center gap-5">
+            <div className="">
               <div className="form-control">
                 <label className="label ">
-                  <span className="label-text text-white">Recipe name</span>
+                  <span className="label-text text-xl text-teal-400">Recipe name</span>
                 </label>
                 <input
                   type="text"
                   placeholder="name"
                   name="name"
-                  className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs "
+                  className="input shadow-lg"
                 />
               </div>
 
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Photo</span>
+                  <span className="label-text text-xl text-teal-400">Photo</span>
                 </label>
                 <input
                   type="text"
                   placeholder="photo"
                   name="photo"
-                  className="input input-bordered "
+                  className="input shadow-lg"
                   required
                 />
               </div>
             </div>
-            <div className="flex justify-center items-center gap-5">
+            <div className="">
               {" "}
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Ingredients</span>
+                  <span className="label-text text-xl text-teal-400">Ingredients</span>
                 </label>
                 <input
                   type="text"
                   placeholder="ingredients"
                   name="ingredients"
-                  className="input input-bordered "
+                  className="input shadow-lg"
                   required
                 />
               </div>
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Duration</span>
+                  <span className="label-text text-xl text-teal-400">Duration</span>
                 </label>
                 <input
                   type="number"
                   placeholder="duration"
                   name="duration"
-                  className="input input-bordered "
+                  className="input shadow-lg"
                   required
                 />
               </div>
             </div>
 
-            <div className="flex justify-center items-center gap-5">
+            <div className="">
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Instructions</span>
+                  <span className="label-text text-xl text-teal-400">Instructions</span>
                 </label>
                 <input
                   type="text"
                   placeholder="instructions"
                   name="instructions"
-                  className="input input-bordered "
+                  className="input shadow-lg"
                   required
                 />
               </div>
 
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-white">Submit</span>
+                  <span className="label-text text-xl text-teal-400">Submit</span>
                 </label>
                 <input
                   type="submit"
                   value="Submit"
                   placeholder="submit"
                   name="submit"
-                  className="input input-bordered "
+                  className="input shadow-lg"
                   required
                 />
               </div>

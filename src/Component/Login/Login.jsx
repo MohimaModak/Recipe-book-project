@@ -60,11 +60,11 @@ const Login = () => {
 
   return (
     <div>
-      <div className="relative  text-white">
+      <div className="relative">
         <div>
           <img
-            src="https://png.pngtree.com/background/20210709/original/pngtree-pet-shop-lovely-cartoon-moe-picture-image_932563.jpg"
-            className="object-cover w-full h-[610px] "
+            src="https://images.pexels.com/photos/1294943/pexels-photo-1294943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            className="object-cover w-full h-[610px] rounded-2xl"
           />
         </div>
         <div className="absolute flex justify-center items-center inset-0 text-center">
@@ -73,23 +73,23 @@ const Login = () => {
               <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl back">
                 <form
                   onSubmit={handleLogIn}
-                  className="card-body text-white font-semibold lg:grid grid-cols-2"
+                  className="card-body text-gray-500 font-semibold lg:grid grid-cols-2"
                 >
                   <div className="form-control">
-                    <label className="label text-white">
-                      <span className="label-text text-white">Email</span>
+                    <label className="label text-gray-500">
+                      <span className="label-text text-gray-500">Email</span>
                     </label>
                     <input
                       type="text"
                       placeholder="email"
                       name="email"
-                      className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs text-white"
+                      className="input input-bordered shadow-2xl  px-1 py-1 rounded-md w-full max-w-xs text-gray-500"
                     />
                   </div>
 
                   <div className="form-control">
                     <label className="label">
-                      <span className="label-text text-white">Password</span>
+                      <span className="label-text text-gray-500">Password</span>
                     </label>
                     <input
                       type="password"
@@ -109,7 +109,7 @@ const Login = () => {
                     Sign in with{" "}
                     <span
                       onClick={handleGoogle}
-                      className="text-2xl cursor-pointer text-white "
+                      className="text-2xl cursor-pointer text-gray-500 "
                     >
                       <AiOutlineGoogle></AiOutlineGoogle>
                     </span>
@@ -119,7 +119,7 @@ const Login = () => {
                     <p className="">
                       If you are new please <br />
                       <Link
-                        className="underline uppercase text-white"
+                        className="underline uppercase text-gray-500"
                         to={"/SignUp"}
                       >
                         Sign-Up
