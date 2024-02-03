@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-
+import "./TypeOfFoods.css"
 const TypeOfFoods = ({ foodType }) => {
   const [typeOfFood, setTypeOfFood] = useState([]);
   const [filterTypeOfFood, setfilterTypeOfFood] = useState([]);
@@ -25,21 +25,33 @@ const TypeOfFoods = ({ foodType }) => {
 
   return (
     <div>
-      <div className="cursor-pointer grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      <div className="cursor-pointer grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-16">
         {filterTypeOfFood.map((type) => {
           return (
             <Link to={`/DifferentFoodsDetails/${type._id}`}>
-              <div className="relative">
-                <img
-                  src={type.image}
-                  className="sm:w-200 md:h-180 lg:h-190 rounded-md md:w-260 lg:w-300 hover:scale-150"
-                />
-
-                <div className="flex justify-center items-center absolute inset-0 opacity-0 hover:opacity-100 backdrop-blur-xl transition-transform  duration-500">
-                  <div className="text-center font-bold p-2 text-white">
-                    <h1>{type.type}</h1>
-                    <h1>{type.food_name}</h1>
+              <div className="flex justify-center items-center">
+                <div className="shadow-2xl back rounded-md back h-[210px] w-[220px] hover:h-[320px] transition-all duration-500">
+                  <div className="flex justify-center items-center">
+                    <img
+                      src={type.image}
+                      className="rounded-full w-[200px] h-[200px] transition-transform transform hover:scale-105 image shadow-2xl p-1.5"
+                    />
                   </div>
+
+                  <div className="">
+                    <div className="flex justify-center items-center show">
+                      <div className="text-center p-2 ">
+                        <h1 className="timeIcon  text-blue-300 text-3xl">
+                          {type.type}
+                        </h1>
+                        <h1 className="foodPara text-blue-300">
+                          {type.food_name}
+                        </h1>
+                      </div>
+                    </div>
+                  </div>
+
+
                 </div>
               </div>
             </Link>

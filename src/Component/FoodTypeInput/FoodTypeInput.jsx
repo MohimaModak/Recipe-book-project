@@ -12,7 +12,7 @@ const FoodTypeInput = () => {
     <div>
       <div>
         <label>
-          <h1 className="text-4xl font-bold text-center mb-12">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl  text-center p-8 text-orange-300 timeIcon">
             Different Type Of Foods
           </h1>
         </label>
@@ -20,7 +20,7 @@ const FoodTypeInput = () => {
         <div className="flex justify-center items-center pb-8">
           <select
             onChange={handleTypeOfFood}
-            className="border bg-gray-100 px-20 text-xl rounded-full py-1"
+            className="shadow-2xl foodPara text-blue-300 text-center text-2xl"
             name=""
             id=""
           >

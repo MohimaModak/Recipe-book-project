@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./CountryInput.css";
 import CountryWiseFood from "../CountryWiseFood/CountryWiseFood";
 const CountryInput = () => {
   const [countryWiseInput, setCountryWiseInput] = useState("All");
@@ -8,59 +9,59 @@ const CountryInput = () => {
   };
 
   return (
-    <div >
+    <div>
       <div>
-        <label >
-          <h1 className="text-4xl font-bold text-center pb-8">Select Country Wise Foods{" "}</h1>
+        <label>
+          <h1 className="text-3xl md:text-5xl  text-center pb-8 text-orange-300 fooddetails">
+            Select Country Wise Foods{" "}
+          </h1>
         </label>
         <br />
         <div className="flex justify-center items-center pb-8">
-        <select
-          onChange={handlecountryWiseInput}
-          className="border bg-gray-100 px-20 text-xl rounded-full py-1"
-          name=""
-          id=""
-        >
-          <option className="font-bold border" value="All">
-            All
-          </option>
-          <option className="font-bold border" value="Japan">
-            Japan
-          </option>
-          <option className="font-bold border" value="France">
-            France
-          </option>
-          <option className="font-bold border" value="Mexico">
-            Mexico
-          </option>
-          <option className="font-bold border" value="Thailand">
-            Thailand
-          </option>
-          <option className="font-bold border" value="India">
-            India
-          </option>
-          <option className="font-bold border" value="Bangladesh">
-            Bangladesh
-          </option>
-          <option className="font-bold border" value="USA">
-            USA
-          </option>
-          <option className="font-bold border" value="Denmark">
-            Denmark
-          </option>
-          <option className="font-bold border" value="Australia">
-            Australia
-          </option>
-          <option className="font-bold border" value="Canada">
-            Canada
-          </option>
-          <option className="font-bold border" value="Germany">
-            Germany
-          </option>
-          <option className="font-bold border" value="Finland">
-            Finland
-          </option>
-        </select>
+          <select
+            onChange={handlecountryWiseInput}
+            className="shadow-2xl foodPara text-blue-300 text-center text-2xl"
+          >
+            <option  value="All">
+              All
+            </option>
+            <option  value="Japan">
+              Japan
+            </option>
+            <option  value="France">
+              France
+            </option>
+            <option  value="Mexico">
+              Mexico
+            </option>
+            <option  value="Thailand">
+              Thailand
+            </option>
+            <option  value="India">
+              India
+            </option>
+            <option  value="Bangladesh">
+              Bangladesh
+            </option>
+            <option  value="USA">
+              USA
+            </option>
+            <option  value="Denmark">
+              Denmark
+            </option>
+            <option  value="Australia">
+              Australia
+            </option>
+            <option  value="Canada">
+              Canada
+            </option>
+            <option  value="Germany">
+              Germany
+            </option>
+            <option  value="Finland">
+              Finland
+            </option>
+          </select>
         </div>
         <CountryWiseFood countryWiseInput={countryWiseInput} />
       </div>

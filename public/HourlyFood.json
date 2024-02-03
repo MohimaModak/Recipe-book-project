@@ -2,101 +2,141 @@
   {
     "Hour": "Breakfast",
     "Name": "Pasta",
+    "instructions": "Pasta is a versatile and popular Italian dish made from wheat and water, often served with various sauces, vegetables, and meats. It comes in various shapes and sizes, allowing for a wide range of culinary creativity.",
+    "introductions": "Boil water in a large pot and add salt. Cook the pasta according to the package instructions until it reaches an al dente texture.In a separate pan, prepare your favorite sauce (such as tomato, Alfredo, pesto, etc.).Drain the cooked pasta and mix it thoroughly with the prepared sauce.Optionally, enhance the dish by adding vegetables, meats, or cheese for extra flavor and texture.Serve the pasta hot, garnished with fresh herbs or grated Parmesan for a delightful finishing touch.",
     "food_image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=740&t=st=1704602189~exp=1704602789~hmac=ba8be154df2b539984d20eeac88cfcba789014df6a937bba8a45b8e5b07f014a"
   },
   {
     "Hour": "Breakfast",
     "Name": "Sandwitch",
+    "instructions": " sandwich is a convenient and customizable meal consisting of layers of ingredients sandwiched between slices of bread. It's a quick and satisfying option for any meal.",
+    "introductions": "Choose your favorite bread and spread condiments like ma or mustard.Add a protein (e.g., turkey, chicken, ham) and cheese.Layer with fresh vegetables (lettuce, tomatoes, onions).Optionally, include spreads like pesto or avocado for added flavor.Top with another slice of bread and press gently.Slice the sandwich diagonally for a classic presentation.",
     "food_image": "https://img.freepik.com/free-photo/side-view-sandwich-with-baked-potato-sauce_176474-2510.jpg?w=740&t=st=1704602510~exp=1704603110~hmac=5ca87bc83f73c65ccbc08b4d121a3d3f5400d0fb99bbf9e1c64cce9bb5e56e2e"
   },
   {
     "Hour": "Breakfast",
     "Name": "Pancake",
+    "instructions": "Pancakes are a delicious breakfast option made from a batter of flour, milk, eggs, and baking powder. They're often served with syrup, fruits, or other toppings.",
+    "introductions": "Mix flour, milk, eggs, and baking powder to form a smooth batter. Heat a griddle or pan and grease it with butter or oil. Pour a ladle of batter onto the hot surface. Cook until bubbles form on the surface, then flip and cook the other side. Repeat until you have a stack of fluffy pancakes. Serve with maple syrup, fresh fruits, or whipped cream.",
     "food_image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Breakfast",
     "Name": "Oats",
+    "instructions": "Oats are a nutritious and fiber-rich whole grain commonly eaten as a breakfast cereal. They can be prepared in various ways, such as oatmeal or overnight oats.",
+    "introductions": "Combine oats with milk or water in a saucepan.Cook over medium heat, stirring occasionally, until the oats are tender.Add sweeteners like honey, maple syrup, or fruits for flavor.Customize with nuts, seeds, or dried fruits for texture.Serve warm and enjoy a hearty and nutritious breakfast.",
     "food_image": "https://images.pexels.com/photos/2310553/pexels-photo-2310553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Breakfast",
     "Name": "Waffles",
+    "instructions": "Waffles are a delightful breakfast treat made from a batter that is cooked in a waffle iron, resulting in a crispy exterior and a soft interior.",
+    "introductions": "Mix flour, baking powder, eggs, milk, and melted butter make the batter.Preheat your waffle iron and grease it.Pour the batter onto the iron and close the lid.Cook until golden brown and crisp.Top with syrup, whipped cream, or fresh fruits before serving.",
     "food_image": "https://images.pexels.com/photos/131056/pexels-photo-131056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Breakfast",
     "Name": "Dosa With Alo Gobi",
+    "instructions": "Dosa is a thin, crispy, and fermented crepe-like dish from South India, typically made from rice and urad dal. Aloo Gobi is a North Indian dish made with potatoes (aloo) and cauliflower (gobi).",
+    "introductions": "For Dosa batter, soak rice and urad dal, blend intosmooth batter, and ferment overnight.Heat a griddle or non-stick pan and spread a thin layer of dosa batter.Cook until the edges lift and the dosa is crispy.For Aloo Gobi, sauté mustard seeds, cumin, onions, potatoes, and cauliflower.Add turmeric, coriander, cumin powder, and cook until vegetables are tender.Serve the Aloo Gobi on the dosa and fold it like a wrap.",
     "food_image": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?w=740&t=st=1704602635~exp=1704603235~hmac=f8331557912af25cb63a2a9d9f5309c00e0585712a10dc78bee4d16d5d36fa09"
   },
   {
     "Hour": "Lunch",
     "Name": "Rice With Vegetable",
+    "instructions": "Rice with Vegetable is a wholesome and nutritious dish that combines fluffy rice with a colorful assortment of vegetables. This dish is not only delicious but also a great way to incorporate a variety of veggies into your meal.",
+    "introductions": "Wash and cook rice according to package instructions.In a pan, sauté a mix of your favorite vegetables (carrots, peas, bell peppers, etc.) until tender.Season with salt, pepper, and any preferred herbs or spices.Mix the cooked rice with the sautéed vegetables.Garnish with fresh herbs and serve as a delightful side or main dish.",
     "food_image": "https://img.freepik.com/free-photo/top-view-pakistan-food-arrangement_23-2148821544.jpg?w=740&t=st=1704601941~exp=1704602541~hmac=9a85fb781c6f234a127c09bf41e0e2f63dfc3e7927090bed660cffeda8636ad0"
   },
   {
     "Hour": "Breakfast",
     "Name": "Tea",
-    "food_image": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "instructions": "Tea is a timeless beverage enjoyed worldwide for its comforting and soothing qualities. Whether you prefer black, green, or herbal tea, the ritual of making a cup can be as enjoyable as the drink itself.",
+    "introductions": "1 tea bag (black, green, herbal, or your preferred type)\n1 cup water\nSweetener (sugar, honey, or other alternatives), to taste (optional)\nMilk or lemon (optional)\nSteps:\nBoiling Water: Start by bringing 1 cup of water to a boil in a kettle or on the stovetop. Preparing the Tea: Place a tea bag in your favorite mug. Pour the boiling water over the tea bag, ensuring it's fully submerged. Steeping: Let the tea steep for the recommended time (varies based on the type of tea).\nBlack tea: 3-5 minutes\nGreen tea: 2-3 minutes\nHerbal tea: 5 minutes.\nSweetening (Optional): Add sweetener to taste if desired. Stir well to dissolve.\nAdding Milk or Lemon (Optional): Customize your tea by adding a splash of milk for a creamy texture or a squeeze of lemon for a citrusy twist.\nRemoving the Tea Bag: Once the tea has steeped to your liking, remove the tea bag.\nEnjoying: Give your tea a final gentle stir, and enjoy your comforting cup of tea.",
+    "food_image": "https://img.freepik.com/premium-photo/coffee-cup-red-with-morning-sunshine-mountain-view_33807-519.jpg?w=740"
   },
   {
     "Hour": "Lunch",
-    "Name": "Biriyani",
+    "Name": "Biryani",
+    "instructions": "Biryani is a flavorful and aromatic dish that originated in South Asia. It typically consists of basmati rice, meat (chicken, mutton, or beef), and a blend of spices, creating a rich and satisfying one-pot meal.",
+    "introductions": "Marinate the meat with yogurt, biryani masala, and spices.\nCook basmati rice separately until partially done.\nLayer the partially cooked rice with the marinated meat in a heavy-bottomed pot.\nAdd saffron-infused milk and fried onions between the layers.\nCover and cook on low heat until the rice and meat are fully cooked.\nGarnish with fresh coriander and mint before serving this aromatic biryani.",
     "food_image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Lunch",
     "Name": "Burger",
+    "instructions": "Burgers are a classic comfort food loved worldwide. A juicy patty sandwiched between soft buns with a variety of toppings makes for a satisfying and customizable meal.",
+    "introductions": "Form ground meat into patties and season with salt and pepper.Grill or cook the patties in a pan until fully cooked.Toast the burger buns on the grill or in a toaster.Assemble the burger with lettuce, tomato cheese, and condiments of your choice.Serve the burger hot and enjoy this timeless favorite.",
     "food_image": "https://img.freepik.com/free-photo/delicious-burgers-us-labor-day_23-2150378715.jpg?w=740&t=st=1704602424~exp=1704603024~hmac=2d005107851a9c46cdd6820fdb86a98bd161dd3b07f81f3dceee7fc971ca219f"
   },
   {
     "Hour": "Lunch",
-    "Name": "Rice And Vegetable",
-    "food_image": "https://images.pexels.com/photos/2942320/pexels-photo-2942320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "Name": "Rice And Chicken Curry",
+    "instructions": "Rice with Vegetable is a wholesome and nutritious dish that combines fluffy rice with a colorful assortment of vegetables. This dish is not only delicious but also a great way to incorporate a variety of veggies into your meal.",
+    "introductions": "Wash and cook rice according to package instructions. In a pan, sauté a mix of your favorite vegetables (carrots, peas, bell peppers, etc.) until tender. Season with salt, pepper, and any preferred herbs or spices.Mix the cooked rice with the sautéed vegetables.Garnish with fresh herbs and serve as a delightful side or main dish.",
+    "food_image": "https://img.freepik.com/free-photo/indian-butter-chicken-black-bowl-wooden-table_123827-20633.jpg?w=740&t=st=1705435329~exp=1705435929~hmac=466686a32e06cc6321278c490fdb82c9fed7754393c8aac918f3cc40a0904b4a"
   },
   {
     "Hour": "Lunch",
-    "Name": "Rice And Chicken Fry",
-    "food_image": "https://img.freepik.com/free-photo/pilaf-with-chicken-meat-cherry-salt-plate-wooden-kitchen-towel_176474-7814.jpg?w=740&t=st=1704602272~exp=1704602872~hmac=e85beca132acdefc3ae535561d0d5f4f32dfe56a389aded83791bc95fecfd946"
+    "Name": "Rice And Fish",
+    "instructions": "Rice and Fish is a light and delicious dish where perfectly cooked fish complements fluffy rice. The combination of flavors makes it a delightful option for seafood enthusiasts.",
+    "introductions": "Season fish fillets with salt, pepper, and your choice of herbs.Cook rice separately until done.In a pan, sear the fish fillets until golden on both sides.Serve the fish over a bed of rice.Garnish with fresh lemon wedges and herbs for a zesty touch.",
+    "food_image": "https://img.freepik.com/free-photo/fresh-grilled-seafood-vegetables-plate-generative-ai_188544-9444.jpg?w=826&t=st=1705435517~exp=1705436117~hmac=abc0f3b082ab5a22f46b0f9fbaf477e190c0e823474e3968c10bef3fab101417"
   },
   {
     "Hour": "Dinner",
     "Name": "Soup",
+    "instructions": "Soup is a comforting and versatile dish that comes in various flavors and styles. Whether served as an appetizer or a main course, soups are a perfect choice for a hearty and nutritious meal.",
+    "introductions": "Start by sautéing onions, garlic, and vegetables in a pot.Add broth, herbs, and spices for flavor.Bring the mixture to a simmer and let it cook until vegetables are tender.Adjust seasoning to taste and serve hot.Customize with toppings like croutons or fresh herbs.",
     "food_image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
     "Name": "Salad",
+    "instructions": "Salads are a vibrant and refreshing dish that can be enjoyed as a light meal or a side. They offer a colorful array of vegetables, fruits, and proteins, providing a nutritious and satisfying option.",
+    "introductions": "Combine a mix of fresh salad greens (lettuce, spinach, arugula, etc.) in a bowl.Add a variety of vegetables, such as tomatoes, cucumbers, and bell peppers.Include proteins like grilled chicken or tofu for added substance.Dress the salad with your favorite vinaigrette or dressing.Toss the salad gently to combine all the ingredients.Garnish with nuts, seeds, or cheese for extra flavor.",
     "food_image": "https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
     "Name": "Fish With Salad",
+    "instructions": "Fish with Salad is a light and flavorful dish that combines perfectly cooked fish with a refreshing salad. It's a healthy option with a balance of protein and fresh vegetables.",
+    "introductions": "Season fish fillets with salt, pepper, and your favorite herbs.Grill or bake the fish until it's cooked through.Prepare a salad with mixed greens and a variety of vegetables.Serve the fish over the salad and drizzle with a light dressing.Garnish with lemon wedges for a burst of citrus flavor.",
     "food_image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "Hour": "Dinner",
     "Name": "Steak",
+    "instructions": "Steak is a classic and hearty dish loved for its rich flavor and tender texture. It's a satisfying choice for those looking for a substantial and indulgent meal.",
+    "introductions": "Season the steak with salt, pepper, and your preferred spices.Heat a skillet or grill to high temperature.Cook the steak to your desired level of doneness.Let the steak rest for a few minutes before slicing.Serve with a side of vegetables or potatoes for a complete meal.",
     "food_image": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
     "Name": "Oats",
+    "instructions": "Oats are a nutritious and versatile ingredient commonly used in breakfast dishes. They can be prepared in various ways to suit different tastes and dietary preferences.",
+    "introductions": "Cook oats with water or milk according to package instructions.Customize with toppings such as fruits, nuts, and honey.Add a pinch of cinnamon or vanilla for extra flavor.Experiment with savory oats by adding vegetables and spices.Enjoy a wholesome and satisfying bowl of oats for breakfast or a quick meal.",
     "food_image": "https://images.pexels.com/photos/128865/pexels-photo-128865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
     "Name": "Pie",
+    "instructions": "Pie is a delightful and comforting dessert that comes in various flavors and fillings. Whether sweet or savory, pies are a perfect treat for any occasion.",
+    "introductions": "Prepare the pie crust or use a store-bought one.Mix the filling ingredients, whether sweet (fruit, sugar) or savory (meat, vegetables).Fill the pie crust with the prepared filling.Cover with a second layer of crust or create a decorative lattice.Bake until the crust is golden and the filling is bubbling.Allow the pie to cool before slicing and serving",
     "food_image": "https://images.pexels.com/photos/2035738/pexels-photo-2035738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
-    "Name": "Peanut Past",
+    "Name": "Peanut Butter",
+    "instructions": "Peanut Butter is a versatile and delicious spread that can be enjoyed in various ways. It adds a rich and nutty flavor to both sweet and savory dishes.",
+    "introductions": "Spread peanut butter on toast or crackers for a quick snack.\nUse peanut butter as a base for smoothies or protein shakes.\nIncorporate peanut butter into baking recipes like cookies or energy bars.\nMake a classic PB&J sandwich by pairing peanut butter with your favorite jam or jelly.",
     "food_image": "https://images.pexels.com/photos/236834/pexels-photo-236834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "Hour": "Dinner",
     "Name": "strawberry With Peanut Past",
+    "instructions": "Strawberries with Peanut Butter is a delightful and nutritious snack that combines the sweetness of fresh strawberries with the richness of peanut butter.",
+    "introductions": "Wash and hull fresh strawberries.Spread a layer of peanut butter on each strawberry.Arrange the strawberries on a plate or serving tray.Optionally, drizzle with honey for added sweetness.Enjoy this simple and satisfying snack that balances fruity freshness with nutty goodness.",
     "food_image": "https://images.pexels.com/photos/11082261/pexels-photo-11082261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]

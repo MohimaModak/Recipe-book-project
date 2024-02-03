@@ -35,43 +35,55 @@ const SpecificAppFoods = () => {
   };
 
   return (
-    <div className="bg-red-50 p-16 rounded-2xl">
-      <h1>SpecificAppFoods {specificFoodsLoader.length}</h1>
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5 ">
+    <div className="flex justify-center items-center">
+      <div className="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-16 ">
         {specificFoodsLoader.map((specific) => (
-          <div key={specific._id} >
-            <div className="border rounded-2xl shadow-2xl">
-              <img
-                src={specific.food_image}
-                alt={specific.name}
-                className="rounded-t-md w-full md:h-[300px]"
-              />
-              <div className="p-2 text-center font-bold">
-                <h1>{specific.appName}</h1>
-                <h1>{specific.Name}</h1>
-                <h1>{specific.price} $</h1>
+          <div key={specific._id}>
+            <div className="shadow-2xl rounded-md back h-[220px] w-[250px] hover:h-[430px] transition-all duration-500 back">
+              <div className="flex justify-center items-center">
+                <div className="">
+                  <div className="flex justify-center items-center">
+                    <img
+                      src={specific.food_image}
+                      alt={specific.name}
+                      className="h-[200px] w-[200px] rounded-full image"
+                    />
+                  </div>
 
-                <form onSubmit={handleUserInfo}>
-                  <input
-                    type="text"
-                    className="border-2 rounded-full text-center"
-                    name="email"
-                    value={user.email}
-                    required
-                  />
-                  <input
-                    type="date"
-                    name="date"
-                    className="border-2 mt-2 rounded-full text-center"
-                    required
-                  />
-                </form>
+                  <div className="p-2 text-center show">
+                    <h1 className="timeIcon text-orange-300 text-3xl">
+                      {specific.appName}
+                    </h1>
+                    <h1 className="foodPara text-blue-300 text-xl">
+                      {specific.Name}
+                    </h1>
+                    <h1 className="foodPara text-blue-300 text-xl">
+                      {specific.price} $
+                    </h1>
 
-                <div
-                  onClick={() => handleAppFoodOrder(specific)}
-                  className="border rounded-full bg-white p-1 m-3"
-                >
-                  <button>Order Now</button>
+                    <form onSubmit={handleUserInfo}>
+                      <input
+                        type="text"
+                        className="text-center text-blue-300 foodPara"
+                        name="email"
+                        value={user.email}
+                        required
+                      />
+                      <input
+                        type="date"
+                        name="date"
+                        className="text-center text-blue-300 foodPara"
+                        required
+                      />
+                    </form>
+
+                    <div
+                      onClick={() => handleAppFoodOrder(specific)}
+                      className="border shadow-2xl rounded-full text-center text-orange-300 text-xl font-semibold foodPara px-10 py-1 m-3"
+                    >
+                      <button>Order Now</button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

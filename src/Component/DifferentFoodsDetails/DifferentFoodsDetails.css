@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&display=swap");
+.timeIcon {
+  font-family: "Satisfy", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kalam&family=Pacifico&family=Satisfy&display=swap");
+
+.foodPara {
+  font-family: "Kalam", cursive;
+}
+
+.image {
+  position: relative; /* Ensure proper positioning */
+  bottom: 0; /* Initial position */
+  transition: bottom 0.5s; /* Transition the 'bottom' property over 5 seconds */
+}
+
+.back:hover .image {
+  bottom: 45px; /* New position when hovered */
+}

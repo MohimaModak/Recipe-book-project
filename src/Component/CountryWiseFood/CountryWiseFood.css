@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&display=swap");
+.fooddetails {
+  font-family: "Satisfy", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kalam&family=Pacifico&family=Satisfy&display=swap");
+
+.navfont {
+  font-family: "Kalam", cursive;
+}
+
+.image {
+  position: relative;
+  bottom: 0;
+  transform: bottom 0.5s;
+}
+
+.back:hover .image {
+  bottom: 45px;
+}
+
+.show{
+  opacity: 0;
+}
+
+.back:hover .show{
+  opacity: 1;
+}

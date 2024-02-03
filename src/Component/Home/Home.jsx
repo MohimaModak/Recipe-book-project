@@ -53,8 +53,8 @@ const Home = () => {
             />
           </Marquee>
 
-          <h1 className="text-center font text-3xl font-medium lg:text-6xl p-3">
-            Recipe Book
+          <h1 className="text-center font text-3xl fooddetails text-orange-300 lg:text-6xl p-5 font-bold">
+            Global food
           </h1>
 
           <Marquee speed={100}>

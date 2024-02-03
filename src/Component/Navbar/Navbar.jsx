@@ -17,7 +17,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="navfont">
+    <div className="navfont text-xl text-blue-300">
       <div className="mb-10 text-center">
         <NavLink
           to="/"
@@ -62,7 +62,7 @@ const Navbar = () => {
               <img src={user.photoURL} className="w-10 h-10 p-2 rounded-full" />
               <div
                 onClick={handleLogOut}
-                className="px-3 py-1 m-10 text-white bg-red-700"
+                className="px-3 py-1 mt-3 text-white bg-red-700"
               >
                 <button>SignOut</button>
               </div>

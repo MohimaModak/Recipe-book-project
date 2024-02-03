@@ -1,0 +1,123 @@
+[
+  {
+    "foodName": "Fruit Salad",
+    "foodRecipe": "Combine a variety of fresh fruits and toss with a honey-lime dressing.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/top-view-delicious-fruit-salad-inside-plate-with-fresh-fruits-gray-fruit-tree-exotic-tropical-photo-ripe-diet_140725-109945.jpg?w=740&t=st=1706886834~exp=1706887434~hmac=97dbb3eab84cb55c2b53f899e8c39d21a0652ddde4db6926c8dab29f9672d9d3"
+  },
+  {
+    "foodName": "Classic Pancakes",
+    "foodRecipe": "Combine flour, sugar, baking powder, and eggs. Cook on a griddle.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/premium-photo/american-pancake-board-with-berries-maple-syrup-butter_945447-2393.jpg?w=740"
+  },
+  {
+    "foodName": "Vegetarian Omelette",
+    "foodRecipe": "Whisk eggs and pour into a hot pan. Add veggies and cheese. Fold and serve.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/premium-photo/classic-omelet-with-cheese-tomatoes-salad-white-plate-top-view_79830-1015.jpg?w=740"
+  },
+  {
+    "foodName": "Avocado Toast",
+    "foodRecipe": "Toast bread, spread mashed avocado, and sprinkle with salt and pepper.",
+    "hour": "breakfast",
+    "image": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "foodName": "Greek Yogurt Parfait",
+    "foodRecipe": "Layer Greek yogurt, granola, and fresh fruits in a glass. Repeat layers.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/yogurt-dessert-with-jelly-fresh-berries_661915-491.jpg?w=740&t=st=1706886653~exp=1706887253~hmac=1da4a20e3a7951eb30bed343beffe4f55084759d818ad034725952ca47950b08"
+  },
+  {
+    "foodName": "Blueberry Muffins",
+    "foodRecipe": "Mix flour, sugar, baking powder, and blueberries. Bake until golden brown.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/beautiful-delicious-dessert-blueberries-mint_23-2148718713.jpg?w=740&t=st=1706886680~exp=1706887280~hmac=c48e53e1fe06c5fdd9394554f63ed0d56379f9ed72bc4cc2070f6c747602a201"
+  },
+  {
+    "foodName": "Eggs Benedict",
+    "foodRecipe": "Poach eggs, place on an English muffin with ham, and top with hollandaise sauce.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/sandwich-with-poached-eggs-with-salmon-cream-cheese_2829-4888.jpg?w=740&t=st=1706886704~exp=1706887304~hmac=50addb222f175d971592ff0f96bff3726f494f4c1f0b9a6d3481327b805c56e7"
+  },
+  {
+    "foodName": "Smoothie Bowl",
+    "foodRecipe": "Blend frozen fruits, yogurt, and a splash of almond milk. Top with seeds and nuts.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/top-view-healthy-breakfast-bowl-with-pink-yogurt-oats-strawberries_181624-35692.jpg?w=740&t=st=1706886734~exp=1706887334~hmac=077abf2967ff75aebc04aed549913bea7c871fe5fef698c85ff08a045ec7d2f6"
+  },
+  {
+    "foodName": "Breakfast Burrito",
+    "foodRecipe": "Scramble eggs, add cooked sausage, cheese, and wrap in a tortilla.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/fresh-sandwich-cutting-board-with-healthy-tomatoes-generative-ai_188544-8108.jpg?w=740&t=st=1706886777~exp=1706887377~hmac=ce3086a78cb3eac7bfce0c997a5c33809de7c8cd7aeec226e90951c1e9a0610a"
+  },
+  {
+    "foodName": "Cinnamon French Toast",
+    "foodRecipe": "Dip bread in a mixture of eggs, milk, and cinnamon. Cook until golden brown.",
+    "hour": "breakfast",
+    "image": "https://img.freepik.com/free-photo/top-view-delicious-sweet-pastries-with-cup-tea-dark-space_140725-75925.jpg?w=740&t=st=1706886815~exp=1706887415~hmac=6c4da0712a2c0bed7af6727b9d038eb991a7e2904caef29fcfd56f08565be75c"
+  },
+
+  {
+    "foodName": "Grilled Chicken Salad",
+    "foodRecipe": "Grill chicken breasts and slice. Toss with mixed greens, cherry tomatoes, cucumber, and dressing.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/grilled-chicken-breasts-with-vegetables_23-2148189828.jpg?w=740&t=st=1706887110~exp=1706887710~hmac=effc4909c1029c05cfcb33b15421e7d271e9765c475ca7526c0c8b4851fdc330"
+  },
+  {
+    "foodName": "Pasta Primavera",
+    "foodRecipe": "Cook pasta al dente. Sauté vegetables like bell peppers, broccoli, and carrots. Toss with pasta and Parmesan cheese.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/authentic-italian-pasta_24972-2334.jpg?w=740&t=st=1706887141~exp=1706887741~hmac=3d81837b195ef09c389d30c44f9298cdcb89f9e053097e1f23aeeea4a2c6eb54"
+  },
+  {
+    "foodName": "Vegetarian Quesadillas",
+    "foodRecipe": "Spread refried beans on tortillas, add cheese, and vegetables. Fold and cook until crispy.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1706887160~exp=1706887760~hmac=fcccc3964e0e2e87e7eb5138b93acc2e16fc2632726066c66bba8524ca831d94"
+  },
+  {
+    "foodName": "Caprese Sandwich",
+    "foodRecipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves on ciabatta bread. Drizzle with balsamic glaze.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/tasteful-sandwich-made-sliced-mushrooms-tomatoes-boiled-eggs-salad_1304-2921.jpg?w=740&t=st=1706887185~exp=1706887785~hmac=90766cf733eebae6428ac63d3eb9d201d3ff466a225eb304cf0ee9ae5b77df7b"
+  },
+  {
+    "foodName": "Teriyaki Salmon",
+    "foodRecipe": "Marinate salmon fillets in teriyaki sauce. Grill or bake until cooked through. Serve with rice and steamed vegetables.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/premium-photo/two-salmon-fillets-baked-until-crispy-sprinkled-with-sesame-black-plate_341862-15199.jpg?w=740"
+  },
+  {
+    "foodName": "Mushroom Risotto",
+    "foodRecipe": "Sauté mushrooms and onions. Stir in Arborio rice and gradually add chicken broth until creamy. Top with Parmesan cheese.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/vegetarian-risotto-with-fresh-mushrooms-parmesan-cheese-generated-by-ai_188544-10223.jpg?w=826&t=st=1706887229~exp=1706887829~hmac=0f90c3f72e92082127fac14813638d4aa5cd1ce32ae65d17e58de6179d807684"
+  },
+  {
+    "foodName": "Chicken Caesar Wrap",
+    "foodRecipe": "Toss cooked chicken with Caesar dressing. Spread on a tortilla with lettuce, Parmesan cheese, and croutons. Roll up and serve.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/chicken-doner-with-gren-salad-french-fries_141793-1369.jpg?w=740&t=st=1706887249~exp=1706887849~hmac=4b46ca73bbd26010e9e014455f3b509173730e38b8b4efbf41e5c82544442f0b"
+  },
+  {
+    "foodName": "Greek Salad",
+    "foodRecipe": "Combine chopped cucumbers, tomatoes, onions, olives, and feta cheese. Dress with olive oil and lemon juice.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/premium-photo/close-up-fresh-vegetable-salad-isolated_454083-1.jpg?w=900"
+  },
+  {
+    "foodName": "Quinoa Stuffed Bell Peppers",
+    "foodRecipe": "Cook quinoa. Mix with black beans, corn, tomatoes, and spices. Stuff into halved bell peppers and bake until tender.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/top-view-cooked-bell-peppers-with-ground-meat-grey-surface-food-beef-dolma-vegetables-meal_140725-74595.jpg?w=740&t=st=1706887296~exp=1706887896~hmac=cc63b4d4bd81937517ac86350476bdc862e88fb6cdba934408946856c067531b"
+  },
+  {
+    "foodName": "Tofu Stir-Fry",
+    "foodRecipe": "Sauté tofu cubes with mixed vegetables and a stir-fry sauce. Serve over rice or noodles.",
+    "hour": "lunch",
+    "image": "https://img.freepik.com/free-photo/top-view-chicken-salad-with-vegetables-light-surface_140725-75108.jpg?w=740&t=st=1706887316~exp=1706887916~hmac=52f29a2e77d0d335d4a48ff841f7114f1fd2f3a38be50dca933ded7439278da4"
+  }
+]

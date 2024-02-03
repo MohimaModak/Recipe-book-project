@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&display=swap");
+.timeIcon {
+  font-family: "Satisfy", cursive;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kalam&family=Pacifico&family=Satisfy&display=swap");
+
+.foodPara {
+  font-family: "Kalam", cursive;
+}
+
+.image{
+  bottom: 0;
+  position: relative;
+  transition: bottom 0.5s;
+}
+
+.back:hover .image{
+  bottom: 40px;
+  
+}
+
+.show{
+  opacity: 0;
+}
+
+.back:hover .show{
+  opacity: 1;
+}
