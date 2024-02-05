@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useLoaderData } from "react-router-dom";
 import { FaRegEdit } from "react-icons/fa";
 import { AiOutlineDelete } from "react-icons/ai";
-
+import "./Recipes.css";
 const Recipes = () => {
   const allRecipe = useLoaderData();
   console.log(allRecipe);
@@ -28,43 +28,39 @@ const Recipes = () => {
 
   return (
     <div>
-      <h1 className="font-bold text-2xl text-gray-400 pb-8">
-        Recipes: {allRecipe.length}
-      </h1>
       <div>
         {deleteRecipes.map((recipe) => {
           return (
-            <div key={recipe.id}>
-              <div className="grid md:grid-cols-2 pb-10">
+            <div key={recipe.id} className="shadow-2xl rounded-md m-5 p-10">
+              <div className="grid lg:grid-cols-2">
                 <div>
-                  <img src={recipe.photo} className="lg:w-[550px] rounded-md" />
+                  <img
+                    src={recipe.photo}
+                    className="rounded-t-md rounded-b-md sm:pb-5"
+                  />
                 </div>
-                <div>
-                  <h1>
-                    <span className="font-bold text-2xl text-gray-400">
-                      Name:{" "}
-                    </span>
+                <div className="lg:pl-8">
+                  <h1 className="fooddetails text-orange-300 text-6xl">
                     {recipe.name}
                   </h1>
-                  <h1>
-                    <span className="font-bold text-2xl  text-gray-400">
-                      Ingredients:{" "}
+                  <h1 className="pt-8">
+                    <span className="fooddetails text-orange-300 text-4xl">
+                      Ingredients:
+                    </span>{" "}
+                    <span className="foodPara text-blue-400 ">
+                      {recipe.ingredients}
                     </span>
-                    {recipe.ingredients}
                   </h1>
-                  <h1>
-                    <span className="font-bold text-2xl  text-gray-400">
-                      Instructions:{" "}
+
+                  <h1 className="pt-8">
+                    <span className="fooddetails text-orange-300 text-4xl">
+                      Duration :
+                    </span>{" "}
+                    <span className="foodPara text-blue-400 text-xl">
+                      {recipe.duration} Minute
                     </span>
-                    {recipe.instructions}
                   </h1>
-                  <h1>
-                    <span className="font-bold text-2xl  text-gray-400">
-                      Duration:{" "}
-                    </span>
-                    {recipe.duration} Minute
-                  </h1>
-                  <div className="flex text-2xl mt-5  text-gray-400">
+                  <div className="flex text-4xl mt-5  text-orange-300 pt-3">
                     <Link to={`/edit/${recipe._id}`}>
                       <div className="pr-3 cursor-pointer">
                         <FaRegEdit />
@@ -80,6 +76,14 @@ const Recipes = () => {
                   </div>
                 </div>
               </div>
+              <h1 className="pt-10">
+                <span className="fooddetails text-orange-300 text-4xl">
+                  Instructions: 
+                </span>
+                <span className="foodPara text-blue-400">
+                  {recipe.instructions}
+                </span>
+              </h1>
             </div>
           );
         })}

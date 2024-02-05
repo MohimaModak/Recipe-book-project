@@ -4,14 +4,14 @@ import "./Foodloan.css";
 import FoodApps from "../FoodApps/FoodApps";
 const FoodLoan = () => {
   return (
-    <div>
-      <div className="bg-pink-50 md:flex justify-center p-10 rounded-3xl items-center">
+    <div className="bg-orange-50 rounded-md">
+      <div className=" md:flex justify-center p-10 rounded-3xl items-center">
         <div className="flex justify-center md:p-8">
           <div className="">
-            <h1 className="text-5xl sm:text-7xl md:text-6xl lg:text-7xl foodloan text-pink-500 pb-5">
+            <h1 className="text-5xl sm:text-7xl md:text-6xl lg:text-7xl fooddetails text-orange-300 pb-5">
               Food Loan
             </h1>
-            <p className="loantext font-semibold text-gray-600">
+            <p className="foodPara  text-blue-400">
               Hungry individuals facing financial constraints can access food
               through various food apps on my website. The food prices are
               displayed, and users can provide their Payoneer number, phone

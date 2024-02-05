@@ -25,10 +25,8 @@ const DifferentFoodsDetails = () => {
     });
   };
 
-  const againCopyRecipe = (foodIndex) => {
-  
-    const copy = `${setfood.image}`;
-    navigator.clipboard.writeText(copy);
+  const againCopyRecipe = (food) => {
+    navigator.clipboard.writeText(food);
     Swal.fire({
       title: "Successfully!",
       text: "Copied the recipe",
@@ -126,7 +124,13 @@ const DifferentFoodsDetails = () => {
                             {hour.foodRecipe}
                           </h1>
                           <div className="flex justify-center text-orange-300 text-3xl">
-                            <button onClick={() => againCopyRecipe(index)}>
+                            <button
+                              onClick={() =>
+                                againCopyRecipe(
+                                  `${hour.foodName},${hour.foodRecipe}`
+                                )
+                              }
+                            >
                               <BiCopy />
                             </button>
                           </div>

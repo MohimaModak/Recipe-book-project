@@ -50,12 +50,14 @@ const AddRecipe = () => {
         <div>
           <form
             onSubmit={handleAddRecipe}
-            className="border text-teal-400 shadow-xl rounded-3xl p-16 font-semibold background"
+            className="border text-orange-300 shadow-xl rounded-3xl p-16 font-semibold background"
           >
             <div className="">
               <div className="form-control">
                 <label className="label ">
-                  <span className="label-text text-xl text-teal-400">Recipe name</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Recipe name
+                  </span>
                 </label>
                 <input
                   type="text"
@@ -67,7 +69,9 @@ const AddRecipe = () => {
 
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-xl text-teal-400">Photo</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Photo
+                  </span>
                 </label>
                 <input
                   type="text"
@@ -82,7 +86,9 @@ const AddRecipe = () => {
               {" "}
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-xl text-teal-400">Ingredients</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Ingredients
+                  </span>
                 </label>
                 <input
                   type="text"
@@ -94,7 +100,9 @@ const AddRecipe = () => {
               </div>
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-xl text-teal-400">Duration</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Duration
+                  </span>
                 </label>
                 <input
                   type="number"
@@ -109,7 +117,9 @@ const AddRecipe = () => {
             <div className="">
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-xl text-teal-400">Instructions</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Instructions
+                  </span>
                 </label>
                 <input
                   type="text"
@@ -122,7 +132,9 @@ const AddRecipe = () => {
 
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text text-xl text-teal-400">Submit</span>
+                  <span className="label-text text-xl text-orange-300 fooddetails">
+                    Submit
+                  </span>
                 </label>
                 <input
                   type="submit"

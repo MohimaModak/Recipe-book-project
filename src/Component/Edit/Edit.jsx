@@ -43,41 +43,81 @@ const Edit = () => {
   };
 
   return (
-    <div>
+    <div className="flex justify-around">
+    <div className="flex justify-center items-center bg-orange-50 w-min p-5 rounded-2xl">
       <form onSubmit={handleEdit}>
-        <div className="flex justify-center items-center">
+        <div className="">
           <label className="label">
-            <span className="label-text font-bold text-xl">Recipe Name</span>
+            <span className="label-text font-bold text-2xl text-orange-300 fooddetails">
+              Recipe Name
+            </span>
           </label>
-          <input type="text" name="name" defaultValue={name} /> <br />
+          <input
+            type="text"
+            className="text-blue-400 px-2 py-1 shadow-2xl rounded-full  foodPara text-xl "
+            name="name"
+            defaultValue={name}
+          />
           <label className="label">
-            <span className="label-text font-bold text-xl">Duration</span>
+            <span className="label-text font-bold text-2xl  text-orange-300 fooddetails">
+              Duration
+            </span>
           </label>
-          <input type="number" name="duration" defaultValue={duration} /> <br />
+          <input
+            type="number"
+            className="text-blue-400 px-2 py-1  shadow-2xl rounded-full  foodPara text-xl "
+            name="duration"
+            defaultValue={duration}
+          />
         </div>
-        <div className="flex justify-center items-center">
+        <div className="">
           <label className="label">
-            <span className="label-text font-bold text-xl">Ingredients</span>
+            <span className="label-text font-bold text-2xl text-orange-300 fooddetails">
+              Ingredients
+            </span>
           </label>
-          <input type="text" name="ingredients" defaultValue={ingredients} />
-          <br />
+          <input
+            type="text"
+            className="text-blue-400 px-2 py-1 shadow-2xl rounded-full  foodPara text-xl "
+            name="ingredients"
+            defaultValue={ingredients}
+          />
           <label className="label">
-            <span className="label-text font-bold text-xl">Instructions</span>
+            <span className="label-text font-bold text-2xl text-orange-300 fooddetails">
+              Instructions
+            </span>
           </label>
-          <input type="text" name="instructions" defaultValue={instructions} />{" "}
-          <br />
+          <input
+            type="text"
+            className="text-blue-400 px-2 py-1 shadow-2xl rounded-full  foodPara text-xl "
+            name="instructions"
+            defaultValue={instructions}
+          />{" "}
         </div>
-        <div className="flex justify-center items-center">
+        <div className="">
           <label className="label">
-            <span className="label-text font-bold text-xl">Photo</span>
+            <span className="label-text font-bold text-2xl text-orange-300 fooddetails">
+              Photo
+            </span>
           </label>
-          <input type="text" name="photo" defaultValue={photo} /> <br />
-          <label className="label">
-            <span className="label-text font-bold text-xl">Edit Recipe</span>
-          </label>
-          <input type="submit" value="Update" />
+          <input
+            type="text"
+            className="text-blue-400 px-2 py-1 shadow-2xl rounded-full  foodPara text-xl "
+            name="photo"
+            defaultValue={photo}
+          />
+          <br />
+          <div className="flex justify-center pt-5">
+            <input
+              className="px-5 py-1 text-xl font-semibold rounded-full bg-orange-200 foodPara text-blue-400"
+              type="submit"
+              value="Update"
+            />
+          </div>
         </div>
       </form>
+    </div>
+   
     </div>
   );
 };
