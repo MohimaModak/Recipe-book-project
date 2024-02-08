@@ -4,13 +4,9 @@ import { AiOutlineGoogle } from "react-icons/ai";
 import "./Singup.css";
 import Swal from "sweetalert2";
 import { AuthContext } from "../AuthProvider/AuthProvider";
-// import AxiosPublic from "../AxiosPublic/AxiosPublic";
 import { updateProfile } from "firebase/auth";
 
 const SignUp = () => {
-  //   const publicAxios = AxiosPublic();
-  //   console.log(publicAxios);
-
   const { creatUser, signInWithGoogle } = useContext(AuthContext);
   console.log(creatUser, signInWithGoogle);
   const navigate = useNavigate();
